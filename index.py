@@ -76,15 +76,16 @@ class IndexFiles(object):
                     path = os.path.join(root, filename)
                     file = open(path,encoding='utf-8')
                     contents = file.read()
-                    # titles = re.findall("<Title>(.*?)</Title>", contents)
+                    titles = str(re.findall("<Title>(.*?)</Title>", contents))
+                    # titles=str(titles)
                     file.close()
                     doc = Document()
                     doc.add(Field("name", filename, t1))
                     doc.add(Field("path", root, t1))
                     if len(contents) > 0:
                         doc.add(Field("contents", contents, t2))
-                    # if len(titles) > 0:
-                    #     doc.add(Field("titles", titles, t2))
+                    if len(titles) > 0:
+                        doc.add(Field("titles", titles, t2))
                     else:
                         print ("warning: no content in %s" % filename)
                     writer.addDocument(doc)

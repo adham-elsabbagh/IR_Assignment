@@ -26,7 +26,7 @@ def run(searcher, analyzer):
             return
 
         print("Searching for:", command)
-        query = QueryParser("contents", analyzer).parse(command)
+        query = QueryParser("titles", analyzer).parse(command)
         scoreDocs = searcher.search(query,100).scoreDocs
         print("%s total matching documents." % len(scoreDocs))
 
