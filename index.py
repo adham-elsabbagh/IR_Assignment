@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-INDEX_DIR = "IndexFiles.index"
+INDEX_DIR = "IndexFiles"
 import re
 import sys, os, lucene, threading, time
 from datetime import datetime
@@ -63,7 +63,7 @@ class IndexFiles(object):
         t1.setIndexOptions(IndexOptions.DOCS_AND_FREQS)
 
         t2 = FieldType()
-        t2.setStored(False)
+        t2.setStored(True)
         t2.setTokenized(True)
         t2.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS)
 
@@ -77,7 +77,6 @@ class IndexFiles(object):
                     file = open(path,encoding='utf-8')
                     contents = file.read()
                     titles = str(re.findall("<Title>(.*?)</Title>", contents))
-                    # titles=str(titles)
                     file.close()
                     doc = Document()
                     doc.add(Field("name", filename, t1))

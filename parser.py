@@ -5,10 +5,11 @@ def cleaning_data():
         if filename.endswith('.xml'):
             if not filename.endswith('.xml'):
                 continue
-            print("adding", filename)
+            print("cleaning", filename)
             with open(os.path.join(dir, filename),'r') as f:
                 #this regex for cleaning the files from XML entities that resulted from encoding the file  and XML tags
-                cleanfile=re.sub('<[^>]+>|(lt;)|(gt;)|/p[^>]|p[^>]|/code[^>]|^[ \t]+|&(#[xX][0-9a-fA-F]+|#\d+|[lg]t|amp|apos|quot);', "", f.read())
+                # cleanfile=re.sub('<[^>]+>|(lt;)|(gt;)|/p[^>]|p[^>]|/code[^>]|^[ \t]+|&(#[xX][0-9a-fA-F]+|#\d+|[lg]t|amp|apos|quot);', "", f.read())
+                cleanfile=re.sub('(lt;)|(gt;)|/p[^>]|p[^>]|/code[^>]|^[ \t]+|&(#[xX][0-9a-fA-F]+|#\d+|[lg]t|amp|apos|quot);', "", f.read())
                 with open(os.path.join(dir, filename),'w') as r:
                     content = r.write(cleanfile)
         else:print('sorry this directory does not have any xml files')

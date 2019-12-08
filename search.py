@@ -1,6 +1,6 @@
 INDEX_DIR = "IndexFiles.index"
 
-import sys, os, lucene,lxml
+import sys, os, lucene
 
 from java.nio.file import Paths
 from org.apache.lucene.analysis.standard import StandardAnalyzer
@@ -27,12 +27,13 @@ def run(searcher, analyzer):
 
         print("Searching for:", command)
         query = QueryParser("titles", analyzer).parse(command)
-        scoreDocs = searcher.search(query,100).scoreDocs
+        scoreDocs = searcher.search(query,5).scoreDocs
         print("%s total matching documents." % len(scoreDocs))
 
         for scoreDoc in scoreDocs:
             doc = searcher.doc(scoreDoc.doc)
             print('path:', doc.get("path"), 'name:', doc.get("name"))
+            # print('content: \n',doc.get('contents'))
 
 
 if __name__ == '__main__':
