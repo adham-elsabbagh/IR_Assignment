@@ -1,4 +1,4 @@
-INDEX_DIR = "IndexFiles.index"
+INDEX_DIR = "IndexFiles"
 
 import sys, os, lucene
 

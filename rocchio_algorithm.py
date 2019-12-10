@@ -8,7 +8,7 @@ import lucene
 from os import path, listdir
 import numpy
 import math
-import pickle
+import _pickle as pickle
 
 # from java.io import File
 from org.apache.lucene.document import Document, Field, StringField, TextField
@@ -45,19 +45,20 @@ class node_data:
 
 
 # Loading the dictionary from the pickle file
-x = open("vocabulary.p", "r")
-words_database = pickle.load(x)
-x.close()
+with open("vocabulary.p", "rb")as x:
+
+    words_database = pickle.load(x,encoding='utf-8')
+    x.close()
 
 # Loading the dictionary from the pickle file
-y = open("doc_data.p", "r")
-doc_node_list = pickle.load(y)
-y.close()
+with open("doc_data.p", "rb") as y:
+    doc_node_list = pickle.load(y,encoding='utf-8')
+    y.close()
 
 # Loading the dictionary from the doc id hashmap
-z = open("doc_id_data.p", "r")
-doc_id = pickle.load(z)
-z.close()
+with open("doc_id_data.p", "rb") as z:
+    doc_id = pickle.load(z,encoding='utf-8')
+    z.close()
 
 # doc_id = {}
 
@@ -65,7 +66,7 @@ z.close()
 
 # List of docs from lucene search
 lucene_output_docs = {}
-
+itr=0
 # Queries tf-idf values
 query_tf_idf = {}
 
@@ -81,132 +82,84 @@ def create_document(file_name):
     file.close()  # close the file pointer
     return doc
 
-
 # Initialize lucene and the JVM
 lucene.initVM(vmargs=['-Djava.awt.headless=true'])
-
 # Create a new directory. As a SimpleFSDirectory is rather slow ...
 directory = RAMDirectory()  # ... we'll use a RAMDirectory!
-# directory = SimpleFSDirectory(File("lucene_index/"))
-# directory = SimpleFSDirectory("IR_Assignment1/fd")
+# directory = SimpleFSDirectory()
 
 # Get and configure an IndexWriter
-analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
-analyzer = LimitTokenCountAnalyzer(analyzer, 250000)
-config = IndexWriterConfig(Version.LUCENE_CURRENT, analyzer)
-
+analyzer = StandardAnalyzer()
+analyzer = LimitTokenCountAnalyzer(analyzer, 1048576)
+config = IndexWriterConfig(analyzer)
 writer = IndexWriter(directory, config)
-
 print ("Number of indexed documents: %d\n" % writer.numDocs())
-
 for input_file in listdir(INPUT_DIR):  # iterate over all input files
     # print "Current file:", input_file
     doc = create_document(input_file)  # call the create_document function
     writer.addDocument(doc)  # add the document to the IndexWriter
-
 # print "\nNumber of indexed documents =  %d" % writer.numDocs()
 writer.close()
-
 
 # This text processing module is wrt to every query in "query.txt"
 def Query_processing_module():
     query_node_list = []
-
     # file_list = os.listdir("/home/sid/Downloads/Assignement2_IR/Topic"+str(i+1))
     queries = open("query.txt", 'r')
-
-    # temp_tkn = nltk.data.load('tokenizers/punkt/english.pickle')
-
-    # iterate thru every file
-    i = 0
-
+    i=0
     for query in queries:
         node = node_data(query)
         query_node_list.append(node)
-        # query_id
-        i += 1
-
+        i+=1
+        # print(query_node_list)
     return query_node_list
-
-
 # End of function
-
 
 # Get word list from given text
 def getwordlist(node):
     sent = node.sentence
-
     # sent = sent[5:]
     sent = sent.lower()
     sent = re.sub("[^a-zA-Z]+", " ", sent)
-
     # print sent + "\n"
-
     sent = sent.strip()
     word_list = sent.split(" ")
-
     stop_words = nltk.corpus.stopwords.words('english')
-
     # word_list1 = filter(lambda x: x not in stop_words, word_list)
     # word_list1 = [x for x in word_list if x not in stop_words]
-
     word_list2 = filter(lambda x: x != '', word_list)
-
     return word_list2
-
-
 # end of function
-
 
 # Module to generate tf-idf vectors corresponding to the sentences
 def generate_tf_idf_vectors_for_query(node_list):
     # Calculation of tf
     for node in node_list:
-
         word_list = getwordlist(node)
-
         # print word_list
-
         # print word_list[0] + "in generating tf-idf-vector-forquery"
         # word_list.pop(0)
-
         word_set = set(word_list)
-
         for word in word_set:
             node.tf[word] = 0
-
         # finding out the tf-vector of the node
         for word in word_list:
             node.tf[word] += 1
-
     # Calculation of idf
-
     N = len(words_database)
-
     nodes_to_be_removed = []
-
     for node in node_list:
-
         word_list = getwordlist(node)
-
         word_set = set(word_list)
-
         for word in word_set:
-
             if word in words_database:
-
                 ni = words_database[word]
                 # print str(ni) + "\n"
                 node.idf[word] = math.log(N * 1.0 / ni)
-
             else:
                 node.idf[word] = 100000
-
     return node_list
-
-
 # End of function
-
 
 # Function to return lucene search results
 def search_loop(searcher, analyzer):
@@ -215,11 +168,12 @@ def search_loop(searcher, analyzer):
     queries = open("query.txt", 'r')
 
     # reading every query from the input file
+
     for command in queries:
 
         x = word_tokenize(command)
 
-        query_no = int(x[0])
+        query_no = float(x[0])
 
         lucene_output_docs[query_no] = []
 
@@ -227,9 +181,9 @@ def search_loop(searcher, analyzer):
 
         temp_q = temp_q[5:]
 
-        # print "search loop:  "+ temp_q + "\n"
+        print ("search loop:  "+ temp_q + "\n")
 
-        query = QueryParser(Version.LUCENE_CURRENT, "text", analyzer).parse(temp_q)
+        query = QueryParser("text", analyzer).parse(temp_q)
 
         # retrieving top 50 results for each query
         scoreDocs = searcher.search(query, 50).scoreDocs
@@ -244,7 +198,7 @@ def search_loop(searcher, analyzer):
 
             lucene_output_docs[query_no].append(temp_str)
 
-            output_file2.write(str(query_no) + " " + temp_str + "\n")
+            output_file2.write(str(int(query_no)) + " " + temp_str + "\n")
 
         # Results retrieved
 
@@ -277,7 +231,7 @@ def modified_search_loop(searcher, analyzer, query_list):
 
         # print "search loop:  "+ temp_q + "\n"
 
-        query = QueryParser(Version.LUCENE_CURRENT, "text", analyzer).parse(temp_q)
+        query = QueryParser("text", analyzer).parse(temp_q)
 
         # retrieving top 50 results for each query
         scoreDocs = searcher.search(query, 50).scoreDocs
@@ -311,7 +265,7 @@ def recall_precision_calc(predicted_output_data, filename):
 
     query = open("query.txt", "r")
 
-    original_output = open("output.txt", "r")
+    original_output = open("lucene_output.txt", "r")
 
     predicted_output_table = {}
 
@@ -419,7 +373,7 @@ if __name__ == '__main__':
     searcher = IndexSearcher(DirectoryReader.open(directory))
 
     # Create a new retrieving analyzer
-    analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
+    analyzer = StandardAnalyzer()
 
     search_loop(searcher, analyzer)
 

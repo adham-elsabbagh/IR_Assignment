@@ -70,10 +70,7 @@ def Doc_processing_module():
 def Query_processing_module():
     query_node_list = []
     # file_list = os.listdir("/home/sid/Downloads/Assignement2_IR/Topic"+str(i+1))
-    print("Hit enter with no input to quit.")
-    queries = input("Query:")
-    if queries == '':
-        return
+    queries = open("query.txt", 'r')
     # iterate thru every file
     for query in queries:
         node = node_data(query)
