@@ -66,8 +66,13 @@ class IndexFiles(object):
         t2.setStored(True)
         t2.setTokenized(True)
         t2.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS)
-
+        itr=100
         for root, dirnames, filenames in os.walk(root):
+            # with open('output.txt', 'w') as output:
+            #     for f in filenames:
+            #         output.write(str(str(itr) + '  ' + f + "\n"))
+            #         print('adding file name: ', f)
+            #         itr += 1
             for filename in filenames:
                 if not filename.endswith('.xml'):
                     continue
@@ -85,6 +90,7 @@ class IndexFiles(object):
                         doc.add(Field("contents", contents, t2))
                     if len(titles) > 0:
                         doc.add(Field("titles", titles, t2))
+
                     else:
                         print ("warning: no content in %s" % filename)
                     writer.addDocument(doc)

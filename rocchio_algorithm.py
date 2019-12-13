@@ -9,6 +9,8 @@ from os import path, listdir
 import numpy
 import math
 import _pickle as pickle
+nltk.download('punkt')
+nltk.download('stopwords')
 
 # from java.io import File
 from org.apache.lucene.document import Document, Field, StringField, TextField
@@ -43,11 +45,151 @@ class node_data:
         self.tf = {}
         self.idf = {}
 
+# vocabulary
+words_database = {}
+doc_id = {}
+
+
+# This text processing module is wrt to every doc in the folder "alldocs"
+def Doc_processing_module():
+    file_node_list = []
+    # file_list = os.listdir("/home/sid/Downloads/Assignement2_IR/Topic"+str(i+1))
+    file_list = os.listdir(dir)
+
+    temp_tkn = nltk.data.load('tokenizers/punkt/english.pickle')
+    i = 0
+    # iterate thru every file
+    for file in file_list:
+        if not file.endswith('.xml'):
+            continue
+        # print file
+        doc_id[file] = i
+        # file_ob = open("/home/sid/Downloads/Assignement2_IR/Topic"+str(i+1)+"/"+file,"r")
+        file_ob = open(dir+ "/" + file, "r")
+        # concatenating all the text in the folder to one entity
+        file_text = file_ob.read()
+        # final_text = word_by_word_processing(file_text)
+        # print (file_text + "\n\n\n")
+        node = node_data(file_text)
+        file_node_list.append(node)
+        i += 1
+    with open("doc_id_data.p", "wb") as doc1_data:
+        pickle.dump(doc_id, doc1_data)
+    return file_node_list
+# End of function
+
+# This text processing module is wrt to every query in "query.txt"
+def Query_processing_module():
+    query_node_list = []
+    # file_list = os.listdir("/home/sid/Downloads/Assignement2_IR/Topic"+str(i+1))
+    queries = open("query.txt", 'r')
+    # iterate thru every file
+    for query in queries:
+        node = node_data(query)
+        query_node_list.append(node)
+        # print(query_node_list)
+    return query_node_list
+
+# End of function
+
+# Get word list from given text
+def getwordlist(node):
+    sent = node.sentence
+    # sent = sent[5:]
+    sent = sent.lower()
+    sent = re.sub("[^a-zA-Z]+", " ", sent)
+    # print (sent + "\n")
+    sent = sent.strip()
+    word_list = sent.split(" ")
+    stop_words = nltk.corpus.stopwords.words('english')
+    # word_list1 = filter(lambda x: x not in stop_words, word_list)
+    # word_list1 = [x for x in word_list if x not in stop_words]
+    word_list2 = filter(lambda x: x != '', word_list)
+    return word_list2
+# end of function
+
+# Module to generate tf-idf vectors corresponding to the sentences
+def generate_tf_idf_vectors(node_list):
+    # Dictionary for storing the entire vocabulary
+    # Vocabulary stores the no of nodes in which a
+    # particular word appears
+    # Calculation of tf
+    for node in node_list:
+        word_list = getwordlist(node)
+        word_set = set(word_list)
+        for word in word_set:
+            node.tf[word] = 0
+            if word not in words_database:
+                words_database[word] = 1
+            else:
+                words_database[word] += 1
+        # finding out the tf-vector of the node
+        for word in word_list:
+            node.tf[word] += 1
+    # Calculation of idf
+    i = 0
+    N = len(words_database)
+    nodes_to_be_removed = []
+    for node in node_list:
+        word_list = getwordlist(node)
+        word_set = set(word_list)
+        if len(word_set) == 0:
+            nodes_to_be_removed.append(i)
+        for word in word_set:
+            ni = words_database[word]
+            # print("word = "+ word + "  N = "+ str(N)+ " ni = "+str(ni))
+            node.idf[word] = math.log(N * 1.0 / ni)
+        i = i + 1
+    # end of for loop
+    print("size of nodes to be removed =  "+str(len(nodes_to_be_removed)))
+    # Removing invalid nodes (nodes containing invalid elements)
+    # final_node_list = []
+    # l = len(node_list)
+    # for i in range(0,l):
+    # 	if i not in nodes_to_be_removed:
+    # 		final_node_list.append(node_list[i])
+    with open("doc_data.p", "wb") as doc_data:
+        pickle.dump(node_list, doc_data)
+    return node_list
+# End of function
+
+# Module to generate tf-idf vectors corresponding to the sentences
+def generate_tf_idf_vectors_for_query(node_list):
+    # Calculation of tf
+    for node in node_list:
+        word_list = getwordlist(node)
+        # print str(word_list[0])+" is the indeccs"
+        # wordlist.pop(0)
+        word_set = set(word_list)
+        for word in word_set:
+            node.tf[word] = 0
+        # finding out the tf-vector of the node
+        for word in word_list:
+            node.tf[word] += 1
+    # Calculation of idf
+    i = 0
+    N = len(words_database)
+    nodes_to_be_removed = []
+    for node in node_list:
+        word_list = getwordlist(node)
+        word_set = set(word_list)
+        for word in word_set:
+            if word in words_database:
+                ni = words_database[word]
+                # print str(ni) + "\n"
+                node.idf[word] = math.log(N * 1.0 / ni)
+            else:
+                node.idf[word] = 10000
+        i = i + 1
+    # print("Size of vocabulary : "+str(len(words_database))+"\n\n")
+    return node_list
+# End of function
+
 
 # Loading the dictionary from the pickle file
 with open("vocabulary.p", "rb")as x:
 
-    words_database = pickle.load(x,encoding='utf-8')
+    words_databases = pickle.load(x,encoding='utf-8')
     x.close()
 
 # Loading the dictionary from the pickle file
@@ -57,7 +199,7 @@ with open("doc_data.p", "rb") as y:
 
 # Loading the dictionary from the doc id hashmap
 with open("doc_id_data.p", "rb") as z:
-    doc_id = pickle.load(z,encoding='utf-8')
+    doc_ids = pickle.load(z,encoding='utf-8')
     z.close()
 
 # doc_id = {}
@@ -101,65 +243,6 @@ for input_file in listdir(INPUT_DIR):  # iterate over all input files
 # print "\nNumber of indexed documents =  %d" % writer.numDocs()
 writer.close()
 
-# This text processing module is wrt to every query in "query.txt"
-def Query_processing_module():
-    query_node_list = []
-    # file_list = os.listdir("/home/sid/Downloads/Assignement2_IR/Topic"+str(i+1))
-    queries = open("query.txt", 'r')
-    i=0
-    for query in queries:
-        node = node_data(query)
-        query_node_list.append(node)
-        i+=1
-        # print(query_node_list)
-    return query_node_list
-# End of function
-
-# Get word list from given text
-def getwordlist(node):
-    sent = node.sentence
-    # sent = sent[5:]
-    sent = sent.lower()
-    sent = re.sub("[^a-zA-Z]+", " ", sent)
-    # print sent + "\n"
-    sent = sent.strip()
-    word_list = sent.split(" ")
-    stop_words = nltk.corpus.stopwords.words('english')
-    # word_list1 = filter(lambda x: x not in stop_words, word_list)
-    # word_list1 = [x for x in word_list if x not in stop_words]
-    word_list2 = filter(lambda x: x != '', word_list)
-    return word_list2
-# end of function
-
-# Module to generate tf-idf vectors corresponding to the sentences
-def generate_tf_idf_vectors_for_query(node_list):
-    # Calculation of tf
-    for node in node_list:
-        word_list = getwordlist(node)
-        # print word_list
-        # print word_list[0] + "in generating tf-idf-vector-forquery"
-        # word_list.pop(0)
-        word_set = set(word_list)
-        for word in word_set:
-            node.tf[word] = 0
-        # finding out the tf-vector of the node
-        for word in word_list:
-            node.tf[word] += 1
-    # Calculation of idf
-    N = len(words_database)
-    nodes_to_be_removed = []
-    for node in node_list:
-        word_list = getwordlist(node)
-        word_set = set(word_list)
-        for word in word_set:
-            if word in words_database:
-                ni = words_database[word]
-                # print str(ni) + "\n"
-                node.idf[word] = math.log(N * 1.0 / ni)
-            else:
-                node.idf[word] = 100000
-    return node_list
-# End of function
 
 # Function to return lucene search results
 def search_loop(searcher, analyzer):
@@ -212,7 +295,6 @@ def search_loop(searcher, analyzer):
 
 # End of function
 
-
 def modified_search_loop(searcher, analyzer, query_list):
     # opening the query file
 
@@ -252,11 +334,9 @@ def modified_search_loop(searcher, analyzer, query_list):
 
         output_file2.close()
 
-
 # End of outer for loop
 
 # End of function
-
 
 # Recall and precision calculation
 def recall_precision_calc(predicted_output_data, filename):
@@ -284,7 +364,7 @@ def recall_precision_calc(predicted_output_data, filename):
     precision_recall_output = open(filename, "a")
 
     precision_recall_output.write("Scores will be of the following order :\n")
-    precision_recall_output.write("  Precision  Recall  F-measure\n")
+    precision_recall_output.write(" Precision  Recall  F-measure\n")
 
     query_ID = []
 
@@ -369,6 +449,20 @@ def recall_precision_calc(predicted_output_data, filename):
 # main function
 if __name__ == '__main__':
 
+    dir = sys.argv[1]
+    if len(sys.argv) < 2:
+        print(dir.__doc__)
+        sys.exit(1)
+    # Documents processing and tf vector and idf vector generation
+    doc_list = Doc_processing_module()
+    doc_node_list = generate_tf_idf_vectors(doc_list)
+    # Query processing and tf vector and idf vector generation
+    query_list = Query_processing_module()
+    query_node_list = generate_tf_idf_vectors_for_query(query_list)
+    # Storing word vocabulary in a file
+    with open("vocabulary.p", "wb") as voc_data:
+        pickle.dump(words_database, voc_data)
+
     # Create a searcher for the above defined Directory
     searcher = IndexSearcher(DirectoryReader.open(directory))
 
@@ -392,7 +486,7 @@ if __name__ == '__main__':
 
     query_list = Query_processing_module()
 
-    query_node_list = generate_tf_idf_vectors_for_query(query_list)
+    # query_node_list = generate_tf_idf_vectors_for_query(query_list)
 
     print("Query processing and tf-idf over\n")
 
@@ -424,7 +518,7 @@ if __name__ == '__main__':
             if query_node.idf[word] != 100000:
                 query_tf_idf[i][word] = math.log(1 + query_node.tf[word]) * query_node.idf[word]
 
-        b_by_delta_dr = 0.065
+        b_by_delta_dr = 0.65
 
         # Retrieving only the top 10 documents from lucene output
         j = 0
@@ -433,7 +527,7 @@ if __name__ == '__main__':
         for doc in lucene_output_docs[query_no]:
 
             str_doc = str(doc)
-            doc_index = doc_id[str_doc]
+            doc_index = doc_ids[str_doc]
 
             cur_doc_node = doc_node_list[doc_index]
 
