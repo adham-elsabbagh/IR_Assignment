@@ -73,7 +73,7 @@ if __name__ == '__main__':
     base_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
     directory = SimpleFSDirectory(Paths.get(os.path.join(base_dir, INDEX_DIR)))
     searcher = IndexSearcher(DirectoryReader.open(directory))
-    # searcher.setSimilarity(TFIDFSimilarity())
+    searcher.setSimilarity(BM25Similarity())
     analyzer = StandardAnalyzer()
     run(searcher, analyzer)
     del searcher
