@@ -14,7 +14,13 @@ from org.apache.lucene.search import \
 from org.apache.pylucene.search import PythonSimpleCollector
 from org.apache.lucene.search.similarities import BM25Similarity,TFIDFSimilarity,ClassicSimilarity
 
-
+import nltk
+import re
+from nltk.tokenize import word_tokenize
+import lucene
+from os import path, listdir
+import numpy
+import math
 """
 This script is loosely based on the Lucene (java implementation) demo class
 org.apache.lucene.demo.SearchFiles.  It will prompt for a search query, then it
@@ -24,48 +30,65 @@ search query entered against the 'contents' field.  It will then display the
 search.close() is currently commented out because it causes a stack overflow in
 some cases.
 """
-# class SimpleSimilarity(PythonClassicSimilarity):
-#
-#     def lengthNorm(self, numTerms):
-#         return 1.0
-#
-#     def tf(self, freq):
-#         return freq
-#
-#     def sloppyFreq(self, distance):
-#         return 2.0
-#
-#     def idf(self, docFreq, numDocs):
-#         return 1.0
-#
-#     def idfExplain(self, collectionStats, termStats):
-#
-#         return Explanation.match(1.0, "inexplicable", [])
-
 
 def run(searcher, analyzer):
+    global retrived_scoreDocs, relevant_scoreDocs
     while True:
         print("Hit enter with no input to quit.")
-        command = input("Query:")
-        if command == '':
+        relevant_command = input("Relevant Query:")
+        non_relevant_command = input("NoN Relevant Query:")
+        if relevant_command == '' and non_relevant_command =='' :
             return
+
     # with open("newfile.txt", 'r') as queries,open('lucene_output_search_query.txt','w')as q:
     #     line=queries.readline()
         # while line:
-        print("Searching for:", command)
-        # line=queries.readline()
-        query = QueryParser("contents", analyzer).parse(command)
-        # searcher.setSimilarity(SimpleSimilarity)
-        scoreDocs = searcher.search(query,50).scoreDocs
-        print("%s total matching documents." % len(scoreDocs))
+        if relevant_command:
+            print("Searching for relevant documents:", relevant_command)
+            # line=queries.readline()
+            query = QueryParser("contents", analyzer).parse(relevant_command)
+            Max=100
+            scoreDocs = searcher.search(query,Max).scoreDocs
+            # print(type(scoreDocs))
+            print("%s total relevant documents." % len(scoreDocs))
+            relevant_scoreDocs=[]
+            for scoreDoc in scoreDocs:
+                doc = searcher.doc(scoreDoc.doc)
+                relevant_scoreDocs.append( doc.get("name"))
+                score=scoreDoc.score
+                doc_id=scoreDoc.doc
 
-        for scoreDoc in scoreDocs:
-            doc = searcher.doc(scoreDoc.doc)
-            print('path:', doc.get("path"), 'name:', doc.get("name"))
-            print (scoreDoc.toString())
-            # print('content',doc.get('contents'))
-            # q.write(str(line+'   '+doc.get("name")))
-            # print('content: \n',doc.get('contents'))
+
+                print('path:', doc.get("path"), 'name:', doc.get("name"),'score: ',score,'Doc ID :',doc_id)
+
+                # print('content',doc.get('contents'))
+                # q.write(str(line+'   '+doc.get("name")))
+                # print('content: \n',doc.get('contents'))
+        if non_relevant_command:
+            print("Searching for retrived document:", non_relevant_command)
+            # line=queries.readline()
+            query = QueryParser("contents", analyzer).parse(non_relevant_command)
+            Max=50
+            scoreDocs = searcher.search(query,Max).scoreDocs
+            print("%s total retrived documents." % len(scoreDocs))
+            retrived_scoreDocs=[]
+            for scoreDoc in scoreDocs:
+                doc = searcher.doc(scoreDoc.doc)
+                retrived_scoreDocs.append(doc.get("name"))
+                score=scoreDoc.score
+                print('path:', doc.get("path"), 'name:', doc.get("name"),'score: ',score)
+                # print('content',doc.get('contents'))
+                # q.write(str(line+'   '+doc.get("name")))
+                # print('content: \n',doc.get('contents'))
+            # print(retrived_scoreDocs)
+        recall = len(list(set(relevant_scoreDocs).intersection(set(retrived_scoreDocs)))) / float(len(relevant_scoreDocs))
+        print(recall)
+        # if len(predicted) != 0:
+        precision = len(list(set(relevant_scoreDocs).intersection(set(retrived_scoreDocs)))) / float(len(retrived_scoreDocs))
+        print(precision)
+        f_measure = (2 * precision * recall) / (precision + recall)
+        print('recall: ',recall,'precision: ',precision,'f_measure: ',f_measure)
+
 
 if __name__ == '__main__':
     lucene.initVM(vmargs=['-Djava.awt.headless=true'])
