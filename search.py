@@ -12,7 +12,8 @@ from org.apache.pylucene.search.similarities import PythonClassicSimilarity
 from org.apache.lucene.search import \
     BooleanClause, BooleanQuery, Explanation, PhraseQuery, TermQuery
 from org.apache.pylucene.search import PythonSimpleCollector
-from org.apache.lucene.search.similarities import BM25Similarity,TFIDFSimilarity,ClassicSimilarity
+from org.apache.lucene.search.similarities import BM25Similarity,ClassicSimilarity
+from org.apache.lucene.util import BytesRef, BytesRefIterator
 
 import nltk
 import re
@@ -40,16 +41,10 @@ def run(searcher, analyzer):
         if relevant_command == '' and non_relevant_command =='' :
             return
 
-    # with open("newfile.txt", 'r') as queries,open('lucene_output_search_query.txt','w')as q:
-    #     line=queries.readline()
-        # while line:
         if relevant_command:
             print("Searching for relevant documents:", relevant_command)
-            # line=queries.readline()
-            query = QueryParser("contents", analyzer).parse(relevant_command)
-            Max=100
-            scoreDocs = searcher.search(query,Max).scoreDocs
-            # print(type(scoreDocs))
+            relevant_query = QueryParser("contents", analyzer).parse(relevant_command)
+            scoreDocs = searcher.search(relevant_query,2500).scoreDocs
             print("%s total relevant documents." % len(scoreDocs))
             relevant_scoreDocs=[]
             for scoreDoc in scoreDocs:
@@ -57,19 +52,24 @@ def run(searcher, analyzer):
                 relevant_scoreDocs.append( doc.get("name"))
                 score=scoreDoc.score
                 doc_id=scoreDoc.doc
-
-
                 print('path:', doc.get("path"), 'name:', doc.get("name"),'score: ',score,'Doc ID :',doc_id)
-
-                # print('content',doc.get('contents'))
-                # q.write(str(line+'   '+doc.get("name")))
-                # print('content: \n',doc.get('contents'))
+            # print(relevant_scoreDocs)
+            list_relevant = '\n'.join(relevant_scoreDocs)
+            # print(list_relevant)
+            with open('output.txt','w') as ouput:
+                ouput.write(list_relevant)
+            with open('output.txt','r') as t ,open('ouutput2.txt','w')as n:
+                line = t.readline()
+                itr = 1
+                while line:
+                    n.write( str(str(100) + '\t' + line))
+                    line = t.readline()
+                    itr+=1
         if non_relevant_command:
             print("Searching for retrived document:", non_relevant_command)
             # line=queries.readline()
-            query = QueryParser("contents", analyzer).parse(non_relevant_command)
-            Max=50
-            scoreDocs = searcher.search(query,Max).scoreDocs
+            retrived_query = QueryParser("contents", analyzer).parse(non_relevant_command)
+            scoreDocs = searcher.search(retrived_query,2500).scoreDocs
             print("%s total retrived documents." % len(scoreDocs))
             retrived_scoreDocs=[]
             for scoreDoc in scoreDocs:
@@ -77,17 +77,51 @@ def run(searcher, analyzer):
                 retrived_scoreDocs.append(doc.get("name"))
                 score=scoreDoc.score
                 print('path:', doc.get("path"), 'name:', doc.get("name"),'score: ',score)
-                # print('content',doc.get('contents'))
-                # q.write(str(line+'   '+doc.get("name")))
-                # print('content: \n',doc.get('contents'))
             # print(retrived_scoreDocs)
+
         recall = len(list(set(relevant_scoreDocs).intersection(set(retrived_scoreDocs)))) / float(len(relevant_scoreDocs))
-        print(recall)
-        # if len(predicted) != 0:
+        # print(len(list(set(relevant_scoreDocs).intersection(set(retrived_scoreDocs)))))
+        # print(float(len(relevant_scoreDocs)))
+        # print(float(len(retrived_scoreDocs)))
         precision = len(list(set(relevant_scoreDocs).intersection(set(retrived_scoreDocs)))) / float(len(retrived_scoreDocs))
-        print(precision)
-        f_measure = (2 * precision * recall) / (precision + recall)
-        print('recall: ',recall,'precision: ',precision,'f_measure: ',f_measure)
+        # print(precision)
+        # f_measure = (2 * precision * recall) / (precision + recall)
+        print('recall: ',recall,'precision: ',precision)
+
+        #impleminting rocchio algorithm
+
+        # wordlist = relevant_command.split()
+        # wordfreq = [wordlist.count(w) for w in wordlist] # a list comprehension
+        # print(wordfreq)
+        # ireader = DirectoryReader.open(directory)
+        # filedata = {filename: open(filename, 'r') for filename in relevant_scoreDocs}
+        # print(filedata)
+        # for doc1 in range(0, len(wordfreq)):
+        #     tv = ireader.getTermVector(doc1, "contents")
+        #     termsEnum = tv.iterator()
+        #
+        #     for term in BytesRefIterator.cast_(termsEnum):
+        #         dpEnum = termsEnum.postings(None)
+        #         dpEnum.nextDoc()  # prime the enum which wothon_modulerks only for the current doc
+        #         freq = dpEnum.freq()
+            # for f in term:
+            #     with open('aaaa.txt','w')as a:
+            #         a.write('term:'+str(term.utf8ToString())+'\n'+ '  freq:'+ str(f))
+                # print ('term:', term.utf8ToString())
+                # print ('  freq:', freq)
+
+        alpha=1
+        beta=0.75
+        gamma=0.15
+        D_relevant=len(list(set(relevant_scoreDocs)))
+        # print(D_relevant)
+        D_non_relevant=len(list(set(retrived_scoreDocs)))
+        # print(D_non_relevant)
+        new_vector=[]
+        # for term in wordfreq:
+        #     new_vector[term] = (wordfreq[term]*alpha)+(beta*1/D_relevant)-(gamma*1/D_non_relevant)
+        # print(new_vector)
+
 
 
 if __name__ == '__main__':

@@ -35,22 +35,6 @@ class Ticker(object):
             sys.stdout.write('.')
             sys.stdout.flush()
             time.sleep(1.0)
-# class SimpleSimilarity(PythonClassicSimilarity):
-#
-#     def lengthNorm(self, numTerms):
-#         return 1.0
-#
-#     def tf(self, freq):
-#         return freq
-#
-#     def sloppyFreq(self, distance):
-#         return 2.0
-#
-#     def idf(self, docFreq, numDocs):
-#         return 1.0
-#
-#     def idfExplain(self, collectionStats, termStats):
-#         return Explanation.match(1.0, "inexplicable", [])
 
 class IndexFiles(object):
     """Usage: python IndexFiles <doc_directory>"""
