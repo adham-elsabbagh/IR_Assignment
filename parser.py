@@ -1,6 +1,6 @@
 import os,re,sys
 
-def cleaning_data():
+def cleaning_data(dir):
     x=[]
     for filename in os.listdir(dir):
         if filename.endswith('.xml'):
@@ -21,13 +21,13 @@ def cleaning_data():
                 with open('newfile.txt', 'w') as t:
                     t.write(fulxlStr)
 
-                with open('newfile.txt','r') as t ,open('query.txt','w')as n:
-                    line = t.readline()
-                    itr = 1
-                    while line:
-                        n.write( str(str(itr) + '\t' + line))
-                        line = t.readline()
-                        itr+=1
+                # with open('newfile.txt','r') as t ,open('random_query.txt','w')as n:
+                #     line = t.readline()
+                #     itr = 1
+                #     while line:
+                #         n.write( str(str(itr) + '  ' + line))
+                #         line = t.readline()
+                #         itr+=1
 
                 cleanfile2=re.sub("<Title>(.*?)</Title>|<[^>]+>|^a-zA-Z.\d\s","",cleanfile)
                 with open(os.path.join(dir, filename),'w') as r:

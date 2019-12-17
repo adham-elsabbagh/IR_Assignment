@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-
 INDEX_DIR = "IndexFiles"
+
 import re
 import sys, os, lucene, threading, time
 from datetime import datetime
@@ -30,6 +30,7 @@ class Ticker(object):
     def __init__(self):
         self.tick = True
 
+
     def run(self):
         while self.tick:
             sys.stdout.write('.')
@@ -44,11 +45,11 @@ class IndexFiles(object):
         if not os.path.exists(storeDir):
             os.mkdir(storeDir)
 
-        store = SimpleFSDirectory(Paths.get(storeDir))
+        directory = SimpleFSDirectory(Paths.get(storeDir))
         analyzer = LimitTokenCountAnalyzer(analyzer, 50000000)
         config = IndexWriterConfig(analyzer)
         config.setOpenMode(IndexWriterConfig.OpenMode.CREATE)
-        writer = IndexWriter(store, config)
+        writer = IndexWriter(directory, config)
 
         self.indexDocs(root, writer)
         ticker = Ticker()
@@ -79,20 +80,14 @@ class IndexFiles(object):
         t2.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS)
         # itr=100
         for root, dirnames, filenames in os.walk(root):
-            # with open('output.txt', 'w') as output:
-            #     for f in filenames:
-            #         output.write(str(str(itr) + '  ' + f + "\n"))
-            #         print('adding file name: ', f)
-            #         itr += 1
             for filename in filenames:
                 if not filename.endswith('.xml'):
                     continue
-                print ("adding", filename)
+                # print ("adding", filename)
                 try:
                     path = os.path.join(root, filename)
                     file = open(path,encoding='utf-8')
                     contents = file.read()
-                    # titles = str(re.findall("<Title>(.*?)</Title>", contents))
                     file.close()
                     doc = Document()
                     doc.add(Field("name", filename, t1))

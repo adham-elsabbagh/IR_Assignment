@@ -7,6 +7,7 @@ import re
 import sys
 import math
 import pickle
+import search
 
 
 # Class to store document (node) information
@@ -21,25 +22,9 @@ class node_data:
 # vocabulary
 words_database = {}
 doc_id = {}
-# # Processing line by line
-# def word_by_word_processing(line):
-
-# 	line = re.sub("[^a-zA-Z]+", " ", line)
-# 	set_of_stop_words = nltk.corpus.stopwords.words('english')
-# 	#stem_ob = nltk.stem.porter.PorterStemmer()
-# 	#tokenset = nltk.tokenize.word_tokenize(line)
-# 	#final_set_of_tokens = []
-# 	final_line = ""
-# 	for token in tokenset:
-# 		token = token.lower()
-# 		if token not in set_of_stop_words:
-# 			#final_line += stem_ob.stem(token)
-# 			final_line += token
-# 			final_line += " "
-# 	return final_line
 
 # This text processing module is wrt to every doc in the folder "alldocs"
-def Doc_processing_module():
+def Doc_processing_module(dir):
     file_node_list = []
     # file_list = os.listdir("/home/sid/Downloads/Assignement2_IR/Topic"+str(i+1))
     file_list = os.listdir(dir)
@@ -61,21 +46,17 @@ def Doc_processing_module():
         node = node_data(file_text)
         file_node_list.append(node)
         i += 1
-    with open("doc_id_data.p", "wb") as doc1_data:
+    with open("doc_id_data.p", "wb") as doc1_data: # store the names of the files in the dir with numbring {'a': 0, 'b': 1, 'c': 2}
         pickle.dump(doc_id, doc1_data)
     return file_node_list
 # End of function
 
-# This text processing module is wrt to every query in "query.txt"
-def Query_processing_module():
+# This text processing module is wrt to normal query
+def Query_processing_module(non_relevant_command):
     query_node_list = []
-    # file_list = os.listdir("/home/sid/Downloads/Assignement2_IR/Topic"+str(i+1))
-    queries = open("query.txt", 'r')
-    # iterate thru every file
-    for query in queries:
-        node = node_data(query)
-        query_node_list.append(node)
-        # print(query_node_list)
+    # query = input("Normal Query: ")
+    node = node_data(non_relevant_command)
+    query_node_list.append(node)
     return query_node_list
 
 # End of function
@@ -83,20 +64,16 @@ def Query_processing_module():
 # Get word list from given text
 def getwordlist(node):
     sent = node.sentence
-    # sent = sent[5:]
     sent = sent.lower()
     sent = re.sub("[^a-zA-Z]+", " ", sent)
-    # print (sent + "\n")
     sent = sent.strip()
     word_list = sent.split(" ")
     stop_words = nltk.corpus.stopwords.words('english')
-    # word_list1 = filter(lambda x: x not in stop_words, word_list)
-    # word_list1 = [x for x in word_list if x not in stop_words]
     word_list2 = filter(lambda x: x != '', word_list)
     return word_list2
 # end of function
 
-# Module to generate tf-idf vectors corresponding to the sentences
+# Module to generate tf-idf vectors corresponding to the sentences(tf-idf for all the vectors in the all documents)
 def generate_tf_idf_vectors(node_list):
     # Dictionary for storing the entire vocabulary
     # Vocabulary stores the no of nodes in which a
@@ -125,26 +102,19 @@ def generate_tf_idf_vectors(node_list):
             nodes_to_be_removed.append(i)
         for word in word_set:
             ni = words_database[word]
-            # print("word = "+ word + "  N = "+ str(N)+ " ni = "+str(ni))
             node.idf[word] = math.log(N * 1.0 / ni)
         i = i + 1
     # end of for loop
     print("size of nodes to be removed =  "+str(len(nodes_to_be_removed)))
-    # Removing invalid nodes (nodes containing invalid elements)
-    # final_node_list = []
-    # l = len(node_list)
-    # for i in range(0,l):
-    # 	if i not in nodes_to_be_removed:
-    # 		final_node_list.append(node_list[i])
-    with open("doc_data.p", "wb") as doc_data:
+    with open("doc_data.p", "wb") as doc_data: #store all tf-idf wordsin dir
         pickle.dump(node_list, doc_data)
     return node_list
 # End of function
 
-# Module to generate tf-idf vectors corresponding to the sentences
-def generate_tf_idf_vectors_for_query(node_list):
+# Module to generate tf-idf vectors corresponding to the sentences(tf-idf for the normal query)
+def generate_tf_idf_vectors_for_query(normal_query):
     # Calculation of tf
-    for node in node_list:
+    for node in normal_query:
         word_list = getwordlist(node)
         # print str(word_list[0])+" is the indeccs"
         # wordlist.pop(0)
@@ -155,10 +125,8 @@ def generate_tf_idf_vectors_for_query(node_list):
         for word in word_list:
             node.tf[word] += 1
     # Calculation of idf
-    i = 0
     N = len(words_database)
-    nodes_to_be_removed = []
-    for node in node_list:
+    for node in normal_query:
         word_list = getwordlist(node)
         word_set = set(word_list)
         for word in word_set:
@@ -168,9 +136,8 @@ def generate_tf_idf_vectors_for_query(node_list):
                 node.idf[word] = math.log(N * 1.0 / ni)
             else:
                 node.idf[word] = 10000
-        i = i + 1
     # print("Size of vocabulary : "+str(len(words_database))+"\n\n")
-    return node_list
+    return normal_query
 # End of function
 
 # main function
@@ -180,11 +147,11 @@ if __name__ == '__main__':
         print(dir.__doc__)
         sys.exit(1)
     # Documents processing and tf vector and idf vector generation
-    doc_list = Doc_processing_module()
+    doc_list = Doc_processing_module(dir)
     doc_node_list = generate_tf_idf_vectors(doc_list)
     # Query processing and tf vector and idf vector generation
-    query_list = Query_processing_module()
-    query_node_list = generate_tf_idf_vectors_for_query(query_list)
+    normal_query = Query_processing_module()
+    query_node_list = generate_tf_idf_vectors_for_query(normal_query)
     # Storing word vocabulary in a file
-    with open("vocabulary.p", "wb") as voc_data:
+    with open("vocabulary.p", "wb") as voc_data: #containing all tf-idf for the normal random query
         pickle.dump(words_database, voc_data)
