@@ -57,6 +57,8 @@ def Query_processing_module(non_relevant_command):
     # query = input("Normal Query: ")
     node = node_data(non_relevant_command)
     query_node_list.append(node)
+    # print('this is query_node_list: ',query_node_list)
+
     return query_node_list
 
 # End of function

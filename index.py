@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-INDEX_DIR = "IndexFiles"
+INDEX_DIR = "Index  Files"
 
 import re
 import sys, os, lucene, threading, time

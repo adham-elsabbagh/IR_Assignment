@@ -6,7 +6,7 @@ def cleaning_data(dir):
         if filename.endswith('.xml'):
             if not filename.endswith('.xml'):
                 continue
-            print("cleaning", filename)
+            # print("cleaning", filename)
             with open(os.path.join(dir, filename),'r') as f:
 
                 #this regex for cleaning the files from XML entities that resulted from encoding the file  and XML tags
@@ -18,16 +18,16 @@ def cleaning_data(dir):
                 x.append(titles)
                 flatList = [item for elem in x for item in elem]
                 fulxlStr = '\n'.join(flatList)
-                with open('newfile.txt', 'w') as t:
+                with open('titles.txt', 'w') as t:
                     t.write(fulxlStr)
 
-                # with open('newfile.txt','r') as t ,open('random_query.txt','w')as n:
-                #     line = t.readline()
-                #     itr = 1
-                #     while line:
-                #         n.write( str(str(itr) + '  ' + line))
-                #         line = t.readline()
-                #         itr+=1
+                with open('titles.txt','r') as t ,open('query.txt','w')as n:
+                    line = t.readline()
+                    itr = 1
+                    while line:
+                        n.write( str(str(itr) + '  ' + line))
+                        line = t.readline()
+                        itr+=1
 
                 cleanfile2=re.sub("<Title>(.*?)</Title>|<[^>]+>|^a-zA-Z.\d\s","",cleanfile)
                 with open(os.path.join(dir, filename),'w') as r:
