@@ -3,10 +3,9 @@
 *Veronica <br>
 
 # University of Antwerpen 
-*Information Retrival project <br>
 
 
-# NLP_project
+# Information Retrival project <br>
 *This module contains cleaning data then index the files and search using query, using pylucene.<br>
 *Implementing Rocchio algorithm for relevance feedback.<br>
 *query expansion based on either pseudo-relevance feedback.<br>
