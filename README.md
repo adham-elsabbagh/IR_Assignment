@@ -18,7 +18,7 @@
 *This command for cleaning the files from any tags or xml entities or white spaces.<br>
 *Adding all files to the index. <br>
 *Then you should input your search query and the result will containing the name and the path for the correct answer document.<br>
-*Finally implementing #query_expanssion. <br>
+*Finally implementing query expanssion. <br>
 3-python3 rocchio_algorithm_new.py <br>
 *For Implementing rocchio algorithm. <br>
 
