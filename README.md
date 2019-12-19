@@ -1,8 +1,8 @@
-#Team<br>
+# Team
 *Adham Mohamed <br>
 *Veronica <br>
 
-#University of Antwerpen <br>
+# University of Antwerpen 
 *Information Retrival project <br>
 
 
