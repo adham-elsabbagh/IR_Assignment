@@ -1,6 +1,6 @@
 # Team
-*Adham Mohamed <br>
-*Veronica <br>
+-Adham Mohamed <br>
+-Veronica <br>
 
 # University of Antwerpen 
 
@@ -9,7 +9,7 @@
 -This module contains cleaning data then index the files and search using query, using pylucene.<br>
 -Implementing Rocchio algorithm for relevance feedback.<br>
 -query expansion based on either pseudo-relevance feedback.<br>
-this is the pylucene official docs for installation https://lucene.apache.org/pylucene/install.html .<br>
+-this is the pylucene official docs for installation https://lucene.apache.org/pylucene/install.html .<br>
 
 # Usage
 1-Install pylucene via python 3. <br>
