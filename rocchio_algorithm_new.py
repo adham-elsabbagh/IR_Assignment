@@ -77,7 +77,7 @@ directory = RAMDirectory()  # ... we'll use a RAMDirectory!
 
 # Get and configure an IndexWriter
 analyzer = StandardAnalyzer()
-analyzer = LimitTokenCountAnalyzer(analyzer, 1048576)
+analyzer = LimitTokenCountAnalyzer(analyzer, 50000000)
 config = IndexWriterConfig(analyzer)
 writer = IndexWriter(directory, config)
 print ("Number of indexed documents: %d\n" % writer.numDocs())
@@ -162,7 +162,7 @@ def search_loop(searcher, analyzer):
             print ("search loop:  "+ temp_q + "\n")
             query = QueryParser("text", analyzer).parse(temp_q)
             # retrieving top 50 results for each query
-            scoreDocs = searcher.search(query, 100).scoreDocs
+            scoreDocs = searcher.search(query, 15).scoreDocs
             # writing output to the file
         with open("lucene_output.txt", "a") as output_file2:
             for scoreDoc in scoreDocs:
@@ -189,7 +189,7 @@ def modified_search_loop(searcher, analyzer, query_list):
         # print "search loop:  "+ temp_q + "\n"
         query = QueryParser("text", analyzer).parse(temp_q)
         # retrieving top 50 results for each query
-        scoreDocs = searcher.search(query, 100).scoreDocs
+        scoreDocs = searcher.search(query, 15).scoreDocs
         # writing output to the file
     with open("lucene_output_for_updated_queries.txt", "a") as output_file2:
         for scoreDoc in scoreDocs:

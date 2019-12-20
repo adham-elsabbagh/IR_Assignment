@@ -7,17 +7,6 @@ from nltk.corpus import stopwords
 import search
 
 
-# BASE_DIR = path.dirname(path.abspath(sys.argv[0]))
-# INPUT_DIR = BASE_DIR + "/data/"
-# dir = sys.argv[1]
-# if len(sys.argv) < 2:
-#     print(dir.__doc__)
-#     sys.exit(1)
-#
-# for filename in os.listdir(dir):
-#     if not filename.endswith('.xml'):
-#         continue
-#     with open(os.path.join(dir, filename), 'r') as f:
 def query_expanssion(relevant_command):
     global new_line
     synonyms = []

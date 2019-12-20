@@ -33,7 +33,7 @@ def search_relevant (searcher, analyzer,relevant_command,relevant_scoreDocs):
         if relevant_command:
             print("Searching for relevant documents:", relevant_command)
             relevant_query = QueryParser("contents", analyzer).parse(relevant_command)
-            scoreDocs = searcher.search(relevant_query,100).scoreDocs
+            scoreDocs = searcher.search(relevant_query,50).scoreDocs
             print("%s total relevant documents." % len(scoreDocs))
             for scoreDoc in scoreDocs:
                 doc = searcher.doc(scoreDoc.doc)
@@ -61,7 +61,7 @@ def search_non_relevant (searcher, analyzer,non_relevant_command,retrived_scoreD
             print("Searching for non relevant document:", non_relevant_command)
             # line=queries.readline()
             retrived_query = QueryParser("contents", analyzer).parse(non_relevant_command)
-            scoreDocs = searcher.search(retrived_query,100).scoreDocs
+            scoreDocs = searcher.search(retrived_query,50).scoreDocs
             print("%s total retrived documents." % len(scoreDocs))
             for scoreDoc in scoreDocs:
                 doc = searcher.doc(scoreDoc.doc)

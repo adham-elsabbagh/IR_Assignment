@@ -41,7 +41,7 @@ if __name__ == '__main__':
         print(dir.__doc__)
         sys.exit(1)
     print('First step is cleaning data...')
-    # parser.cleaning_data(dir)
+    parser.cleaning_data(dir)
 
     print('the seconed step is indexing......')
     lucene.initVM(vmargs=['-Djava.awt.headless=true'])
@@ -59,8 +59,8 @@ if __name__ == '__main__':
 
     print('the third step is searching and creating recall and recission values...... ')
     print("Hit enter with no input to quit.")
-    relevant_command = input("Relevant Query:")
-    non_relevant_command = input("NoN Relevant Query:")
+    relevant_command = input("original Query:")
+    non_relevant_command = input("updated Query:")
 
     retrived_scoreDocs, relevant_scoreDocs=[],[]
     directory = SimpleFSDirectory(Paths.get(os.path.join(base_dir, INDEX_DIR)))
@@ -83,93 +83,9 @@ if __name__ == '__main__':
     with open("vocabulary.p", "wb") as voc_data:
         pickle.dump(relevance_feedback_1.words_database, voc_data)
 
-    # print('the fifth step is creating rocchio algorithm....')
-    #
-    # with open("vocabulary.p", "rb")as x:
-    #     words_database = pickle.load(x,encoding='utf-8')
-    #     x.close()
-    #
-    # with open("doc_data.p", "rb") as y:
-    #     tf_idf_node = pickle.load(y,encoding='utf-8')
-    #     y.close()
-    #
-    # with open("doc_id_data.p", "rb") as z:
-    #     doc_id = pickle.load(z,encoding='utf-8')
-    #     z.close()
-    # query_tf_idf = {}
-    # lucene_output_docs = {}
-    # updated_query_list = []
-    # INPUT_DIR = base_dir + "/data/"
-    # config = IndexWriterConfig(analyzer)
-    # writer = IndexWriter(directory, config)
-    #
-    #
-    # for input_file in listdir(INPUT_DIR):
-    #     doc = rocchio_algorithm_new.create_document(input_file)
-    #     writer.addDocument(doc)
-    # writer.close()
-    # # print ("Number of indexed documents: %d\n" % writer.numDocs())
-    # # List of docs from lucene search
-    # # Queries tf-idf values
-    #
-    # rocchio_algorithm_new.search_loop(searcher, analyzer)
-    # # text processing module for retrieving the text from the documents of the folder
-    # query_list = rocchio_algorithm_new.Query_processing_module()
-    # query_node_list = rocchio_algorithm_new.generate_tf_idf_vectors_for_query(query_list)
-    # print("Query processing and tf-idf over\n")
-    # i = 0
-    # for query_node in query_node_list:
-    #     query_wordlist = relevance_feedback_1.getwordlist(query_node)
-    #     query_wordset = set(query_wordlist)
-    #     query_tf_idf[i] = {}
-    #     query_no = int(query_node.sentence[0:3])
-    #     # Calculating tf-idf vector for the query
-    #     for word in query_wordset:
-    #         if query_node.idf[word] != 100000:
-    #             query_tf_idf[i][word] = math.log(1 + query_node.tf[word]) * query_node.idf[word]
-    #     b_by_delta_dr = 0.65
-    #     # Retrieving only the top 10 documents from lucene output
-    #     j = 0
-    #     # Implementing Rochio algorithm for each query (query vector updation)
-    #     for doc in lucene_output_docs[query_no]:
-    #         str_doc = str(doc)
-    #         doc_index = doc_id[str_doc]
-    #         cur_doc_node = doc_node_list[doc_index]
-    #         doc_word_list = relevance_feedback_1.getwordlist(cur_doc_node)
-    #         doc_word_set = set(doc_word_list)
-    #         # Rochio algorithm for query vector updation
-    #         for word in doc_word_set:
-    #             if word in query_tf_idf[i]:
-    #                 query_tf_idf[i][word] += b_by_delta_dr * math.log(cur_doc_node.tf[word] + 1) * cur_doc_node.idf[
-    #                     word]
-    #             else:
-    #                 query_tf_idf[i][word] = b_by_delta_dr * math.log(cur_doc_node.tf[word] + 1) * cur_doc_node.idf[word]
-    #         j += 1
-    #         # Only top 10 docs from the retrieved 50 docs
-    #         if j == 10:
-    #             break
-    #     # Sorting the dictionary entries wrt its Values
-    #     new_query = str(query_no) + "  "
-    #     sorted_dict = sorted(query_tf_idf[i], key=query_tf_idf[i].get, reverse=True)
-    #     k = 0
-    #     for r in sorted_dict:
-    #         new_query += str(r) + " "
-    #         k += 1
-    #         if k == 10:
-    #             break
-    #     print("original query = " + query_node.sentence)
-    #     print("updated query = " + new_query)
-    #     updated_query_list.append(new_query)
-    #     print("---------------------------------------------------------\n\n")
-    #     i += 1
-    # updated_query_scoreDocs=rocchio_algorithm_new.modified_search_loop(searcher, analyzer, updated_query_list)
-    # print('recall and precision after Rocchio Algorithm','\n')
-
     print('the six step is Query Expanssion using word net....... ')
     query_expansion.query_expanssion(non_relevant_command)
-    # print(synonyms)
-    # print('recall and precision Query Expansion','\n')
-    # search.recall_precision(relevant_scoreDocs,synonyms)
+
 
 
 
