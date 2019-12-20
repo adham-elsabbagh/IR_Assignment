@@ -13,12 +13,17 @@ this is the pylucene official docs for installation https://lucene.apache.org/py
 
 # Usage
 1-Install pylucene via python 3. <br>
+<br>
 2-python3 main.py.py <path/to/directory><br>
+<br>
 -This command for cleaning the files from any tags or xml entities or white spaces.<br>
 -Adding all files to the index. <br>
 -Then you should input your search query and the result will containing the name and the path for the correct answer document.<br>
 -Finally implementing query expanssion. <br>
+<br>
 3-There is a fle query.txt you should put in it the query you want to implement it using rocchio algorithm with this style<br>       <100  how to install python or java?> <br>
+<br>
 4-python3 rocchio_algorithm_new.py <br>
+<br>
 -For Implementing rocchio algorithm. <br>
 
