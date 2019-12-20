@@ -18,6 +18,7 @@
 *Adding all files to the index. <br>
 *Then you should input your search query and the result will containing the name and the path for the correct answer document.<br>
 *Finally implementing query expanssion. <br>
-3-python3 rocchio_algorithm_new.py <br>
+3-There is a fle query.txt you should put in it the query you want to implement it using rocchio algorithm with this style <100 how to install python or java?> <br>
+4-python3 rocchio_algorithm_new.py <br>
 *For Implementing rocchio algorithm. <br>
 
