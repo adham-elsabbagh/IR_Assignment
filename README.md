@@ -1,6 +1,6 @@
 # Team
+-Veronica Orsanigo <br>
 -Adham Mohamed <br>
--Veronica <br>
 
 # University of Antwerpen 
 
