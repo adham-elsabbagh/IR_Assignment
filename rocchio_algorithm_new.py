@@ -28,7 +28,7 @@ from org.apache.lucene.queryparser.classic import QueryParser
 # ---------------------------- global constants ----------------------------- #
 
 BASE_DIR = path.dirname(path.abspath(sys.argv[0]))
-INPUT_DIR = BASE_DIR + "/data/"
+INPUT_DIR = BASE_DIR + "/data_without_titles/"
 
 # Class to store document (node) information
 class node_data:
@@ -77,7 +77,7 @@ directory = RAMDirectory()  # ... we'll use a RAMDirectory!
 
 # Get and configure an IndexWriter
 analyzer = StandardAnalyzer()
-analyzer = LimitTokenCountAnalyzer(analyzer, 50000000)
+analyzer = LimitTokenCountAnalyzer(analyzer, 1048576)
 config = IndexWriterConfig(analyzer)
 writer = IndexWriter(directory, config)
 print ("Number of indexed documents: %d\n" % writer.numDocs())
@@ -92,7 +92,7 @@ writer.close()
 def Query_processing_module():
     query_node_list = []
     # file_list = os.listdir("/home/sid/Downloads/Assignement2_IR/Topic"+str(i+1))
-    queries = open("query.txt", 'r')
+    queries = open("query_for_updated_query.txt", 'r')
     i=0
     for query in queries:
         node = node_data(query)
@@ -147,61 +147,98 @@ def generate_tf_idf_vectors_for_query(node_list):
                 node.idf[word] = 100000
     return node_list
 # End of function
-
+dict={}
 # Function to return lucene search results
 def search_loop(searcher, analyzer):
-    # opening the query file
+
+    sum = 0
     with open("query.txt", 'r') as queries:
     # reading every query from the input file
         for command in queries:
             x = word_tokenize(command)
             query_no = float(x[0])
+            file_name = str(x[1])
+            dict[query_no]=file_name
+
+            print('FILE NAME : '+file_name)
+            # print('query number',query_no)
             lucene_output_docs[query_no] = []
             temp_q = command
-            temp_q = temp_q[5:]
+
+            com_lenght=command.find('l')+2
+            temp_q = temp_q[com_lenght:]
+
             print ("search loop:  "+ temp_q + "\n")
             query = QueryParser("text", analyzer).parse(temp_q)
             # retrieving top 50 results for each query
-            scoreDocs = searcher.search(query, 15).scoreDocs
+            scoreDocs = searcher.search(query, 50).scoreDocs
             # writing output to the file
-        with open("lucene_output.txt", "a") as output_file2:
-            for scoreDoc in scoreDocs:
-                doc = searcher.doc(scoreDoc.doc)
-                # print doc.get("title")#, 'name:', doc.get("name")
-                temp_str = str(doc.get("title"))
-                lucene_output_docs[query_no].append(temp_str)
-                output_file2.write(str(int(query_no)) + " " + temp_str + "\n")
-            # Results retrieved
-            output_file2.close()
+            with open("lucene_output.txt", "a") as output_file2:
+                for scoreDoc in scoreDocs:
+                    doc = searcher.doc(scoreDoc.doc)
+                    # print doc.get("title")#, 'name:', doc.get("name")
+                    temp_str = str(doc.get("title"))
+                    lucene_output_docs[query_no].append(temp_str)
+
+                    output_file2.write(str(int(query_no)) + " " + temp_str + "\n")
+                # Results retrieved
+                output_file2.close()
+
+                print('list of docs',lucene_output_docs[query_no])
+                if file_name in lucene_output_docs[query_no]:
+                    index = lucene_output_docs[query_no].index(file_name)
+                    print('The index of file name is:',index)
+                    sum = sum + index
+                else:
+                    print('not in a list')
+                    sum = sum + 50
+        average_position = sum / 100
+        print('Average postion before rocchio:',average_position)
     # End of outer for loop
     # Closing the queries file
         queries.close()
+
+
 # End of function
 def modified_search_loop(searcher, analyzer, query_list):
     # opening the query file
     # reading every query from the input file
+    sum = 0
+    print(dict)
     for command in query_list:
         x = word_tokenize(command)
         query_no = int(x[0])
+        filename=dict.get(query_no)
+        # print(type(filename))
+        print('The index of file name is:',filename)
         lucene_output_docs[query_no] = []
         temp_q = command
         temp_q = temp_q[5:]
         # print "search loop:  "+ temp_q + "\n"
         query = QueryParser("text", analyzer).parse(temp_q)
         # retrieving top 50 results for each query
-        scoreDocs = searcher.search(query, 15).scoreDocs
+        scoreDocs = searcher.search(query, 50).scoreDocs
         # writing output to the file
-    with open("lucene_output_for_updated_queries.txt", "a") as output_file2:
         for scoreDoc in scoreDocs:
             doc = searcher.doc(scoreDoc.doc)
-            # print doc.get("title")#, 'name:', doc.get("name")
+        # print doc.get("title")#, 'name:', doc.get("name")
             temp_str = str(doc.get("title"))
             lucene_output_docs[query_no].append(temp_str)
-            output_file2.write(str(query_no) + "  " + temp_str + "\n")
-        # Results retrieved
-        output_file2.close()
+            with open("lucene_output_for_updated_queries.txt", "a") as output_file2:
+                output_file2.write(str(query_no) + "  " + temp_str + "\n")
+        if filename in lucene_output_docs[query_no]:
+            index = lucene_output_docs[query_no].index(filename)
+            print('The index of updated file name is:',index)
+            sum = sum + index
+        else:
+            print('not in a list')
+            sum = sum + 50
+    average_position = sum / 100
+    print('Average postion after rocchio :',average_position)
+
 # main function
 if __name__ == '__main__':
+
     # Create a searcher for the above defined Directory
     searcher = IndexSearcher(DirectoryReader.open(directory))
     searcher.setSimilarity(ClassicSimilarity())
@@ -259,6 +296,7 @@ if __name__ == '__main__':
         print("original query = " + query_node.sentence)
         print("updated query = " + new_query)
         updated_query_list.append(new_query)
+
         print("---------------------------------------------------------\n\n")
         i += 1
     modified_search_loop(searcher, analyzer, updated_query_list)

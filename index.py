@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-INDEX_DIR = "Index  Files"
 
+INDEX_DIR = "IndexFiles"
 import re
 import sys, os, lucene, threading, time
 from datetime import datetime
@@ -11,11 +11,7 @@ from org.apache.lucene.document import Document, Field, FieldType
 from org.apache.lucene.index import \
     FieldInfo, IndexWriter, IndexWriterConfig, IndexOptions
 from org.apache.lucene.store import SimpleFSDirectory
-from org.apache.lucene.search import \
-    BooleanClause, BooleanQuery, Explanation, PhraseQuery, TermQuery
-from org.apache.lucene.util import Version
-from org.apache.pylucene.search import PythonSimpleCollector
-from org.apache.pylucene.search.similarities import PythonClassicSimilarity
+
 """
 This class is loosely based on the Lucene (java implementation) demo class
 org.apache.lucene.demo.IndexFiles.  It will take a directory as an argument
@@ -29,7 +25,6 @@ class Ticker(object):
 
     def __init__(self):
         self.tick = True
-
 
     def run(self):
         while self.tick:
@@ -45,17 +40,16 @@ class IndexFiles(object):
         if not os.path.exists(storeDir):
             os.mkdir(storeDir)
 
-        directory = SimpleFSDirectory(Paths.get(storeDir))
-        analyzer = LimitTokenCountAnalyzer(analyzer, 50000000)
+        store = SimpleFSDirectory(Paths.get(storeDir))
+        analyzer = LimitTokenCountAnalyzer(analyzer, 1048576)
         config = IndexWriterConfig(analyzer)
         config.setOpenMode(IndexWriterConfig.OpenMode.CREATE)
-        writer = IndexWriter(directory, config)
+        writer = IndexWriter(store, config)
 
         self.indexDocs(root, writer)
         ticker = Ticker()
         print ('commit index',)
         threading.Thread(target=ticker.run).start()
-
         writer.commit()
         writer.close()
         ticker.tick = False
@@ -66,34 +60,37 @@ class IndexFiles(object):
         t1 = FieldType()
         t1.setStored(True)
         t1.setTokenized(False)
-        t1.setStoreTermVectors(True)
-        t1.setStoreTermVectorOffsets(True)
-        t1.setStoreTermVectorPositions(True)
         t1.setIndexOptions(IndexOptions.DOCS_AND_FREQS)
 
         t2 = FieldType()
         t2.setStored(True)
         t2.setTokenized(True)
-        t2.setStoreTermVectors(True)
-        t2.setStoreTermVectorOffsets(True)
-        t2.setStoreTermVectorPositions(True)
         t2.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS)
-        # itr=100
+        itr=100
         for root, dirnames, filenames in os.walk(root):
+            # with open('output.txt', 'w') as output:
+            #     for f in filenames:
+            #         output.write(str(str(itr) + '  ' + f + "\n"))
+            #         print('adding file name: ', f)
+            #         itr += 1
             for filename in filenames:
                 if not filename.endswith('.xml'):
                     continue
-                # print ("adding", filename)
+                print ("adding", filename)
                 try:
                     path = os.path.join(root, filename)
                     file = open(path,encoding='utf-8')
                     contents = file.read()
+                    # titles = str(re.findall("<Title>(.*?)</Title>", contents))
                     file.close()
                     doc = Document()
                     doc.add(Field("name", filename, t1))
                     doc.add(Field("path", root, t1))
                     if len(contents) > 0:
                         doc.add(Field("contents", contents, t2))
+                    # if len(titles) > 0:
+                    #     doc.add(Field("titles", titles, t2))
+
                     else:
                         print ("warning: no content in %s" % filename)
                     writer.addDocument(doc)
@@ -109,7 +106,8 @@ if __name__ == '__main__':
     start = datetime.now()
     try:
         base_dir = os.path.dirname(os.path.abspath(sys.argv[0]))
-        IndexFiles(sys.argv[1], os.path.join(base_dir, INDEX_DIR),StandardAnalyzer())
+        IndexFiles(sys.argv[1], os.path.join(base_dir, INDEX_DIR),
+                   StandardAnalyzer())
         end = datetime.now()
         print (end - start)
     except Exception as e:
