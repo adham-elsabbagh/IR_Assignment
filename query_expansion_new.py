@@ -78,43 +78,44 @@ with open("query.txt", 'r') as queries:
         print ("search loop:  "+ temp_q + "\n")
 
         # f = open("query.txt", "r")
-        with open("query_expanded.txt", "w", encoding="utf-8") as fout:
-            stop_words = set(stopwords.words("english"))
-            line = temp_q
-            if not line:
-                break
-            line = line.replace('\n', '')
-            line = line.split(" ", 1)
-            new_line = line[0]
-            line[1] = line[1].lower()
-            line[1] = line[1].translate(str.maketrans('', '', string.punctuation))
-            word_tokens = word_tokenize(line[1])
-            filtered_sentence = [w for w in word_tokens if not w in stop_words]
-            synonyms = []
+        # with open("query_expanded.txt", "w", encoding="utf-8") as fout:
+        stop_words = set(stopwords.words("english"))
+        line = temp_q
+        if not line:
+            break
+        line = line.replace('\n', '')
+        line = line.split(" ", 1)
+        new_line = line[0]
+        line[1] = line[1].lower()
+        line[1] = line[1].translate(str.maketrans('', '', string.punctuation))
+        word_tokens = word_tokenize(line[1])
+        filtered_sentence = [w for w in word_tokens if not w in stop_words]
+        synonyms = []
+
+        count = 0
+        for x in filtered_sentence:
+
+            for syn in wordnet.synsets(x):
+                for l in syn.lemmas():
+                    if (count < 3):
+                        if l.name() not in synonyms:
+                            synonyms.append(l.name())
+                            count += 1
 
             count = 0
-            for x in filtered_sentence:
 
-                for syn in wordnet.synsets(x):
-                    for l in syn.lemmas():
-                        if (count < 3):
-                            if l.name() not in synonyms:
-                                synonyms.append(l.name())
-                                count += 1
+        synonyms_string = ' '.join(synonyms)
+        new_line = " ".join([str(new_line), synonyms_string])
+        # print(type(new_line))
+        print('query_expanded:',new_line ,'\n')
+        synonyms = []
+        #     fout.write(new_line)
+        #     fout.write('\n')
+        # fout.close()
 
-                count = 0
-
-            synonyms_string = ' '.join(synonyms)
-            new_line = " ".join([str(new_line), synonyms_string])
-            print('query_expanded:',new_line ,'\n')
-            synonyms = []
-            fout.write(new_line)
-            fout.write('\n')
-        fout.close()
-
-        query = QueryParser("text", analyzer).parse(temp_q)
+        query = QueryParser("text", analyzer).parse(new_line)
         # retrieving top 50 results for each query
-        scoreDocs = searcher.search(query, 10).scoreDocs
+        scoreDocs = searcher.search(query, 50).scoreDocs
         # writing output to the file
         with open("output of query expansion .txt", "a") as output_file2:
             for scoreDoc in scoreDocs:
