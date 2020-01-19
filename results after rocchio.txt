@@ -1,0 +1,805 @@
+RESULTS AFTER ROCCHIO
+AVERAGE POSITION OF THE DOCUMENT WITH THE TITLE AS QUERY
+(BM25SIMILARITY)
+
+original query = 100  Getting started with mobile programming. What is a good platform
+updated query = 100  started a good getting is platform what with mobile programming 
+---------------------------------------------------------
+
+
+original query = 101  What is the best way to get all the divisors of a number
+
+updated query = 101  a number is way the what all divisors best to 
+---------------------------------------------------------
+
+
+original query = 102  What is the exact definition of instance variable
+
+updated query = 102  definition instance is variable the exact what of function they 
+---------------------------------------------------------
+
+
+original query = 103  Error while inserting pointer to a vector
+
+updated query = 103  a inserting vector pointer to error while function strongpwrite have 
+---------------------------------------------------------
+
+
+original query = 104  Is this a reasonable use of the ternary operator
+
+updated query = 104  a use is the this reasonable operator ternary of noneif 
+---------------------------------------------------------
+
+
+original query = 105  PyQt4 and QtWebKit  how to auto scroll the view
+
+updated query = 105  scroll the and how auto to pyqt qtwebkit view ve 
+---------------------------------------------------------
+
+
+original query = 106  How to load bmp into GLubyte array
+
+updated query = 106  load bmp glubyte array how to into function precodedelete apparently 
+---------------------------------------------------------
+
+
+original query = 107  How to get the filename without the extension from a path in Python
+
+updated query = 107  a from the in how without extension python to path 
+---------------------------------------------------------
+
+
+original query = 108  Suggestions for python assert function
+
+updated query = 108  function python for assert suggestions other say prec printing equal 
+---------------------------------------------------------
+
+
+original query = 109  Timeout on a HTTP request in python
+
+updated query = 109  a request timeout in http python on other about send 
+---------------------------------------------------------
+
+
+original query = 110  How to use find algorithm with a vector of pointers to objects in c
+
+updated query = 110  a use vector c pointers find in how to with 
+---------------------------------------------------------
+
+
+original query = 111  How do I implement operator for dynamic array
+
+updated query = 111  dynamic implement array i how do operator for refers can 
+---------------------------------------------------------
+
+
+original query = 112  virtualenv nositepackages and pip still finding global packages
+
+updated query = 112  packages global and pip still virtualenv finding can openplans simply 
+---------------------------------------------------------
+
+
+original query = 113  stdlist stdvector methods and malloc
+
+updated query = 113  stdlist stdvector and malloc methods other say atomic equal make 
+---------------------------------------------------------
+
+
+original query = 114  What user do python scripts run as in windows
+
+updated query = 114  run user as scripts what in windows python do function 
+---------------------------------------------------------
+
+
+original query = 115  Django Template Error  Template ubase.html cannot be extended
+
+updated query = 115  django extended be html error cannot template have pthe pchange 
+---------------------------------------------------------
+
+
+original query = 116  Django development server shutdown error
+
+updated query = 116  shutdown django server development error other make deployment logic invalid 
+---------------------------------------------------------
+
+
+original query = 117  Python  How to calculate equal parts of two dictionaries
+
+updated query = 117  equal calculate dictionaries two how parts python to of other 
+---------------------------------------------------------
+
+
+original query = 118  PerlTk GUI for C Application
+
+updated query = 118  application perltk gui c for other say noreferreralexandrescu undefined same 
+---------------------------------------------------------
+
+
+original query = 119  Default value for bool in C
+
+updated query = 119  bool in default value c for other about function have 
+---------------------------------------------------------
+
+
+original query = 120  Expected primaryexpression before  token in strsafe.h
+
+updated query = 120  token before expected in h strsafe other function topic say 
+---------------------------------------------------------
+
+
+original query = 121  When should you return a reference to a object from a class method
+
+updated query = 121  a from should reference return object method to when class 
+---------------------------------------------------------
+
+
+original query = 122  profileguided optimization C
+
+updated query = 122  c optimization other say make proper the believe at might 
+---------------------------------------------------------
+
+
+original query = 123  Unmanaged dll call to crash a dotnet app
+
+updated query = 123  a crash dotnet app dll call unmanaged to other function 
+---------------------------------------------------------
+
+
+original query = 124  mrdivide function in MATLAB what is it doing and how can I do it in Python
+
+updated query = 124  function is can and i what in how it do 
+---------------------------------------------------------
+
+
+original query = 125  Is it possible to program iPhone in C
+
+updated query = 125  possible iphone is in program it to c faster compiled 
+---------------------------------------------------------
+
+
+original query = 126  How to make a list comprehension with the group method in python
+
+updated query = 126  make a comprehension the list in how python to group 
+---------------------------------------------------------
+
+
+original query = 127  regarding encryption method
+
+updated query = 127  regarding method encryption other pi one conducting latency may have 
+---------------------------------------------------------
+
+
+original query = 128  Is there something that I can do in C but I cant do in C
+
+updated query = 128  is can cant i in that do something c there 
+---------------------------------------------------------
+
+
+original query = 129  What are some concrete usecases for metaclasses
+
+updated query = 129  metaclasses what concrete usecases are some for mp other counts 
+---------------------------------------------------------
+
+
+original query = 130  How to make a single line systabcontrol32 that scrolls but doesnt show a scrollbar
+
+updated query = 130  make a line single show how systabcontrol that to scrollbar 
+---------------------------------------------------------
+
+
+original query = 131  Default route doesnt work
+
+updated query = 131  work default route doesnt about day have appropriate can perl 
+---------------------------------------------------------
+
+
+original query = 132  How can I read binary data from wfstream
+
+updated query = 132  from binary can i how wfstream data read about epthis 
+---------------------------------------------------------
+
+
+original query = 133  Failed to get separate instances of a class under modpython
+
+updated query = 133  a class separate under to failed modpython instances get of 
+---------------------------------------------------------
+
+
+original query = 134  What is the best practice in deploying application on Windows
+
+updated query = 134  application is the what in windows practice best deploying on 
+---------------------------------------------------------
+
+
+original query = 135  How do I detect when my window is minimized with wxPython
+
+updated query = 135  my wxpython is i how window do detect with when 
+---------------------------------------------------------
+
+
+original query = 136  How to modify a text file
+
+updated query = 136  a modify how to text file other about can writes 
+---------------------------------------------------------
+
+
+original query = 137  Whats a good way to render outlined fonts
+
+updated query = 137  a good way outlined whats to render fonts about except 
+---------------------------------------------------------
+
+
+original query = 138  How do I convert an IntPtr to a Stream
+
+updated query = 138  intptr a stream convert i how do to an pinned 
+---------------------------------------------------------
+
+
+original query = 139  Run remote php script from local python script
+
+updated query = 139  from run local remote php script python posts can htmlepusing 
+---------------------------------------------------------
+
+
+original query = 140  How do I paint with QPainter
+
+updated query = 140  qpainter paint i how do with function one codeqpainter save 
+---------------------------------------------------------
+
+
+original query = 141  How to determine CPU and memory consumption from inside a process
+
+updated query = 141  a from consumption memory and cpu how to process determine 
+---------------------------------------------------------
+
+
+original query = 142  Logging output of external program with wxpython
+
+updated query = 142  logging wxpython output program with of external can pafter excluded 
+---------------------------------------------------------
+
+
+original query = 143  Markdown Implementations for CC
+
+updated query = 143  cc markdown implementations for function have strip can strongoutput input 
+---------------------------------------------------------
+
+
+original query = 144  Extracting YouTube Videos author using Python and YouTubeAPI
+
+updated query = 144  using author and extracting youtube python videos about mp other 
+---------------------------------------------------------
+
+
+original query = 145  Using MultipartPostHandler to POST formdata with Python
+
+updated query = 145  using formdata with python to multipartposthandler post other payload have 
+---------------------------------------------------------
+
+
+original query = 146  An operator  whose parameters are nonconst references
+
+updated query = 146  parameters references are nonconst an whose operator other about function 
+---------------------------------------------------------
+
+
+original query = 147  Programmatically fetching contacts from Yahoo Address Book
+
+updated query = 147  from contacts fetching book address programmatically yahoo can though http 
+---------------------------------------------------------
+
+
+original query = 148  Are there any macros to determine if my code is being compiled to Windows
+
+updated query = 148  my compiled macros is if windows being are to there 
+---------------------------------------------------------
+
+
+original query = 149  Is there any way to get vim to auto wrap python strings at 79 chars
+
+updated query = 149  chars vim is way at auto wrap python to strings 
+---------------------------------------------------------
+
+
+original query = 150  Is it possible to make both a managed and unmanaged versions of the same C assembly
+
+updated query = 150  make possible a is same c the and versions it 
+---------------------------------------------------------
+
+
+original query = 151  Create static graphics files png gif jpg using Ruby or Python
+
+updated query = 151  files gif jpg using create graphics python static or ruby 
+---------------------------------------------------------
+
+
+original query = 152  Where are variables in C stored
+
+updated query = 152  where in variables are stored c other make same the 
+---------------------------------------------------------
+
+
+original query = 153  Is there anyone who has managed to compile modwsgi for apache on Mac OS X Leopard
+
+updated query = 153  os x is who has on mac leopard to managed 
+---------------------------------------------------------
+
+
+original query = 154  Can Selenium RC tests written in Python be integrated into PHPUnit
+
+updated query = 154  selenium phpunit can tests in rc be into python written 
+---------------------------------------------------------
+
+
+original query = 155  How can I parse the output of ocnetdev into keyvalue pairs per interface using Python
+
+updated query = 155  using the can i output how pairs parse per keyvalue 
+---------------------------------------------------------
+
+
+original query = 156  Checking lists and running handlers
+
+updated query = 156  handlers running and lists checking noreferrerspeech have appropriate can http 
+---------------------------------------------------------
+
+
+original query = 157  svg diagrams using python
+
+updated query = 157  diagrams using python svg other about charts compydot have can 
+---------------------------------------------------------
+
+
+original query = 158  EasytoUse Regular Expression Support in C
+
+updated query = 158  regular in support c expression function epthis they have input 
+---------------------------------------------------------
+
+
+original query = 159  Whats the difference between a header file and a library
+
+updated query = 159  header a between the and library difference whats file other 
+---------------------------------------------------------
+
+
+original query = 160  How can I insert RTF into a wxpython RichTextCtrl
+
+updated query = 160  insert a wxpython richtextctrl can i how rtf into topic 
+---------------------------------------------------------
+
+
+original query = 161  Using UTM with geodjango
+
+updated query = 161  using utm geodjango with convertion ogr other can input point 
+---------------------------------------------------------
+
+
+original query = 162  C Inserting 2D array Object into another
+
+updated query = 162  inserting array d object another into c other function desired 
+---------------------------------------------------------
+
+
+original query = 163  Can operators be used as functions C
+
+updated query = 163  as used functions operators can be c other function emc 
+---------------------------------------------------------
+
+
+original query = 164  Creating GUI with Python in Linux
+
+updated query = 164  creating in python linux with gui tool direction make compact 
+---------------------------------------------------------
+
+
+original query = 165  How to check whether the tlb file is registered in registry using C
+
+updated query = 165  using check is the in how registry whether to tlb 
+---------------------------------------------------------
+
+
+original query = 166  xml.parsers.expat.ExpatError on parsing XML
+
+updated query = 166  parsing expat parsers expaterror xml on other have can me 
+---------------------------------------------------------
+
+
+original query = 167  How to manage many to one relationship in Django
+
+updated query = 167  many one django relationship in how manage to have includes 
+---------------------------------------------------------
+
+
+original query = 168  Capturing video from a webcam in VC
+
+updated query = 168  a from webcam video in capturing vc other function send 
+---------------------------------------------------------
+
+
+original query = 169  Are there benefits of passing by pointer over passing by reference in C
+
+updated query = 169  reference passing pointer in benefits are over c there of 
+---------------------------------------------------------
+
+
+original query = 170  Protected derived class
+
+updated query = 170  class derived protected other say stronginherited pstrongpublic symbolizes direction make 
+---------------------------------------------------------
+
+
+original query = 171  Is there a replacement for Paste.Template
+
+updated query = 171  a is there paste replacement template for other except say 
+---------------------------------------------------------
+
+
+original query = 172  Can you recommend a Python SOAP client that can accept WSAttachments
+
+updated query = 172  a recommend accept soap can python that client you other 
+---------------------------------------------------------
+
+
+original query = 173  How to use schemas in Django
+
+updated query = 173  django use in how schemas to about other say liliphere 
+---------------------------------------------------------
+
+
+original query = 174  stdstring to float or double
+
+updated query = 174  stdstring to double float or other make same the at 
+---------------------------------------------------------
+
+
+original query = 175  unit testing for an application server
+
+updated query = 175  application unit testing server an for other say noreferreralexandrescu undefined 
+---------------------------------------------------------
+
+
+original query = 176  Random element in a map
+
+updated query = 176  map a element random in about ordering function have can 
+---------------------------------------------------------
+
+
+original query = 177  Thread Safe Data and Thread Safe Containers
+
+updated query = 177  safe containers and thread data other about refers fashion have 
+---------------------------------------------------------
+
+
+original query = 178  Difference between code generated using a template function and a normal function
+
+updated query = 178  a using function normal between generated and difference template code 
+---------------------------------------------------------
+
+
+original query = 179  Python http proxy library based on libevent or comparable technology
+
+updated query = 179  libevent proxy comparable or library python http technology on based 
+---------------------------------------------------------
+
+
+original query = 180  Where is the Dont Fragment Bit of the IP Flags used
+
+updated query = 180  where flags is used the ip bit dont fragment of 
+---------------------------------------------------------
+
+
+original query = 181  Linux IDE with proper support for STL debugging
+
+updated query = 181  ide proper support linux stl with for debugging likeprecodevector vectorstring 
+---------------------------------------------------------
+
+
+original query = 182  Memcached client for Windows in C or C
+
+updated query = 182  windows in client c memcached or for pi libmemcache aphth 
+---------------------------------------------------------
+
+
+original query = 183  How can I prevent URLDownloadToFile from retrieving from the cache
+
+updated query = 183  from can the i retrieving cache how prevent urldownloadtofile dwstructsize 
+---------------------------------------------------------
+
+
+original query = 184  automatic class templates
+
+updated query = 184  templates class automatic other say sitejinja tie rob undefined same 
+---------------------------------------------------------
+
+
+original query = 185  Creating planar shadows with 4x3 matrices
+
+updated query = 185  x creating shadows with matrices planar about other fourth matrix 
+---------------------------------------------------------
+
+
+original query = 186  Suppress output in Python calls to executables
+
+updated query = 186  calls output in python to executables suppress precodeos have wrong 
+---------------------------------------------------------
+
+
+original query = 187  Fully Featured C Assert Dialog
+
+updated query = 187  featured fully dialog c assert about other logging ppk have 
+---------------------------------------------------------
+
+
+original query = 188  Vector Ranges in C
+
+updated query = 188  vector ranges c in about function have they realized explicit 
+---------------------------------------------------------
+
+
+original query = 189  Which one will be faster
+
+updated query = 189  one faster be will which other significant same the windows 
+---------------------------------------------------------
+
+
+original query = 190  C Replacing part of string using iterators is not working
+
+updated query = 190  part string using is replacing working not iterators c of 
+---------------------------------------------------------
+
+
+original query = 191  Whats the difference between the WIN32 and WIN32 defines in C
+
+updated query = 191  win between the and in defines difference whats c other 
+---------------------------------------------------------
+
+
+original query = 192  How to get folder sharing on Windows Mobile emulator to work
+
+updated query = 192  sharing work windows how folder to on mobile emulator get 
+---------------------------------------------------------
+
+
+original query = 193  How do you run a Python script as a service in Windows
+
+updated query = 193  a run as service windows in how script do python 
+---------------------------------------------------------
+
+
+original query = 194  How do I deactivate an egg
+
+updated query = 194  egg i how deactivate do an installed gone they have 
+---------------------------------------------------------
+
+
+original query = 195  How to cast a pointer in C
+
+updated query = 195  a pointer in how to cast c function have hokey 
+---------------------------------------------------------
+
+
+original query = 196  Run Code Before Every Function Call for a Class in C
+
+updated query = 196  function run a class before in every call for c 
+---------------------------------------------------------
+
+
+original query = 197  What networking librariesframeworks exist for Python
+
+updated query = 197  what python exist for networking other send sends major same 
+---------------------------------------------------------
+
+
+original query = 198  Python loop counter in a for loop
+
+updated query = 198  a loop in counter python for other nineveh inner they 
+---------------------------------------------------------
+
+
+original query = 199  How to make python gracefully fail
+
+updated query = 199  make fail gracefully how python to other getlogger sensible continue 
+---------------------------------------------------------
+
+The index of file name is: Q173298.xml
+The index of updated file name is: 20
+The index of file name is: Q171765.xml
+The index of updated file name is: 0
+The index of file name is: Q743697.xml
+The index of updated file name is: 0
+The index of file name is: Q1350396.xml
+not in a list
+The index of file name is: Q522919.xml
+The index of updated file name is: 1
+The index of file name is: Q689384.xml
+The index of updated file name is: 2
+The index of file name is: Q328019.xml
+The index of updated file name is: 2
+The index of file name is: Q678236.xml
+The index of updated file name is: 0
+The index of file name is: Q1179096.xml
+The index of updated file name is: 27
+The index of file name is: Q683493.xml
+The index of updated file name is: 8
+The index of file name is: Q258871.xml
+The index of updated file name is: 27
+The index of file name is: Q598036.xml
+not in a list
+The index of file name is: Q1382925.xml
+The index of updated file name is: 2
+The index of file name is: Q1149994.xml
+The index of updated file name is: 0
+The index of file name is: Q1213706.xml
+The index of updated file name is: 32
+The index of file name is: Q1138106.xml
+The index of updated file name is: 0
+The index of file name is: Q583740.xml
+The index of updated file name is: 3
+The index of file name is: Q638360.xml
+The index of updated file name is: 2
+The index of file name is: Q211830.xml
+not in a list
+The index of file name is: Q827393.xml
+The index of updated file name is: 0
+The index of file name is: Q1373940.xml
+not in a list
+The index of file name is: Q494756.xml
+The index of updated file name is: 3
+The index of file name is: Q52557.xml
+not in a list
+The index of file name is: Q1469211.xml
+The index of updated file name is: 0
+The index of file name is: Q1007442.xml
+not in a list
+The index of file name is: Q270455.xml
+The index of updated file name is: 20
+The index of file name is: Q648276.xml
+not in a list
+The index of file name is: Q892673.xml
+not in a list
+The index of file name is: Q513009.xml
+not in a list
+The index of file name is: Q392160.xml
+The index of updated file name is: 0
+The index of file name is: Q684019.xml
+The index of updated file name is: 38
+The index of file name is: Q1279403.xml
+not in a list
+The index of file name is: Q161852.xml
+The index of updated file name is: 0
+The index of file name is: Q204427.xml
+The index of updated file name is: 16
+The index of file name is: Q1124667.xml
+not in a list
+The index of file name is: Q890170.xml
+The index of updated file name is: 14
+The index of file name is: Q125703.xml
+not in a list
+The index of file name is: Q1109498.xml
+The index of updated file name is: 1
+The index of file name is: Q42446.xml
+The index of updated file name is: 3
+The index of file name is: Q1104064.xml
+The index of updated file name is: 0
+The index of file name is: Q707492.xml
+The index of updated file name is: 1
+The index of file name is: Q63166.xml
+The index of updated file name is: 7
+The index of file name is: Q531708.xml
+The index of updated file name is: 14
+The index of file name is: Q889434.xml
+The index of updated file name is: 9
+The index of file name is: Q938742.xml
+The index of updated file name is: 4
+The index of file name is: Q680305.xml
+not in a list
+The index of file name is: Q381324.xml
+not in a list
+The index of file name is: Q909508.xml
+The index of updated file name is: 0
+The index of file name is: Q430424.xml
+The index of updated file name is: 1
+The index of file name is: Q1314174.xml
+The index of updated file name is: 9
+The index of file name is: Q1199018.xml
+not in a list
+The index of file name is: Q676159.xml
+The index of updated file name is: 4
+The index of file name is: Q230584.xml
+The index of updated file name is: 2
+The index of file name is: Q369305.xml
+The index of updated file name is: 13
+The index of file name is: Q1350114.xml
+The index of updated file name is: 0
+The index of file name is: Q1052589.xml
+not in a list
+The index of file name is: Q241955.xml
+not in a list
+The index of file name is: Q634964.xml
+The index of updated file name is: 0
+The index of file name is: Q1041.xml
+The index of updated file name is: 27
+The index of file name is: Q924485.xml
+The index of updated file name is: 11
+The index of file name is: Q623384.xml
+The index of updated file name is: 0
+The index of file name is: Q1332376.xml
+The index of updated file name is: 0
+The index of file name is: Q404547.xml
+The index of updated file name is: 3
+The index of file name is: Q992320.xml
+not in a list
+The index of file name is: Q1355918.xml
+The index of updated file name is: 4
+The index of file name is: Q1147053.xml
+The index of updated file name is: 0
+The index of file name is: Q1140672.xml
+not in a list
+The index of file name is: Q1195911.xml
+The index of updated file name is: 10
+The index of file name is: Q920483.xml
+not in a list
+The index of file name is: Q334856.xml
+The index of updated file name is: 21
+The index of file name is: Q433965.xml
+not in a list
+The index of file name is: Q790534.xml
+not in a list
+The index of file name is: Q491404.xml
+The index of updated file name is: 3
+The index of file name is: Q1160598.xml
+The index of updated file name is: 0
+The index of file name is: Q1012571.xml
+not in a list
+The index of file name is: Q464543.xml
+The index of updated file name is: 8
+The index of file name is: Q158836.xml
+not in a list
+The index of file name is: Q999699.xml
+The index of updated file name is: 0
+The index of file name is: Q1299272.xml
+not in a list
+The index of file name is: Q1268984.xml
+The index of updated file name is: 13
+The index of file name is: Q351806.xml
+The index of updated file name is: 0
+The index of file name is: Q1372150.xml
+The index of updated file name is: 0
+The index of file name is: Q343437.xml
+The index of updated file name is: 0
+The index of file name is: Q75432.xml
+The index of updated file name is: 0
+The index of file name is: Q285372.xml
+not in a list
+The index of file name is: Q1253307.xml
+The index of updated file name is: 0
+The index of file name is: Q699325.xml
+not in a list
+The index of file name is: Q983762.xml
+The index of updated file name is: 0
+The index of file name is: Q1430166.xml
+not in a list
+The index of file name is: Q1398855.xml
+The index of updated file name is: 16
+The index of file name is: Q1096207.xml
+The index of updated file name is: 31
+The index of file name is: Q662084.xml
+not in a list
+The index of file name is: Q204167.xml
+The index of updated file name is: 1
+The index of file name is: Q32404.xml
+The index of updated file name is: 1
+The index of file name is: Q922323.xml
+The index of updated file name is: 0
+The index of file name is: Q461236.xml
+The index of updated file name is: 1
+The index of file name is: Q1173962.xml
+The index of updated file name is: 0
+The index of file name is: Q1468780.xml
+not in a list
+The index of file name is: Q1185545.xml
+The index of updated file name is: 25
+The index of file name is: Q497952.xml
+The index of updated file name is: 0
+
+Average postion after rocchio : 19.6
+

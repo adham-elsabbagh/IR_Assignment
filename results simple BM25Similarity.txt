@@ -1,0 +1,462 @@
+RESULTS SIMPLE BM25SIMILARITY
+AVERAGE POSITION OF THE DOCUMENT WITH THE TITLE AS QUERY
+
+FILE NAME : Q173298.xml
+search loop:   Getting started with mobile programming. What is a good platform
+list of docs ['Q361527.xml', 'Q1119574.xml', 'Q671657.xml', 'Q1011168.xml', 'Q44821.xml', 'Q429322.xml', 'Q948686.xml', 'Q243962.xml', 'Q864887.xml', 'Q1432253.xml', 'Q1029435.xml', 'Q246407.xml', 'Q1204450.xml', 'Q271261.xml', 'Q173484.xml', 'Q1124223.xml', 'Q1058295.xml', 'Q1154196.xml', 'Q877068.xml', 'Q655650.xml', 'Q173298.xml', 'Q1307977.xml', 'Q340687.xml', 'Q1317123.xml', 'Q787838.xml', 'Q890292.xml', 'Q1342299.xml', 'Q68084.xml', 'Q684449.xml', 'Q209334.xml', 'Q708484.xml', 'Q171835.xml', 'Q739398.xml', 'Q343257.xml', 'Q913738.xml', 'Q1171988.xml', 'Q1451973.xml', 'Q576940.xml', 'Q974454.xml', 'Q997325.xml', 'Q674456.xml', 'Q1283274.xml', 'Q1150455.xml', 'Q1086550.xml', 'Q37428.xml', 'Q78184.xml', 'Q135112.xml', 'Q1344040.xml', 'Q157101.xml', 'Q1438097.xml']
+The index of file name is: 20
+
+FILE NAME : Q171765.xml
+search loop:   What is the best way to get all the divisors of a number
+list of docs ['Q171765.xml', 'Q942198.xml', 'Q1280229.xml', 'Q1010381.xml', 'Q571488.xml', 'Q134834.xml', 'Q1342975.xml', 'Q567222.xml', 'Q248400.xml', 'Q875027.xml', 'Q157039.xml', 'Q1179461.xml', 'Q175544.xml', 'Q618169.xml', 'Q884650.xml', 'Q566846.xml', 'Q684684.xml', 'Q376296.xml', 'Q526070.xml', 'Q1233381.xml', 'Q601430.xml', 'Q407587.xml', 'Q729905.xml', 'Q799434.xml', 'Q701402.xml', 'Q556730.xml', 'Q734754.xml', 'Q117429.xml', 'Q283297.xml', 'Q1436351.xml', 'Q8948.xml', 'Q1089936.xml', 'Q1083105.xml', 'Q785202.xml', 'Q1155617.xml', 'Q150355.xml', 'Q1003965.xml', 'Q986847.xml', 'Q1428786.xml', 'Q480178.xml', 'Q860602.xml', 'Q359903.xml', 'Q360338.xml', 'Q1154494.xml', 'Q1096003.xml', 'Q625314.xml', 'Q772817.xml', 'Q1218922.xml', 'Q332852.xml', 'Q554204.xml']
+The index of file name is: 0
+
+FILE NAME : Q743697.xml
+search loop:   What is the exact definition of instance variable
+list of docs ['Q743697.xml', 'Q223771.xml', 'Q1128431.xml', 'Q1093968.xml', 'Q1079623.xml', 'Q496582.xml', 'Q903363.xml', 'Q707380.xml', 'Q1149594.xml', 'Q68645.xml', 'Q620844.xml', 'Q1326468.xml', 'Q625083.xml', 'Q226302.xml', 'Q1260954.xml', 'Q187583.xml', 'Q416904.xml', 'Q369898.xml', 'Q737583.xml', 'Q207965.xml', 'Q396856.xml', 'Q487048.xml', 'Q1301346.xml', 'Q1467919.xml', 'Q635658.xml', 'Q1362328.xml', 'Q1375874.xml', 'Q1333296.xml', 'Q994353.xml', 'Q1241099.xml', 'Q448258.xml', 'Q185844.xml', 'Q1150698.xml', 'Q449436.xml', 'Q68282.xml', 'Q729683.xml', 'Q86582.xml', 'Q594730.xml', 'Q558216.xml', 'Q154469.xml', 'Q898387.xml', 'Q44084.xml', 'Q671925.xml', 'Q475871.xml', 'Q806846.xml', 'Q411708.xml', 'Q771816.xml', 'Q743669.xml', 'Q741306.xml', 'Q559274.xml']
+The index of file name is: 0
+
+FILE NAME : Q1350396.xml
+search loop:   Error while inserting pointer to a vector
+list of docs ['Q914460.xml', 'Q1222926.xml', 'Q485358.xml', 'Q555223.xml', 'Q1052135.xml', 'Q947394.xml', 'Q1084251.xml', 'Q488729.xml', 'Q313432.xml', 'Q995281.xml', 'Q1280513.xml', 'Q1149994.xml', 'Q62340.xml', 'Q594089.xml', 'Q581426.xml', 'Q1436020.xml', 'Q1171365.xml', 'Q119869.xml', 'Q279601.xml', 'Q1033169.xml', 'Q238008.xml', 'Q1053986.xml', 'Q356002.xml', 'Q967219.xml', 'Q52714.xml', 'Q518708.xml', 'Q907087.xml', 'Q1349734.xml', 'Q730498.xml', 'Q263945.xml', 'Q891913.xml', 'Q1009137.xml', 'Q983999.xml', 'Q1347280.xml', 'Q1399275.xml', 'Q162480.xml', 'Q1237361.xml', 'Q379445.xml', 'Q633549.xml', 'Q394844.xml', 'Q67426.xml', 'Q1382076.xml', 'Q1387647.xml', 'Q1355564.xml', 'Q981241.xml', 'Q739870.xml', 'Q596162.xml', 'Q769097.xml', 'Q727762.xml', 'Q1060305.xml']
+not in a list
+
+FILE NAME : Q522919.xml
+search loop:   Is this a reasonable use of the ternary operator
+list of docs ['Q643983.xml', 'Q522919.xml', 'Q135303.xml', 'Q394809.xml', 'Q206106.xml', 'Q795286.xml', 'Q701429.xml', 'Q432211.xml', 'Q1026966.xml', 'Q300208.xml', 'Q1445274.xml', 'Q455346.xml', 'Q1460949.xml', 'Q1312241.xml', 'Q392932.xml', 'Q446052.xml', 'Q393885.xml', 'Q370357.xml', 'Q357307.xml', 'Q345745.xml', 'Q697026.xml', 'Q516039.xml', 'Q762852.xml', 'Q1009326.xml', 'Q1283266.xml', 'Q1305055.xml', 'Q363944.xml', 'Q1063601.xml', 'Q862487.xml', 'Q1424261.xml', 'Q653150.xml', 'Q715417.xml', 'Q428630.xml', 'Q750267.xml', 'Q838290.xml', 'Q1159641.xml', 'Q768175.xml', 'Q519976.xml', 'Q1295199.xml', 'Q1395356.xml', 'Q1221300.xml', 'Q1148885.xml', 'Q327776.xml', 'Q763068.xml', 'Q630296.xml', 'Q476800.xml', 'Q926915.xml', 'Q683493.xml', 'Q978643.xml', 'Q1211802.xml']
+The index of file name is: 1
+
+FILE NAME : Q689384.xml
+search loop:   PyQt4 and QtWebKit  how to auto scroll the view
+list of docs ['Q1243064.xml', 'Q1111267.xml', 'Q689384.xml', 'Q1197172.xml', 'Q929955.xml', 'Q241144.xml', 'Q323774.xml', 'Q1167065.xml', 'Q1172928.xml', 'Q736651.xml', 'Q846684.xml', 'Q592404.xml', 'Q713938.xml', 'Q1104304.xml', 'Q1097969.xml', 'Q843490.xml', 'Q18869.xml', 'Q699649.xml', 'Q1153714.xml', 'Q148881.xml', 'Q1142970.xml', 'Q1251389.xml', 'Q1396339.xml', 'Q147323.xml', 'Q1400858.xml', 'Q812870.xml', 'Q341594.xml', 'Q118540.xml', 'Q1036660.xml', 'Q930257.xml', 'Q781256.xml', 'Q1230383.xml', 'Q1310158.xml', 'Q562313.xml', 'Q893984.xml', 'Q1119110.xml', 'Q997904.xml', 'Q1472044.xml', 'Q622672.xml', 'Q1389128.xml', 'Q1400179.xml', 'Q1013670.xml', 'Q1073550.xml', 'Q1083118.xml', 'Q1003905.xml', 'Q487484.xml', 'Q1346964.xml', 'Q758256.xml', 'Q1419650.xml', 'Q999303.xml']
+The index of file name is: 2
+
+FILE NAME : Q328019.xml
+search loop:   How to load bmp into GLubyte array
+list of docs ['Q679210.xml', 'Q199403.xml', 'Q328019.xml', 'Q664698.xml', 'Q327642.xml', 'Q441599.xml', 'Q1163459.xml', 'Q367684.xml', 'Q1193748.xml', 'Q1274549.xml', 'Q1340577.xml', 'Q1152629.xml', 'Q862487.xml', 'Q1350108.xml', 'Q167743.xml', 'Q1191525.xml', 'Q1142502.xml', 'Q308673.xml', 'Q981147.xml', 'Q1252333.xml', 'Q601430.xml', 'Q1095265.xml', 'Q1054530.xml', 'Q471265.xml', 'Q1101028.xml', 'Q200093.xml', 'Q276847.xml', 'Q236125.xml', 'Q556730.xml', 'Q751840.xml', 'Q346267.xml', 'Q1202637.xml', 'Q1209529.xml', 'Q695419.xml', 'Q766127.xml', 'Q433293.xml', 'Q1422817.xml', 'Q739043.xml', 'Q384759.xml', 'Q1060436.xml', 'Q854541.xml', 'Q433850.xml', 'Q1116948.xml', 'Q987828.xml', 'Q996879.xml', 'Q1009091.xml', 'Q524342.xml', 'Q1119754.xml', 'Q639821.xml', 'Q625247.xml']
+The index of file name is: 2
+
+FILE NAME : Q678236.xml
+search loop:   How to get the filename without the extension from a path in Python
+list of docs ['Q678236.xml', 'Q959837.xml', 'Q377017.xml', 'Q541390.xml', 'Q120656.xml', 'Q1027714.xml', 'Q599953.xml', 'Q51520.xml', 'Q646955.xml', 'Q51949.xml', 'Q225735.xml', 'Q837606.xml', 'Q542596.xml', 'Q918154.xml', 'Q50499.xml', 'Q221185.xml', 'Q67631.xml', 'Q1176624.xml', 'Q43580.xml', 'Q904170.xml', 'Q775351.xml', 'Q660160.xml', 'Q200737.xml', 'Q82831.xml', 'Q1122924.xml', 'Q757933.xml', 'Q881639.xml', 'Q889333.xml', 'Q185936.xml', 'Q140758.xml', 'Q993265.xml', 'Q524137.xml', 'Q595305.xml', 'Q959168.xml', 'Q879530.xml', 'Q352837.xml', 'Q714063.xml', 'Q1001538.xml', 'Q389398.xml', 'Q973473.xml', 'Q894802.xml', 'Q40705.xml', 'Q974821.xml', 'Q973231.xml', 'Q955504.xml', 'Q168409.xml', 'Q437589.xml', 'Q740836.xml', 'Q375154.xml', 'Q242065.xml']
+The index of file name is: 0
+
+FILE NAME : Q1179096.xml
+search loop:   Suggestions for python assert function
+list of docs ['Q1307367.xml', 'Q1179096.xml', 'Q1372589.xml', 'Q970545.xml', 'Q741950.xml', 'Q1185199.xml', 'Q1083898.xml', 'Q1062171.xml', 'Q983762.xml', 'Q311202.xml', 'Q447206.xml', 'Q1308607.xml', 'Q452610.xml', 'Q367560.xml', 'Q340093.xml', 'Q1427479.xml', 'Q1389180.xml', 'Q944592.xml', 'Q749070.xml', 'Q978247.xml', 'Q1273211.xml', 'Q715417.xml', 'Q392981.xml', 'Q140026.xml', 'Q777261.xml', 'Q129507.xml', 'Q1167617.xml', 'Q558216.xml', 'Q1199053.xml', 'Q1408286.xml', 'Q1418068.xml', 'Q463604.xml', 'Q78723.xml', 'Q634485.xml', 'Q1409295.xml', 'Q1116018.xml', 'Q253212.xml', 'Q679021.xml', 'Q680826.xml', 'Q956867.xml', 'Q1303243.xml', 'Q270542.xml', 'Q270488.xml', 'Q486087.xml', 'Q1469679.xml', 'Q1322049.xml', 'Q179723.xml', 'Q653368.xml', 'Q1056051.xml', 'Q1260259.xml']
+The index of file name is: 1
+
+FILE NAME : Q683493.xml
+search loop:   Timeout on a HTTP request in python
+list of docs ['Q265720.xml', 'Q683493.xml', 'Q1223927.xml', 'Q843392.xml', 'Q1290142.xml', 'Q997969.xml', 'Q201515.xml', 'Q395451.xml', 'Q1208067.xml', 'Q508817.xml', 'Q1032030.xml', 'Q675130.xml', 'Q1140661.xml', 'Q1285150.xml', 'Q603856.xml', 'Q1293518.xml', 'Q629518.xml', 'Q111945.xml', 'Q563384.xml', 'Q695703.xml', 'Q1180878.xml', 'Q987217.xml', 'Q1107862.xml', 'Q979599.xml', 'Q984244.xml', 'Q391532.xml', 'Q645312.xml', 'Q635113.xml', 'Q894168.xml', 'Q85119.xml', 'Q456753.xml', 'Q1315465.xml', 'Q600536.xml', 'Q1071110.xml', 'Q1430495.xml', 'Q991496.xml', 'Q1011339.xml', 'Q223356.xml', 'Q1353055.xml', 'Q464040.xml', 'Q962179.xml', 'Q149307.xml', 'Q921532.xml', 'Q1254629.xml', 'Q1466579.xml', 'Q629559.xml', 'Q92620.xml', 'Q148853.xml', 'Q341379.xml', 'Q167426.xml']
+The index of file name is: 1
+
+FILE NAME : Q258871.xml
+search loop:   How to use find algorithm with a vector of pointers to objects in c
+list of docs ['Q1153064.xml', 'Q850796.xml', 'Q1434343.xml', 'Q589985.xml', 'Q369211.xml', 'Q1009137.xml', 'Q1305713.xml', 'Q849168.xml', 'Q1361139.xml', 'Q571394.xml', 'Q641724.xml', 'Q245475.xml', 'Q949047.xml', 'Q802706.xml', 'Q691734.xml', 'Q1083811.xml', 'Q182957.xml', 'Q799314.xml', 'Q67426.xml', 'Q1041620.xml', 'Q1254056.xml', 'Q1380463.xml', 'Q1265702.xml', 'Q644673.xml', 'Q583821.xml', 'Q1332527.xml', 'Q596964.xml', 'Q572780.xml', 'Q608082.xml', 'Q1454843.xml', 'Q749061.xml', 'Q1021521.xml', 'Q258871.xml', 'Q703503.xml', 'Q776042.xml', 'Q262000.xml', 'Q1171365.xml', 'Q96285.xml', 'Q640407.xml', 'Q222557.xml', 'Q1326118.xml', 'Q1137228.xml', 'Q231491.xml', 'Q991335.xml', 'Q162941.xml', 'Q1106476.xml', 'Q490005.xml', 'Q1242947.xml', 'Q978739.xml', 'Q1447783.xml']
+The index of file name is: 32
+
+FILE NAME : Q598036.xml
+search loop:   How do I implement operator for dynamic array
+list of docs ['Q1274428.xml', 'Q288217.xml', 'Q433850.xml', 'Q1176298.xml', 'Q1314526.xml', 'Q1350630.xml', 'Q650283.xml', 'Q1408866.xml', 'Q322086.xml', 'Q737567.xml', 'Q201940.xml', 'Q751878.xml', 'Q554476.xml', 'Q683838.xml', 'Q958549.xml', 'Q1021138.xml', 'Q426737.xml', 'Q232445.xml', 'Q1204521.xml', 'Q913070.xml', 'Q62512.xml', 'Q1285457.xml', 'Q23190.xml', 'Q1124534.xml', 'Q394844.xml', 'Q408196.xml', 'Q849168.xml', 'Q1295655.xml', 'Q850796.xml', 'Q365782.xml', 'Q679210.xml', 'Q936687.xml', 'Q48094.xml', 'Q983244.xml', 'Q1338921.xml', 'Q357307.xml', 'Q972705.xml', 'Q1201198.xml', 'Q1101028.xml', 'Q829700.xml', 'Q378207.xml', 'Q581426.xml', 'Q108443.xml', 'Q598036.xml', 'Q895077.xml', 'Q1021875.xml', 'Q370357.xml', 'Q555684.xml', 'Q394763.xml', 'Q1159641.xml']
+The index of file name is: 43
+
+FILE NAME : Q1382925.xml
+search loop:   virtualenv nositepackages and pip still finding global packages
+list of docs ['Q643756.xml', 'Q737383.xml', 'Q1382925.xml', 'Q171785.xml', 'Q234590.xml', 'Q1218891.xml', 'Q434407.xml', 'Q1231688.xml', 'Q864956.xml', 'Q1015605.xml', 'Q229069.xml', 'Q489113.xml', 'Q1476111.xml', 'Q486995.xml', 'Q1130402.xml', 'Q1438270.xml', 'Q1446852.xml', 'Q1213690.xml', 'Q671412.xml', 'Q1449396.xml', 'Q1108974.xml', 'Q1423879.xml', 'Q557462.xml', 'Q1145374.xml', 'Q1180411.xml', 'Q1223513.xml', 'Q1309606.xml', 'Q601676.xml', 'Q1416005.xml', 'Q501945.xml', 'Q843531.xml', 'Q99479.xml', 'Q166334.xml', 'Q990754.xml', 'Q312549.xml', 'Q545730.xml', 'Q1215610.xml', 'Q249283.xml', 'Q557171.xml', 'Q540538.xml', 'Q49926.xml', 'Q797241.xml', 'Q579151.xml', 'Q1471567.xml', 'Q449436.xml', 'Q1230089.xml', 'Q53027.xml', 'Q507425.xml', 'Q1313989.xml', 'Q865911.xml']
+The index of file name is: 2
+
+FILE NAME : Q1149994.xml
+search loop:   stdlist stdvector methods and malloc
+list of docs ['Q1149994.xml', 'Q1402483.xml', 'Q1033169.xml', 'Q634662.xml', 'Q633549.xml', 'Q586634.xml', 'Q890958.xml', 'Q650232.xml', 'Q1112584.xml', 'Q1399891.xml', 'Q544206.xml', 'Q688471.xml', 'Q1110802.xml', 'Q1242190.xml', 'Q993590.xml', 'Q1281415.xml', 'Q1075154.xml', 'Q1371710.xml', 'Q1304730.xml', 'Q788953.xml', 'Q923922.xml', 'Q1094532.xml', 'Q808148.xml', 'Q261271.xml', 'Q807939.xml', 'Q1155693.xml', 'Q1044785.xml', 'Q292109.xml', 'Q240212.xml', 'Q1119134.xml', 'Q626123.xml', 'Q1025579.xml', 'Q1316018.xml', 'Q243802.xml', 'Q770577.xml', 'Q434099.xml', 'Q389797.xml', 'Q147298.xml', 'Q676575.xml', 'Q1395202.xml', 'Q1259803.xml', 'Q1213403.xml', 'Q132242.xml', 'Q108768.xml', 'Q184537.xml', 'Q196329.xml', 'Q70880.xml', 'Q732617.xml', 'Q1166507.xml', 'Q1350819.xml']
+The index of file name is: 0
+
+FILE NAME : Q1213706.xml
+search loop:   What user do python scripts run as in windows
+list of docs ['Q843268.xml', 'Q195109.xml', 'Q34328.xml', 'Q1251260.xml', 'Q177287.xml', 'Q654520.xml', 'Q488366.xml', 'Q341184.xml', 'Q1332853.xml', 'Q833062.xml', 'Q1106574.xml', 'Q954834.xml', 'Q877033.xml', 'Q557466.xml', 'Q1166503.xml', 'Q204062.xml', 'Q1213706.xml', 'Q764631.xml', 'Q716524.xml', 'Q737947.xml', 'Q558776.xml', 'Q2933.xml', 'Q811670.xml', 'Q130763.xml', 'Q779675.xml', 'Q1000900.xml', 'Q1272309.xml', 'Q445595.xml', 'Q883370.xml', 'Q552996.xml', 'Q153221.xml', 'Q981200.xml', 'Q620154.xml', 'Q829123.xml', 'Q543466.xml', 'Q32404.xml', 'Q1829.xml', 'Q1258566.xml', 'Q524068.xml', 'Q1125637.xml', 'Q113288.xml', 'Q940149.xml', 'Q1448302.xml', 'Q440547.xml', 'Q987217.xml', 'Q340122.xml', 'Q1422368.xml', 'Q456707.xml', 'Q106725.xml', 'Q814078.xml']
+The index of file name is: 16
+
+FILE NAME : Q1138106.xml
+search loop:   Django Template Error  Template ubase.html cannot be extended
+list of docs ['Q1451963.xml', 'Q1037388.xml', 'Q613807.xml', 'Q768250.xml', 'Q883109.xml', 'Q1138106.xml', 'Q415963.xml', 'Q518162.xml', 'Q1167434.xml', 'Q182229.xml', 'Q1473332.xml', 'Q1378250.xml', 'Q484338.xml', 'Q1295492.xml', 'Q1469614.xml', 'Q246725.xml', 'Q576345.xml', 'Q1230423.xml', 'Q964569.xml', 'Q1464894.xml', 'Q1477028.xml', 'Q778382.xml', 'Q1267754.xml', 'Q311300.xml', 'Q274361.xml', 'Q387686.xml', 'Q699570.xml', 'Q1419224.xml', 'Q696749.xml', 'Q594703.xml', 'Q1290517.xml', 'Q164427.xml', 'Q312549.xml', 'Q1118183.xml', 'Q1429547.xml', 'Q98135.xml', 'Q687718.xml', 'Q110803.xml', 'Q258767.xml', 'Q1411069.xml', 'Q650091.xml', 'Q981375.xml', 'Q517349.xml', 'Q238081.xml', 'Q1059831.xml', 'Q243831.xml', 'Q1078312.xml', 'Q890924.xml', 'Q993922.xml', 'Q1458829.xml']
+The index of file name is: 5
+
+FILE NAME : Q583740.xml
+search loop:   Django development server shutdown error
+list of docs ['Q1291755.xml', 'Q1075753.xml', 'Q583740.xml', 'Q1326588.xml', 'Q1084937.xml', 'Q981306.xml', 'Q1148062.xml', 'Q268629.xml', 'Q548551.xml', 'Q409783.xml', 'Q205136.xml', 'Q1283856.xml', 'Q60680.xml', 'Q1414130.xml', 'Q842831.xml', 'Q1223927.xml', 'Q1213427.xml', 'Q1365279.xml', 'Q238081.xml', 'Q793646.xml', 'Q1110082.xml', 'Q566819.xml', 'Q443920.xml', 'Q322225.xml', 'Q674030.xml', 'Q209086.xml', 'Q1359449.xml', 'Q843753.xml', 'Q1300213.xml', 'Q1149881.xml', 'Q1195260.xml', 'Q707023.xml', 'Q1003873.xml', 'Q531224.xml', 'Q647005.xml', 'Q860169.xml', 'Q926579.xml', 'Q360911.xml', 'Q1195432.xml', 'Q1064152.xml', 'Q937316.xml', 'Q121439.xml', 'Q570952.xml', 'Q393637.xml', 'Q411902.xml', 'Q159541.xml', 'Q803613.xml', 'Q1473487.xml', 'Q732405.xml', 'Q1014570.xml']
+The index of file name is: 2
+
+FILE NAME : Q638360.xml
+search loop:   Python  How to calculate equal parts of two dictionaries
+list of docs ['Q327311.xml', 'Q1154378.xml', 'Q526125.xml', 'Q399957.xml', 'Q638360.xml', 'Q285938.xml', 'Q1317410.xml', 'Q631463.xml', 'Q1055410.xml', 'Q1165352.xml', 'Q38987.xml', 'Q1024847.xml', 'Q592746.xml', 'Q1085617.xml', 'Q1136826.xml', 'Q1031199.xml', 'Q195626.xml', 'Q347734.xml', 'Q298257.xml', 'Q1456617.xml', 'Q1202088.xml', 'Q671403.xml', 'Q558216.xml', 'Q475552.xml', 'Q1417907.xml', 'Q1151658.xml', 'Q641724.xml', 'Q396421.xml', 'Q842245.xml', 'Q431470.xml', 'Q145607.xml', 'Q382466.xml', 'Q942902.xml', 'Q804992.xml', 'Q189943.xml', 'Q1307016.xml', 'Q1454437.xml', 'Q883211.xml', 'Q314583.xml', 'Q863935.xml', 'Q737512.xml', 'Q577234.xml', 'Q961344.xml', 'Q886633.xml', 'Q571538.xml', 'Q402217.xml', 'Q1290030.xml', 'Q1116725.xml', 'Q1185634.xml', 'Q1275735.xml']
+The index of file name is: 4
+
+FILE NAME : Q211830.xml
+search loop:   PerlTk GUI for C Application
+list of docs ['Q261829.xml', 'Q455904.xml', 'Q1396050.xml', 'Q449168.xml', 'Q13607.xml', 'Q758023.xml', 'Q707491.xml', 'Q623692.xml', 'Q1453393.xml', 'Q1043114.xml', 'Q1048254.xml', 'Q506441.xml', 'Q1189084.xml', 'Q61499.xml', 'Q692566.xml', 'Q1006364.xml', 'Q875909.xml', 'Q1332762.xml', 'Q48299.xml', 'Q7489.xml', 'Q584734.xml', 'Q402598.xml', 'Q1221244.xml', 'Q816714.xml', 'Q1125596.xml', 'Q1265169.xml', 'Q5313.xml', 'Q394146.xml', 'Q93930.xml', 'Q35922.xml', 'Q1283202.xml', 'Q437416.xml', 'Q640229.xml', 'Q1387264.xml', 'Q1322243.xml', 'Q1210700.xml', 'Q875686.xml', 'Q977653.xml', 'Q1355918.xml', 'Q665566.xml', 'Q1186017.xml', 'Q476881.xml', 'Q318641.xml', 'Q1440118.xml', 'Q772089.xml', 'Q212559.xml', 'Q1086179.xml', 'Q527314.xml', 'Q1027894.xml', 'Q1334596.xml']
+not in a list
+
+FILE NAME : Q827393.xml
+search loop:   Default value for bool in C
+list of docs ['Q827393.xml', 'Q1059630.xml', 'Q412611.xml', 'Q1142209.xml', 'Q663724.xml', 'Q529210.xml', 'Q1123725.xml', 'Q886729.xml', 'Q1409454.xml', 'Q365198.xml', 'Q694884.xml', 'Q1380567.xml', 'Q1436219.xml', 'Q1183448.xml', 'Q142644.xml', 'Q715417.xml', 'Q1450133.xml', 'Q1042107.xml', 'Q117429.xml', 'Q924257.xml', 'Q507971.xml', 'Q1127396.xml', 'Q323816.xml', 'Q1010539.xml', 'Q436513.xml', 'Q420099.xml', 'Q146795.xml', 'Q120033.xml', 'Q986021.xml', 'Q1150777.xml', 'Q670308.xml', 'Q1005476.xml', 'Q607864.xml', 'Q385298.xml', 'Q982808.xml', 'Q326062.xml', 'Q1149111.xml', 'Q217911.xml', 'Q589985.xml', 'Q761917.xml', 'Q699250.xml', 'Q87372.xml', 'Q565210.xml', 'Q270592.xml', 'Q733125.xml', 'Q145814.xml', 'Q855121.xml', 'Q563221.xml', 'Q237285.xml', 'Q308364.xml']
+The index of file name is: 0
+
+FILE NAME : Q1373940.xml
+search loop:   Expected primaryexpression before  token in strsafe.h
+list of docs ['Q1373940.xml', 'Q1418262.xml', 'Q1401497.xml', 'Q1293889.xml', 'Q106117.xml', 'Q851351.xml', 'Q1428780.xml', 'Q1121971.xml', 'Q864124.xml', 'Q1123117.xml', 'Q913409.xml', 'Q575426.xml', 'Q1060520.xml', 'Q108009.xml', 'Q1312070.xml', 'Q1368327.xml', 'Q910829.xml', 'Q323407.xml', 'Q417703.xml', 'Q1376035.xml', 'Q344012.xml', 'Q691148.xml', 'Q445702.xml', 'Q820696.xml', 'Q1135822.xml', 'Q871354.xml', 'Q841159.xml', 'Q275355.xml', 'Q1034995.xml', 'Q712460.xml', 'Q271612.xml', 'Q741452.xml', 'Q856769.xml', 'Q679660.xml', 'Q644981.xml', 'Q992661.xml', 'Q955568.xml', 'Q897295.xml', 'Q133886.xml', 'Q942148.xml', 'Q888047.xml', 'Q290436.xml', 'Q363998.xml', 'Q672618.xml', 'Q356638.xml', 'Q1450423.xml', 'Q1050520.xml', 'Q289347.xml', 'Q1029055.xml', 'Q1349367.xml']
+The index of file name is: 0
+
+FILE NAME : Q494756.xml
+search loop:   When should you return a reference to a object from a class method
+list of docs ['Q490487.xml', 'Q1041618.xml', 'Q697564.xml', 'Q494756.xml', 'Q222877.xml', 'Q1253859.xml', 'Q753537.xml', 'Q1365206.xml', 'Q843459.xml', 'Q407100.xml', 'Q1230006.xml', 'Q1049734.xml', 'Q68282.xml', 'Q1087135.xml', 'Q293431.xml', 'Q53225.xml', 'Q599430.xml', 'Q1227121.xml', 'Q685713.xml', 'Q390250.xml', 'Q100732.xml', 'Q1041362.xml', 'Q1364923.xml', 'Q371753.xml', 'Q899483.xml', 'Q1327943.xml', 'Q795674.xml', 'Q725375.xml', 'Q179105.xml', 'Q341668.xml', 'Q398641.xml', 'Q1047021.xml', 'Q251325.xml', 'Q134731.xml', 'Q215399.xml', 'Q625083.xml', 'Q396856.xml', 'Q475888.xml', 'Q1124263.xml', 'Q631783.xml', 'Q97081.xml', 'Q436804.xml', 'Q677444.xml', 'Q478482.xml', 'Q108389.xml', 'Q928990.xml', 'Q592728.xml', 'Q469950.xml', 'Q712279.xml', 'Q306130.xml']
+The index of file name is: 3
+
+FILE NAME : Q52557.xml
+search loop:   profileguided optimization C
+list of docs ['Q618859.xml', 'Q179500.xml', 'Q675547.xml', 'Q145096.xml', 'Q1151557.xml', 'Q610934.xml', 'Q283701.xml', 'Q304088.xml', 'Q1420234.xml', 'Q800576.xml', 'Q199418.xml', 'Q598552.xml', 'Q67894.xml', 'Q1250219.xml', 'Q558227.xml', 'Q1201593.xml', 'Q462924.xml', 'Q1041866.xml', 'Q969297.xml', 'Q527700.xml', 'Q1230708.xml', 'Q703979.xml', 'Q473720.xml', 'Q1292138.xml', 'Q376966.xml', 'Q109937.xml', 'Q270455.xml', 'Q307362.xml', 'Q513009.xml', 'Q497786.xml', 'Q1025345.xml', 'Q297323.xml', 'Q152436.xml', 'Q640657.xml', 'Q1144034.xml', 'Q1054406.xml', 'Q297122.xml', 'Q197461.xml', 'Q713042.xml', 'Q443090.xml', 'Q345936.xml', 'Q780027.xml', 'Q649789.xml', 'Q1251710.xml', 'Q946855.xml', 'Q734227.xml', 'Q1281329.xml', 'Q688386.xml', 'Q878304.xml', 'Q879664.xml']
+not in a list
+
+FILE NAME : Q1469211.xml
+search loop:   Unmanaged dll call to crash a dotnet app
+list of docs ['Q1469211.xml', 'Q277809.xml', 'Q1473520.xml', 'Q784991.xml', 'Q1347248.xml', 'Q1147199.xml', 'Q112831.xml', 'Q1469947.xml', 'Q1343986.xml', 'Q734140.xml', 'Q357898.xml', 'Q818340.xml', 'Q674009.xml', 'Q949430.xml', 'Q1046499.xml', 'Q795297.xml', 'Q720004.xml', 'Q1171279.xml', 'Q684133.xml', 'Q728325.xml', 'Q744750.xml', 'Q1268216.xml', 'Q1110779.xml', 'Q971645.xml', 'Q1269801.xml', 'Q385370.xml', 'Q1062910.xml', 'Q824458.xml', 'Q783354.xml', 'Q877888.xml', 'Q954321.xml', 'Q852048.xml', 'Q668325.xml', 'Q1426330.xml', 'Q604470.xml', 'Q1167028.xml', 'Q642082.xml', 'Q278025.xml', 'Q194358.xml', 'Q1471644.xml', 'Q57840.xml', 'Q315051.xml', 'Q476043.xml', 'Q935664.xml', 'Q236035.xml', 'Q1163503.xml', 'Q1470009.xml', 'Q304850.xml', 'Q973939.xml', 'Q1054009.xml']
+The index of file name is: 0
+
+FILE NAME : Q1007442.xml
+search loop:   mrdivide function in MATLAB what is it doing and how can I do it in Python
+list of docs ['Q1007442.xml', 'Q1001634.xml', 'Q179904.xml', 'Q909078.xml', 'Q1095265.xml', 'Q1230065.xml', 'Q1057666.xml', 'Q907692.xml', 'Q874461.xml', 'Q1071778.xml', 'Q565371.xml', 'Q244803.xml', 'Q747959.xml', 'Q909651.xml', 'Q601874.xml', 'Q49926.xml', 'Q887252.xml', 'Q49307.xml', 'Q1470716.xml', 'Q5136.xml', 'Q1182183.xml', 'Q524930.xml', 'Q1380592.xml', 'Q594266.xml', 'Q227282.xml', 'Q633127.xml', 'Q817604.xml', 'Q877145.xml', 'Q248421.xml', 'Q1460007.xml', 'Q775357.xml', 'Q922068.xml', 'Q908392.xml', 'Q534855.xml', 'Q1340338.xml', 'Q1326811.xml', 'Q643173.xml', 'Q4942.xml', 'Q825162.xml', 'Q1329994.xml', 'Q987758.xml', 'Q919353.xml', 'Q1348692.xml', 'Q1066758.xml', 'Q132734.xml', 'Q347010.xml', 'Q953710.xml', 'Q537086.xml', 'Q243696.xml', 'Q604078.xml']
+The index of file name is: 0
+
+FILE NAME : Q270455.xml
+search loop:   Is it possible to program iPhone in C
+list of docs ['Q1230450.xml', 'Q680561.xml', 'Q617202.xml', 'Q308673.xml', 'Q1236781.xml', 'Q1291226.xml', 'Q550474.xml', 'Q1059727.xml', 'Q552509.xml', 'Q1161681.xml', 'Q867450.xml', 'Q43315.xml', 'Q48338.xml', 'Q566078.xml', 'Q135112.xml', 'Q768941.xml', 'Q103480.xml', 'Q1239613.xml', 'Q270455.xml', 'Q1013461.xml', 'Q1080770.xml', 'Q1338095.xml', 'Q339508.xml', 'Q112702.xml', 'Q240887.xml', 'Q1108958.xml', 'Q1283664.xml', 'Q1187898.xml', 'Q931652.xml', 'Q308729.xml', 'Q896647.xml', 'Q1071417.xml', 'Q1008126.xml', 'Q1044378.xml', 'Q1268604.xml', 'Q1344026.xml', 'Q1062154.xml', 'Q348178.xml', 'Q526734.xml', 'Q997602.xml', 'Q1107865.xml', 'Q693665.xml', 'Q758693.xml', 'Q927574.xml', 'Q1131582.xml', 'Q445139.xml', 'Q339200.xml', 'Q716540.xml', 'Q847109.xml', 'Q1090503.xml']
+The index of file name is: 18
+
+FILE NAME : Q648276.xml
+search loop:   How to make a list comprehension with the group method in python
+list of docs ['Q1231333.xml', 'Q1372890.xml', 'Q216657.xml', 'Q1221232.xml', 'Q1410887.xml', 'Q766546.xml', 'Q1279356.xml', 'Q585006.xml', 'Q1220872.xml', 'Q546385.xml', 'Q1302999.xml', 'Q1081789.xml', 'Q108193.xml', 'Q859489.xml', 'Q1309989.xml', 'Q1014247.xml', 'Q1332527.xml', 'Q1150898.xml', 'Q643930.xml', 'Q1223927.xml', 'Q534375.xml', 'Q1366943.xml', 'Q950910.xml', 'Q1467898.xml', 'Q493819.xml', 'Q1288421.xml', 'Q1088738.xml', 'Q102394.xml', 'Q53513.xml', 'Q1053928.xml', 'Q390852.xml', 'Q571522.xml', 'Q1378926.xml', 'Q1227448.xml', 'Q252703.xml', 'Q1351669.xml', 'Q1163459.xml', 'Q1418825.xml', 'Q627435.xml', 'Q1342601.xml', 'Q1017909.xml', 'Q1476111.xml', 'Q1117451.xml', 'Q546337.xml', 'Q1020722.xml', 'Q899138.xml', 'Q218616.xml', 'Q333706.xml', 'Q1370997.xml', 'Q200373.xml']
+not in a list
+
+FILE NAME : Q892673.xml
+search loop:   regarding encryption method
+list of docs ['Q266849.xml', 'Q1366146.xml', 'Q1333905.xml', 'Q705459.xml', 'Q698472.xml', 'Q810082.xml', 'Q1385546.xml', 'Q937000.xml', 'Q1288216.xml', 'Q1107596.xml', 'Q787287.xml', 'Q710807.xml', 'Q245304.xml', 'Q740435.xml', 'Q1150698.xml', 'Q38299.xml', 'Q1086830.xml', 'Q1027990.xml', 'Q456323.xml', 'Q33978.xml', 'Q1112724.xml', 'Q785058.xml', 'Q386753.xml', 'Q1457669.xml', 'Q814896.xml', 'Q1269378.xml', 'Q1279358.xml', 'Q1090755.xml', 'Q118654.xml', 'Q755196.xml', 'Q694706.xml', 'Q1328041.xml', 'Q272900.xml', 'Q319623.xml', 'Q399022.xml', 'Q911905.xml', 'Q805487.xml', 'Q948947.xml', 'Q100444.xml', 'Q931405.xml', 'Q750635.xml', 'Q1050377.xml', 'Q752998.xml', 'Q1305182.xml', 'Q1155693.xml', 'Q552960.xml', 'Q594442.xml', 'Q695754.xml', 'Q982129.xml', 'Q1287747.xml']
+not in a list
+
+FILE NAME : Q513009.xml
+search loop:   Is there something that I can do in C but I cant do in C
+list of docs ['Q871411.xml', 'Q344715.xml', 'Q924257.xml', 'Q698011.xml', 'Q1184337.xml', 'Q8263.xml', 'Q833356.xml', 'Q1079288.xml', 'Q449736.xml', 'Q529284.xml', 'Q461711.xml', 'Q1218014.xml', 'Q755028.xml', 'Q1043735.xml', 'Q524453.xml', 'Q1142502.xml', 'Q653787.xml', 'Q610403.xml', 'Q467851.xml', 'Q1119220.xml', 'Q886546.xml', 'Q1433907.xml', 'Q967141.xml', 'Q1111479.xml', 'Q926946.xml', 'Q940783.xml', 'Q1368802.xml', 'Q1097785.xml', 'Q477829.xml', 'Q691773.xml', 'Q1219112.xml', 'Q1448276.xml', 'Q69926.xml', 'Q1334171.xml', 'Q550035.xml', 'Q1101049.xml', 'Q1270449.xml', 'Q1466968.xml', 'Q623475.xml', 'Q1087537.xml', 'Q1076316.xml', 'Q1254196.xml', 'Q1062965.xml', 'Q341743.xml', 'Q1418149.xml', 'Q520893.xml', 'Q388233.xml', 'Q441067.xml', 'Q1419650.xml', 'Q1060436.xml']
+not in a list
+
+FILE NAME : Q392160.xml
+search loop:   What are some concrete usecases for metaclasses
+list of docs ['Q392160.xml', 'Q395982.xml', 'Q476586.xml', 'Q579620.xml', 'Q825945.xml', 'Q1159023.xml', 'Q100003.xml', 'Q818483.xml', 'Q745819.xml', 'Q618960.xml', 'Q1020279.xml', 'Q912412.xml', 'Q1151879.xml', 'Q310408.xml', 'Q1129821.xml', 'Q753537.xml', 'Q1080871.xml', 'Q1198055.xml', 'Q545419.xml', 'Q1329163.xml', 'Q1358711.xml', 'Q31913.xml', 'Q559522.xml', 'Q766733.xml', 'Q984272.xml', 'Q483255.xml', 'Q65400.xml', 'Q1184337.xml', 'Q1260757.xml', 'Q970472.xml', 'Q456672.xml', 'Q408336.xml', 'Q1149253.xml', 'Q1470405.xml', 'Q1107743.xml', 'Q1308079.xml', 'Q1104816.xml', 'Q1153714.xml', 'Q547833.xml', 'Q806561.xml', 'Q1150800.xml', 'Q1050325.xml', 'Q58711.xml', 'Q1260954.xml', 'Q1071092.xml', 'Q495021.xml', 'Q379053.xml', 'Q1085240.xml', 'Q1037090.xml', 'Q1430884.xml']
+The index of file name is: 0
+
+FILE NAME : Q684019.xml
+search loop:   How to make a single line systabcontrol32 that scrolls but doesnt show a scrollbar
+list of docs ['Q1003905.xml', 'Q1071644.xml', 'Q1290736.xml', 'Q960089.xml', 'Q677590.xml', 'Q929955.xml', 'Q622672.xml', 'Q323774.xml', 'Q1300310.xml', 'Q1235531.xml', 'Q1371510.xml', 'Q172653.xml', 'Q457246.xml', 'Q118540.xml', 'Q154245.xml', 'Q474034.xml', 'Q665566.xml', 'Q930257.xml', 'Q569477.xml', 'Q1313095.xml', 'Q571083.xml', 'Q368545.xml', 'Q959168.xml', 'Q873328.xml', 'Q1042415.xml', 'Q1400179.xml', 'Q376232.xml', 'Q599120.xml', 'Q1137634.xml', 'Q487184.xml', 'Q1441502.xml', 'Q1438542.xml', 'Q799068.xml', 'Q1389128.xml', 'Q537196.xml', 'Q333169.xml', 'Q781256.xml', 'Q490130.xml', 'Q617825.xml', 'Q695505.xml', 'Q637438.xml', 'Q793381.xml', 'Q1130221.xml', 'Q878089.xml', 'Q401213.xml', 'Q1168844.xml', 'Q924051.xml', 'Q485371.xml', 'Q469219.xml', 'Q689384.xml']
+not in a list
+
+FILE NAME : Q1279403.xml
+search loop:   Default route doesnt work
+list of docs ['Q419260.xml', 'Q1017185.xml', 'Q359992.xml', 'Q368545.xml', 'Q990459.xml', 'Q441838.xml', 'Q488054.xml', 'Q212528.xml', 'Q1180878.xml', 'Q348953.xml', 'Q33306.xml', 'Q1303908.xml', 'Q571083.xml', 'Q1279403.xml', 'Q896031.xml', 'Q569477.xml', 'Q63784.xml', 'Q923631.xml', 'Q1396691.xml', 'Q865000.xml', 'Q491053.xml', 'Q526325.xml', 'Q166506.xml', 'Q1385890.xml', 'Q1171926.xml', 'Q798413.xml', 'Q617825.xml', 'Q407468.xml', 'Q1463409.xml', 'Q365579.xml', 'Q924051.xml', 'Q610205.xml', 'Q1191349.xml', 'Q326125.xml', 'Q959168.xml', 'Q215267.xml', 'Q1144042.xml', 'Q1438542.xml', 'Q236354.xml', 'Q192579.xml', 'Q644812.xml', 'Q1448467.xml', 'Q220040.xml', 'Q938293.xml', 'Q984460.xml', 'Q308277.xml', 'Q1193465.xml', 'Q737512.xml', 'Q1147581.xml', 'Q441078.xml']
+The index of file name is: 13
+
+FILE NAME : Q161852.xml
+search loop:   How can I read binary data from wfstream
+list of docs ['Q161852.xml', 'Q1149673.xml', 'Q908605.xml', 'Q1422817.xml', 'Q708229.xml', 'Q1294385.xml', 'Q1278259.xml', 'Q208894.xml', 'Q913405.xml', 'Q1287747.xml', 'Q894157.xml', 'Q7880.xml', 'Q1322508.xml', 'Q1154991.xml', 'Q841049.xml', 'Q1163459.xml', 'Q1150843.xml', 'Q1309187.xml', 'Q310629.xml', 'Q599996.xml', 'Q1359703.xml', 'Q631607.xml', 'Q707664.xml', 'Q822161.xml', 'Q1018073.xml', 'Q1225053.xml', 'Q1090428.xml', 'Q726410.xml', 'Q880570.xml', 'Q552131.xml', 'Q25116.xml', 'Q908555.xml', 'Q1451349.xml', 'Q554646.xml', 'Q1400961.xml', 'Q221386.xml', 'Q859535.xml', 'Q1449125.xml', 'Q1378197.xml', 'Q474007.xml', 'Q821873.xml', 'Q1381111.xml', 'Q116038.xml', 'Q653336.xml', 'Q156799.xml', 'Q196776.xml', 'Q193789.xml', 'Q1316357.xml', 'Q328019.xml', 'Q285200.xml']
+The index of file name is: 0
+
+FILE NAME : Q204427.xml
+search loop:   Failed to get separate instances of a class under modpython
+list of docs ['Q1365729.xml', 'Q938185.xml', 'Q60422.xml', 'Q1027435.xml', 'Q753687.xml', 'Q60331.xml', 'Q368976.xml', 'Q1127918.xml', 'Q425400.xml', 'Q328851.xml', 'Q221894.xml', 'Q658714.xml', 'Q1157383.xml', 'Q1326468.xml', 'Q679021.xml', 'Q1072821.xml', 'Q204427.xml', 'Q1187534.xml', 'Q971726.xml', 'Q1336476.xml', 'Q1420972.xml', 'Q869912.xml', 'Q1350671.xml', 'Q1291438.xml', 'Q1217471.xml', 'Q39525.xml', 'Q91849.xml', 'Q1046873.xml', 'Q800730.xml', 'Q382480.xml', 'Q1102123.xml', 'Q802578.xml', 'Q1405555.xml', 'Q378630.xml', 'Q900929.xml', 'Q1256803.xml', 'Q669932.xml', 'Q1172769.xml', 'Q348833.xml', 'Q500650.xml', 'Q835453.xml', 'Q197009.xml', 'Q1167523.xml', 'Q1140509.xml', 'Q896182.xml', 'Q1411281.xml', 'Q1080669.xml', 'Q132988.xml', 'Q269241.xml', 'Q31875.xml']
+The index of file name is: 16
+
+FILE NAME : Q1124667.xml
+search loop:   What is the best practice in deploying application on Windows
+list of docs ['Q261829.xml', 'Q455904.xml', 'Q585165.xml', 'Q1208963.xml', 'Q1222626.xml', 'Q1121725.xml', 'Q1424169.xml', 'Q941809.xml', 'Q467899.xml', 'Q848126.xml', 'Q955862.xml', 'Q1231942.xml', 'Q1435513.xml', 'Q414543.xml', 'Q1054171.xml', 'Q546997.xml', 'Q1085490.xml', 'Q568804.xml', 'Q65074.xml', 'Q1024847.xml', 'Q554847.xml', 'Q601558.xml', 'Q982829.xml', 'Q789942.xml', 'Q1332762.xml', 'Q871354.xml', 'Q1204450.xml', 'Q179723.xml', 'Q60446.xml', 'Q875909.xml', 'Q1069525.xml', 'Q557466.xml', 'Q73781.xml', 'Q613423.xml', 'Q198124.xml', 'Q684684.xml', 'Q360602.xml', 'Q594903.xml', 'Q1391756.xml', 'Q514420.xml', 'Q415515.xml', 'Q363160.xml', 'Q1137765.xml', 'Q772817.xml', 'Q1217471.xml', 'Q74696.xml', 'Q1135625.xml', 'Q89275.xml', 'Q370399.xml', 'Q842059.xml']
+not in a list
+
+FILE NAME : Q890170.xml
+search loop:   How do I detect when my window is minimized with wxPython
+list of docs ['Q1155315.xml', 'Q456707.xml', 'Q397337.xml', 'Q1310972.xml', 'Q1046157.xml', 'Q431470.xml', 'Q1269751.xml', 'Q207021.xml', 'Q165495.xml', 'Q1105839.xml', 'Q758256.xml', 'Q752593.xml', 'Q306901.xml', 'Q596190.xml', 'Q476142.xml', 'Q268260.xml', 'Q1198067.xml', 'Q1432336.xml', 'Q262249.xml', 'Q950145.xml', 'Q1265599.xml', 'Q844110.xml', 'Q883348.xml', 'Q1397553.xml', 'Q890170.xml', 'Q916987.xml', 'Q1323361.xml', 'Q171694.xml', 'Q874856.xml', 'Q783531.xml', 'Q1034399.xml', 'Q408810.xml', 'Q396791.xml', 'Q816887.xml', 'Q791341.xml', 'Q1460722.xml', 'Q655662.xml', 'Q417159.xml', 'Q1346207.xml', 'Q722098.xml', 'Q290139.xml', 'Q927043.xml', 'Q908793.xml', 'Q833356.xml', 'Q1400179.xml', 'Q365058.xml', 'Q671741.xml', 'Q502282.xml', 'Q550001.xml', 'Q622592.xml']
+The index of file name is: 24
+
+FILE NAME : Q125703.xml
+search loop:   How to modify a text file
+list of docs ['Q327985.xml', 'Q725364.xml', 'Q1106483.xml', 'Q173246.xml', 'Q937805.xml', 'Q1082801.xml', 'Q1199350.xml', 'Q195714.xml', 'Q1236161.xml', 'Q793759.xml', 'Q1050773.xml', 'Q179287.xml', 'Q261648.xml', 'Q300144.xml', 'Q147016.xml', 'Q650877.xml', 'Q525272.xml', 'Q110923.xml', 'Q772518.xml', 'Q768634.xml', 'Q196771.xml', 'Q1410887.xml', 'Q527314.xml', 'Q390977.xml', 'Q848537.xml', 'Q1459087.xml', 'Q847904.xml', 'Q1110458.xml', 'Q1228299.xml', 'Q291065.xml', 'Q1246301.xml', 'Q937843.xml', 'Q913913.xml', 'Q1433577.xml', 'Q524641.xml', 'Q732465.xml', 'Q887557.xml', 'Q684931.xml', 'Q1180115.xml', 'Q1354520.xml', 'Q550009.xml', 'Q550050.xml', 'Q704130.xml', 'Q357600.xml', 'Q544462.xml', 'Q594545.xml', 'Q264763.xml', 'Q1295773.xml', 'Q526583.xml', 'Q1045232.xml']
+not in a list
+
+FILE NAME : Q1109498.xml
+search loop:   Whats a good way to render outlined fonts
+list of docs ['Q491487.xml', 'Q1150289.xml', 'Q1109498.xml', 'Q1403251.xml', 'Q619618.xml', 'Q424031.xml', 'Q1253928.xml', 'Q422555.xml', 'Q394618.xml', 'Q117693.xml', 'Q1200727.xml', 'Q544079.xml', 'Q469751.xml', 'Q1122605.xml', 'Q338217.xml', 'Q776354.xml', 'Q1113040.xml', 'Q1187524.xml', 'Q1225248.xml', 'Q603114.xml', 'Q203257.xml', 'Q469.xml', 'Q545504.xml', 'Q668359.xml', 'Q148881.xml', 'Q993265.xml', 'Q206040.xml', 'Q629205.xml', 'Q932092.xml', 'Q343946.xml', 'Q730952.xml', 'Q895596.xml', 'Q440069.xml', 'Q967376.xml', 'Q737826.xml', 'Q60507.xml', 'Q538661.xml', 'Q210646.xml', 'Q640733.xml', 'Q390409.xml', 'Q1133722.xml', 'Q629919.xml', 'Q764824.xml', 'Q60751.xml', 'Q154592.xml', 'Q968018.xml', 'Q1449663.xml', 'Q1462829.xml', 'Q961682.xml', 'Q937843.xml']
+The index of file name is: 2
+
+FILE NAME : Q42446.xml
+search loop:   How do I convert an IntPtr to a Stream
+list of docs ['Q1054009.xml', 'Q695419.xml', 'Q264318.xml', 'Q42446.xml', 'Q1361310.xml', 'Q1167028.xml', 'Q910829.xml', 'Q1300718.xml', 'Q641089.xml', 'Q991383.xml', 'Q1302237.xml', 'Q802499.xml', 'Q1468165.xml', 'Q1229728.xml', 'Q200090.xml', 'Q461236.xml', 'Q315051.xml', 'Q459107.xml', 'Q575455.xml', 'Q199016.xml', 'Q1055195.xml', 'Q935290.xml', 'Q269932.xml', 'Q734996.xml', 'Q285482.xml', 'Q684133.xml', 'Q512941.xml', 'Q685934.xml', 'Q112564.xml', 'Q214953.xml', 'Q476043.xml', 'Q267057.xml', 'Q1212713.xml', 'Q188299.xml', 'Q680066.xml', 'Q1332067.xml', 'Q686378.xml', 'Q1469211.xml', 'Q944925.xml', 'Q885026.xml', 'Q1138863.xml', 'Q2256.xml', 'Q1041160.xml', 'Q946309.xml', 'Q442699.xml', 'Q818340.xml', 'Q1223690.xml', 'Q91511.xml', 'Q784563.xml', 'Q1309509.xml']
+The index of file name is: 3
+
+FILE NAME : Q1104064.xml
+search loop:   Run remote php script from local python script
+list of docs ['Q1295446.xml', 'Q1070772.xml', 'Q431205.xml', 'Q1104064.xml', 'Q906660.xml', 'Q1332853.xml', 'Q1313989.xml', 'Q764778.xml', 'Q1125637.xml', 'Q536370.xml', 'Q543196.xml', 'Q331767.xml', 'Q492307.xml', 'Q923691.xml', 'Q632046.xml', 'Q1299013.xml', 'Q1359449.xml', 'Q981348.xml', 'Q600401.xml', 'Q1033026.xml', 'Q196771.xml', 'Q1456757.xml', 'Q1424511.xml', 'Q856444.xml', 'Q1046847.xml', 'Q1025817.xml', 'Q223356.xml', 'Q1195260.xml', 'Q783781.xml', 'Q68335.xml', 'Q1263756.xml', 'Q395960.xml', 'Q432385.xml', 'Q627721.xml', 'Q1343192.xml', 'Q166944.xml', 'Q1451849.xml', 'Q893053.xml', 'Q832017.xml', 'Q77086.xml', 'Q1141157.xml', 'Q250283.xml', 'Q1254215.xml', 'Q1397313.xml', 'Q81194.xml', 'Q1455722.xml', 'Q1002543.xml', 'Q166545.xml', 'Q166506.xml', 'Q272826.xml']
+The index of file name is: 3
+
+FILE NAME : Q707492.xml
+search loop:   How do I paint with QPainter
+list of docs ['Q1244468.xml', 'Q1007938.xml', 'Q833655.xml', 'Q707492.xml', 'Q1277512.xml', 'Q1222914.xml', 'Q839705.xml', 'Q82180.xml', 'Q102283.xml', 'Q681148.xml', 'Q429365.xml', 'Q1434582.xml', 'Q99623.xml', 'Q577853.xml', 'Q1219827.xml', 'Q1397484.xml', 'Q1242005.xml', 'Q663624.xml', 'Q641089.xml', 'Q662440.xml', 'Q1052831.xml', 'Q851031.xml', 'Q832284.xml', 'Q828819.xml', 'Q1355446.xml', 'Q1256963.xml', 'Q1101028.xml', 'Q1142502.xml', 'Q999303.xml', 'Q1469815.xml', 'Q540515.xml', 'Q299267.xml', 'Q1197172.xml', 'Q637441.xml', 'Q431944.xml', 'Q1061534.xml', 'Q524641.xml', 'Q1037497.xml', 'Q1378269.xml', 'Q1170153.xml', 'Q682530.xml', 'Q874245.xml', 'Q1161295.xml', 'Q1338546.xml', 'Q1307371.xml', 'Q444376.xml', 'Q606283.xml', 'Q849369.xml', 'Q762764.xml', 'Q315716.xml']
+The index of file name is: 3
+
+FILE NAME : Q63166.xml
+search loop:   How to determine CPU and memory consumption from inside a process
+list of docs ['Q1343289.xml', 'Q220323.xml', 'Q1199920.xml', 'Q1322307.xml', 'Q1058526.xml', 'Q785810.xml', 'Q63166.xml', 'Q548819.xml', 'Q305203.xml', 'Q1013828.xml', 'Q938590.xml', 'Q850774.xml', 'Q230584.xml', 'Q152064.xml', 'Q532092.xml', 'Q781896.xml', 'Q1393006.xml', 'Q1023038.xml', 'Q433895.xml', 'Q1292786.xml', 'Q1346207.xml', 'Q550106.xml', 'Q939754.xml', 'Q630920.xml', 'Q1044313.xml', 'Q538056.xml', 'Q232030.xml', 'Q920957.xml', 'Q810951.xml', 'Q218935.xml', 'Q1471222.xml', 'Q405112.xml', 'Q924215.xml', 'Q1231991.xml', 'Q197839.xml', 'Q1365725.xml', 'Q122826.xml', 'Q562973.xml', 'Q1106481.xml', 'Q364881.xml', 'Q128217.xml', 'Q1368429.xml', 'Q195853.xml', 'Q208855.xml', 'Q1201261.xml', 'Q336759.xml', 'Q1436351.xml', 'Q938733.xml', 'Q1037164.xml', 'Q1232827.xml']
+The index of file name is: 6
+
+FILE NAME : Q531708.xml
+search loop:   Logging output of external program with wxpython
+list of docs ['Q345991.xml', 'Q751159.xml', 'Q458943.xml', 'Q648138.xml', 'Q323424.xml', 'Q1442154.xml', 'Q316325.xml', 'Q236801.xml', 'Q1462878.xml', 'Q804995.xml', 'Q1417665.xml', 'Q862807.xml', 'Q762292.xml', 'Q166198.xml', 'Q449168.xml', 'Q531708.xml', 'Q997602.xml', 'Q828862.xml', 'Q240887.xml', 'Q1475415.xml', 'Q191644.xml', 'Q839636.xml', 'Q408810.xml', 'Q1098723.xml', 'Q1178747.xml', 'Q1173310.xml', 'Q1055917.xml', 'Q718447.xml', 'Q152957.xml', 'Q502.xml', 'Q47701.xml', 'Q370075.xml', 'Q477573.xml', 'Q649900.xml', 'Q310224.xml', 'Q789159.xml', 'Q409677.xml', 'Q772709.xml', 'Q1375283.xml', 'Q1153643.xml', 'Q1468888.xml', 'Q1470453.xml', 'Q1073102.xml', 'Q618429.xml', 'Q428630.xml', 'Q1014627.xml', 'Q984263.xml', 'Q883348.xml', 'Q1170744.xml', 'Q707491.xml']
+The index of file name is: 15
+
+FILE NAME : Q889434.xml
+search loop:   Markdown Implementations for CC
+list of docs ['Q761824.xml', 'Q203859.xml', 'Q933824.xml', 'Q117477.xml', 'Q889434.xml', 'Q763087.xml', 'Q933500.xml', 'Q1285134.xml', 'Q580270.xml', 'Q784469.xml', 'Q724084.xml', 'Q640733.xml', 'Q154592.xml', 'Q460479.xml', 'Q1136900.xml', 'Q1277685.xml', 'Q577006.xml', 'Q1467898.xml', 'Q1396678.xml', 'Q623784.xml', 'Q1223741.xml', 'Q841597.xml', 'Q956640.xml', 'Q289187.xml', 'Q298034.xml', 'Q1457814.xml', 'Q1060334.xml', 'Q1385929.xml', 'Q1274906.xml', 'Q856463.xml', 'Q951016.xml', 'Q428013.xml', 'Q455518.xml', 'Q302835.xml', 'Q1398234.xml', 'Q638053.xml', 'Q101604.xml', 'Q120957.xml', 'Q780429.xml', 'Q699468.xml', 'Q1156027.xml', 'Q1067594.xml', 'Q228036.xml', 'Q140061.xml', 'Q653259.xml', 'Q1475342.xml', 'Q1414986.xml', 'Q778431.xml', 'Q1090280.xml', 'Q654713.xml']
+The index of file name is: 4
+
+FILE NAME : Q938742.xml
+search loop:   Extracting YouTube Videos author using Python and YouTubeAPI
+list of docs ['Q832306.xml', 'Q1452144.xml', 'Q944473.xml', 'Q938742.xml', 'Q776110.xml', 'Q710648.xml', 'Q846343.xml', 'Q271855.xml', 'Q1415208.xml', 'Q883250.xml', 'Q1111227.xml', 'Q1189365.xml', 'Q731993.xml', 'Q796490.xml', 'Q1281075.xml', 'Q1185959.xml', 'Q37486.xml', 'Q1010848.xml', 'Q1408356.xml', 'Q279945.xml', 'Q1355813.xml', 'Q399980.xml', 'Q638150.xml', 'Q1243485.xml', 'Q244453.xml', 'Q678236.xml', 'Q886221.xml', 'Q1369664.xml', 'Q42482.xml', 'Q1395593.xml', 'Q452305.xml', 'Q1109804.xml', 'Q1183863.xml', 'Q477193.xml', 'Q730645.xml', 'Q983699.xml', 'Q1397313.xml', 'Q1144609.xml', 'Q432637.xml', 'Q606283.xml', 'Q508277.xml', 'Q1285150.xml', 'Q1412004.xml', 'Q373212.xml', 'Q531377.xml', 'Q1407021.xml', 'Q1437402.xml', 'Q1103863.xml', 'Q933500.xml', 'Q994902.xml']
+The index of file name is: 3
+
+FILE NAME : Q680305.xml
+search loop:   Using MultipartPostHandler to POST formdata with Python
+list of docs ['Q980932.xml', 'Q464040.xml', 'Q1208067.xml', 'Q1188737.xml', 'Q629518.xml', 'Q530526.xml', 'Q69979.xml', 'Q167426.xml', 'Q962179.xml', 'Q632577.xml', 'Q1319895.xml', 'Q948815.xml', 'Q881086.xml', 'Q349369.xml', 'Q571083.xml', 'Q837195.xml', 'Q1254270.xml', 'Q390992.xml', 'Q301924.xml', 'Q243375.xml', 'Q336866.xml', 'Q530127.xml', 'Q150517.xml', 'Q130587.xml', 'Q354755.xml', 'Q1310443.xml', 'Q770427.xml', 'Q343622.xml', 'Q391237.xml', 'Q1082361.xml', 'Q583857.xml', 'Q393738.xml', 'Q1258428.xml', 'Q680305.xml', 'Q775396.xml', 'Q786603.xml', 'Q374768.xml', 'Q429164.xml', 'Q866272.xml', 'Q805691.xml', 'Q358398.xml', 'Q1042451.xml', 'Q574140.xml', 'Q1181233.xml', 'Q544597.xml', 'Q408855.xml', 'Q153773.xml', 'Q628132.xml', 'Q508817.xml', 'Q477794.xml']
+The index of file name is: 33
+
+FILE NAME : Q381324.xml
+search loop:   An operator  whose parameters are nonconst references
+list of docs ['Q645994.xml', 'Q844241.xml', 'Q464143.xml', 'Q28002.xml', 'Q411114.xml', 'Q301008.xml', 'Q499106.xml', 'Q1227547.xml', 'Q1422144.xml', 'Q1137161.xml', 'Q1062108.xml', 'Q638260.xml', 'Q881974.xml', 'Q1388672.xml', 'Q1269216.xml', 'Q594253.xml', 'Q370357.xml', 'Q655957.xml', 'Q615523.xml', 'Q82993.xml', 'Q858624.xml', 'Q878057.xml', 'Q725142.xml', 'Q969466.xml', 'Q938429.xml', 'Q881119.xml', 'Q430401.xml', 'Q1384007.xml', 'Q1256395.xml', 'Q936444.xml', 'Q860941.xml', 'Q895170.xml', 'Q357307.xml', 'Q318064.xml', 'Q21934.xml', 'Q1059674.xml', 'Q1291111.xml', 'Q762852.xml', 'Q436804.xml', 'Q143746.xml', 'Q698707.xml', 'Q123758.xml', 'Q639937.xml', 'Q55532.xml', 'Q835092.xml', 'Q203667.xml', 'Q1061387.xml', 'Q960733.xml', 'Q553682.xml', 'Q1330550.xml']
+not in a list
+
+FILE NAME : Q909508.xml
+search loop:   Programmatically fetching contacts from Yahoo Address Book
+list of docs ['Q909508.xml', 'Q405724.xml', 'Q980113.xml', 'Q896602.xml', 'Q802656.xml', 'Q695703.xml', 'Q811974.xml', 'Q816118.xml', 'Q997419.xml', 'Q610205.xml', 'Q522781.xml', 'Q920724.xml', 'Q64185.xml', 'Q1463242.xml', 'Q991144.xml', 'Q794178.xml', 'Q255700.xml', 'Q1393898.xml', 'Q1026925.xml', 'Q106243.xml', 'Q172040.xml', 'Q657473.xml', 'Q1421099.xml', 'Q102394.xml', 'Q1082078.xml', 'Q488036.xml', 'Q373383.xml', 'Q1055627.xml', 'Q96285.xml', 'Q1183863.xml', 'Q358533.xml', 'Q885172.xml', 'Q197999.xml', 'Q594.xml', 'Q1179937.xml', 'Q747017.xml', 'Q968945.xml', 'Q1186062.xml', 'Q1119401.xml', 'Q1048749.xml', 'Q55056.xml', 'Q12332.xml', 'Q1086188.xml', 'Q670154.xml', 'Q336759.xml', 'Q29890.xml', 'Q69112.xml', 'Q1063809.xml', 'Q855816.xml', 'Q382480.xml']
+The index of file name is: 0
+
+FILE NAME : Q430424.xml
+search loop:   Are there any macros to determine if my code is being compiled to Windows
+list of docs ['Q430424.xml', 'Q735647.xml', 'Q1119357.xml', 'Q652813.xml', 'Q163058.xml', 'Q1034995.xml', 'Q1001719.xml', 'Q283431.xml', 'Q149500.xml', 'Q1139067.xml', 'Q198625.xml', 'Q318398.xml', 'Q280162.xml', 'Q1080635.xml', 'Q725138.xml', 'Q1333527.xml', 'Q1389838.xml', 'Q1280743.xml', 'Q1438643.xml', 'Q118774.xml', 'Q1082064.xml', 'Q163365.xml', 'Q510955.xml', 'Q206172.xml', 'Q1026431.xml', 'Q870555.xml', 'Q684684.xml', 'Q198071.xml', 'Q763837.xml', 'Q33813.xml', 'Q1007348.xml', 'Q597260.xml', 'Q234365.xml', 'Q464788.xml', 'Q833291.xml', 'Q93545.xml', 'Q1208644.xml', 'Q1368327.xml', 'Q562620.xml', 'Q967930.xml', 'Q451749.xml', 'Q1373686.xml', 'Q183447.xml', 'Q311735.xml', 'Q562313.xml', 'Q627131.xml', 'Q26151.xml', 'Q698655.xml', 'Q478911.xml', 'Q835922.xml']
+The index of file name is: 0
+
+FILE NAME : Q1314174.xml
+search loop:   Is there any way to get vim to auto wrap python strings at 79 chars
+list of docs ['Q1288474.xml', 'Q1024435.xml', 'Q88942.xml', 'Q905005.xml', 'Q199180.xml', 'Q175044.xml', 'Q978643.xml', 'Q704130.xml', 'Q905020.xml', 'Q482146.xml', 'Q1115876.xml', 'Q861154.xml', 'Q65076.xml', 'Q1367130.xml', 'Q869975.xml', 'Q1314174.xml', 'Q353152.xml', 'Q768634.xml', 'Q1393075.xml', 'Q1064644.xml', 'Q79210.xml', 'Q950334.xml', 'Q1127786.xml', 'Q1366047.xml', 'Q759577.xml', 'Q1096912.xml', 'Q81584.xml', 'Q367586.xml', 'Q735204.xml', 'Q623605.xml', 'Q131449.xml', 'Q357785.xml', 'Q1404515.xml', 'Q120926.xml', 'Q622017.xml', 'Q653259.xml', 'Q501585.xml', 'Q143714.xml', 'Q959479.xml', 'Q399956.xml', 'Q445595.xml', 'Q250038.xml', 'Q1307642.xml', 'Q433618.xml', 'Q761804.xml', 'Q542929.xml', 'Q1472019.xml', 'Q146873.xml', 'Q623040.xml', 'Q157018.xml']
+The index of file name is: 15
+
+FILE NAME : Q1199018.xml
+search loop:   Is it possible to make both a managed and unmanaged versions of the same C assembly
+list of docs ['Q1199018.xml', 'Q1046499.xml', 'Q106033.xml', 'Q1470009.xml', 'Q1068762.xml', 'Q503718.xml', 'Q72769.xml', 'Q183209.xml', 'Q688386.xml', 'Q727313.xml', 'Q1018413.xml', 'Q51436.xml', 'Q769537.xml', 'Q954321.xml', 'Q877888.xml', 'Q291559.xml', 'Q1247968.xml', 'Q1209528.xml', 'Q168528.xml', 'Q895994.xml', 'Q876301.xml', 'Q852048.xml', 'Q389244.xml', 'Q606270.xml', 'Q562620.xml', 'Q1035278.xml', 'Q1443673.xml', 'Q1004807.xml', 'Q1163503.xml', 'Q451534.xml', 'Q604470.xml', 'Q1048306.xml', 'Q894389.xml', 'Q846355.xml', 'Q1154506.xml', 'Q873658.xml', 'Q761930.xml', 'Q530420.xml', 'Q1117486.xml', 'Q1232505.xml', 'Q446758.xml', 'Q1087627.xml', 'Q935664.xml', 'Q470678.xml', 'Q1347248.xml', 'Q681859.xml', 'Q150186.xml', 'Q1089437.xml', 'Q425752.xml', 'Q773476.xml']
+The index of file name is: 0
+
+FILE NAME : Q676159.xml
+search loop:   Create static graphics files png gif jpg using Ruby or Python
+list of docs ['Q676159.xml', 'Q713938.xml', 'Q981147.xml', 'Q1152629.xml', 'Q753190.xml', 'Q1142502.xml', 'Q602663.xml', 'Q572808.xml', 'Q1412529.xml', 'Q646286.xml', 'Q138250.xml', 'Q787287.xml', 'Q555327.xml', 'Q1409377.xml', 'Q1119754.xml', 'Q850899.xml', 'Q320677.xml', 'Q439641.xml', 'Q890051.xml', 'Q215110.xml', 'Q1158736.xml', 'Q902761.xml', 'Q140758.xml', 'Q1401527.xml', 'Q1431968.xml', 'Q1328156.xml', 'Q1274549.xml', 'Q192124.xml', 'Q1017898.xml', 'Q1095325.xml', 'Q732190.xml', 'Q873790.xml', 'Q901551.xml', 'Q1046584.xml', 'Q765736.xml', 'Q822161.xml', 'Q84340.xml', 'Q1382252.xml', 'Q511412.xml', 'Q1242866.xml', 'Q1090651.xml', 'Q940149.xml', 'Q75798.xml', 'Q45507.xml', 'Q685713.xml', 'Q214687.xml', 'Q424455.xml', 'Q276904.xml', 'Q1183420.xml', 'Q956104.xml']
+The index of file name is: 0
+
+FILE NAME : Q230584.xml
+search loop:   Where are variables in C stored
+list of docs ['Q1336476.xml', 'Q1193693.xml', 'Q230584.xml', 'Q93039.xml', 'Q838460.xml', 'Q1397678.xml', 'Q301008.xml', 'Q1202902.xml', 'Q870695.xml', 'Q709114.xml', 'Q991144.xml', 'Q873758.xml', 'Q943280.xml', 'Q329399.xml', 'Q441400.xml', 'Q490773.xml', 'Q1471222.xml', 'Q1395591.xml', 'Q609516.xml', 'Q1063601.xml', 'Q238441.xml', 'Q249467.xml', 'Q143850.xml', 'Q1239845.xml', 'Q156799.xml', 'Q431647.xml', 'Q959951.xml', 'Q1090075.xml', 'Q1450275.xml', 'Q433850.xml', 'Q1392433.xml', 'Q596093.xml', 'Q802717.xml', 'Q1072484.xml', 'Q1066827.xml', 'Q1123725.xml', 'Q1409006.xml', 'Q1416273.xml', 'Q338772.xml', 'Q1178094.xml', 'Q1355342.xml', 'Q49098.xml', 'Q1461064.xml', 'Q1021138.xml', 'Q979814.xml', 'Q104983.xml', 'Q69250.xml', 'Q1091927.xml', 'Q902077.xml', 'Q514239.xml']
+The index of file name is: 2
+
+FILE NAME : Q369305.xml
+search loop:   Is there anyone who has managed to compile modwsgi for apache on Mac OS X Leopard
+list of docs ['Q369305.xml', 'Q863240.xml', 'Q284103.xml', 'Q693952.xml', 'Q1469947.xml', 'Q823553.xml', 'Q1302411.xml', 'Q343488.xml', 'Q651717.xml', 'Q1102918.xml', 'Q329925.xml', 'Q1359227.xml', 'Q893053.xml', 'Q692566.xml', 'Q135112.xml', 'Q253768.xml', 'Q1461374.xml', 'Q1137596.xml', 'Q1237188.xml', 'Q1397553.xml', 'Q1270285.xml', 'Q945250.xml', 'Q843531.xml', 'Q897228.xml', 'Q294766.xml', 'Q568247.xml', 'Q726449.xml', 'Q446209.xml', 'Q634404.xml', 'Q1277124.xml', 'Q525609.xml', 'Q1225993.xml', 'Q955129.xml', 'Q762292.xml', 'Q1113040.xml', 'Q1050377.xml', 'Q1119357.xml', 'Q571224.xml', 'Q907529.xml', 'Q1024862.xml', 'Q1052957.xml', 'Q617202.xml', 'Q722315.xml', 'Q464618.xml', 'Q1436182.xml', 'Q1255945.xml', 'Q257552.xml', 'Q1052844.xml', 'Q284115.xml', 'Q167439.xml']
+The index of file name is: 0
+
+FILE NAME : Q1350114.xml
+search loop:   Can Selenium RC tests written in Python be integrated into PHPUnit
+list of docs ['Q1350114.xml', 'Q1418082.xml', 'Q60152.xml', 'Q1107858.xml', 'Q1344026.xml', 'Q688740.xml', 'Q1446317.xml', 'Q980058.xml', 'Q999452.xml', 'Q206855.xml', 'Q535.xml', 'Q522229.xml', 'Q1468960.xml', 'Q145586.xml', 'Q1377548.xml', 'Q476668.xml', 'Q273060.xml', 'Q524147.xml', 'Q1255249.xml', 'Q1292817.xml', 'Q816704.xml', 'Q1007391.xml', 'Q272188.xml', 'Q1355244.xml', 'Q1410328.xml', 'Q111122.xml', 'Q1225686.xml', 'Q171267.xml', 'Q567251.xml', 'Q1359903.xml', 'Q1242583.xml', 'Q1397572.xml', 'Q834347.xml', 'Q786603.xml', 'Q1036660.xml', 'Q1391429.xml', 'Q32899.xml', 'Q1197172.xml', 'Q91384.xml', 'Q1371994.xml', 'Q1007054.xml', 'Q1455642.xml', 'Q413228.xml', 'Q537689.xml', 'Q340128.xml', 'Q447015.xml', 'Q1342975.xml', 'Q100624.xml', 'Q923701.xml', 'Q562349.xml']
+The index of file name is: 0
+
+FILE NAME : Q1052589.xml
+search loop:   How can I parse the output of ocnetdev into keyvalue pairs per interface using Python
+list of docs ['Q853398.xml', 'Q1308376.xml', 'Q192907.xml', 'Q988228.xml', 'Q1462878.xml', 'Q191644.xml', 'Q918405.xml', 'Q376161.xml', 'Q370075.xml', 'Q754774.xml', 'Q1475415.xml', 'Q502.xml', 'Q994732.xml', 'Q1173310.xml', 'Q1049070.xml', 'Q1284382.xml', 'Q695501.xml', 'Q818155.xml', 'Q925075.xml', 'Q187567.xml', 'Q337.xml', 'Q789159.xml', 'Q20063.xml', 'Q715417.xml', 'Q664444.xml', 'Q994429.xml', 'Q1161582.xml', 'Q362426.xml', 'Q1275009.xml', 'Q1407023.xml', 'Q279945.xml', 'Q695505.xml', 'Q1282368.xml', 'Q874461.xml', 'Q768853.xml', 'Q697134.xml', 'Q1217901.xml', 'Q839636.xml', 'Q1225586.xml', 'Q1099334.xml', 'Q818458.xml', 'Q280347.xml', 'Q1454941.xml', 'Q237209.xml', 'Q719886.xml', 'Q160889.xml', 'Q613471.xml', 'Q37535.xml', 'Q1121951.xml', 'Q629865.xml']
+not in a list
+
+FILE NAME : Q241955.xml
+search loop:   Checking lists and running handlers
+list of docs ['Q1244463.xml', 'Q1213706.xml', 'Q342434.xml', 'Q1464028.xml', 'Q1187102.xml', 'Q919990.xml', 'Q1149317.xml', 'Q238081.xml', 'Q473620.xml', 'Q1449304.xml', 'Q658016.xml', 'Q1075351.xml', 'Q767212.xml', 'Q1439455.xml', 'Q1435415.xml', 'Q304567.xml', 'Q103280.xml', 'Q1308052.xml', 'Q546017.xml', 'Q675980.xml', 'Q998162.xml', 'Q148042.xml', 'Q742376.xml', 'Q1331220.xml', 'Q968701.xml', 'Q1008858.xml', 'Q968838.xml', 'Q1418588.xml', 'Q436671.xml', 'Q1410132.xml', 'Q1008343.xml', 'Q971678.xml', 'Q472503.xml', 'Q111155.xml', 'Q467878.xml', 'Q1006556.xml', 'Q841968.xml', 'Q870580.xml', 'Q1400787.xml', 'Q673936.xml', 'Q1256704.xml', 'Q1462829.xml', 'Q641420.xml', 'Q1145741.xml', 'Q1407474.xml', 'Q161790.xml', 'Q1412338.xml', 'Q599744.xml', 'Q139826.xml', 'Q109705.xml']
+not in a list
+
+FILE NAME : Q634964.xml
+search loop:   svg diagrams using python
+list of docs ['Q634964.xml', 'Q960432.xml', 'Q27857.xml', 'Q787287.xml', 'Q1368822.xml', 'Q1353976.xml', 'Q120584.xml', 'Q465144.xml', 'Q676159.xml', 'Q260165.xml', 'Q1027179.xml', 'Q1359003.xml', 'Q1102134.xml', 'Q1187358.xml', 'Q238740.xml', 'Q816086.xml', 'Q238764.xml', 'Q995985.xml', 'Q521809.xml', 'Q309816.xml', 'Q617668.xml', 'Q635419.xml', 'Q212990.xml', 'Q526335.xml', 'Q190675.xml', 'Q405953.xml', 'Q362570.xml', 'Q782316.xml', 'Q682675.xml', 'Q889333.xml', 'Q1316320.xml', 'Q1303118.xml', 'Q506605.xml', 'Q1397572.xml', 'Q138122.xml', 'Q153074.xml', 'Q973146.xml', 'Q1106860.xml', 'Q424455.xml', 'Q704738.xml', 'Q673434.xml', 'Q1134931.xml', 'Q850899.xml', 'Q601442.xml', 'Q296199.xml', 'Q1208684.xml', 'Q238523.xml', 'Q244803.xml', 'Q1226564.xml', 'Q1345485.xml']
+The index of file name is: 0
+FILE NAME : Q1041.xml
+search loop:   EasytoUse Regular Expression Support in C
+list of docs ['Q1386420.xml', 'Q1417809.xml', 'Q367819.xml', 'Q927279.xml', 'Q841159.xml', 'Q650461.xml', 'Q1043528.xml', 'Q1041.xml', 'Q415854.xml', 'Q844183.xml', 'Q1013050.xml', 'Q815429.xml', 'Q1099178.xml', 'Q1236104.xml', 'Q518835.xml', 'Q464736.xml', 'Q870520.xml', 'Q1251625.xml', 'Q1221650.xml', 'Q328944.xml', 'Q1420546.xml', 'Q473324.xml', 'Q524548.xml', 'Q241327.xml', 'Q554957.xml', 'Q1152552.xml', 'Q528854.xml', 'Q222536.xml', 'Q589833.xml', 'Q1242947.xml', 'Q138552.xml', 'Q260056.xml', 'Q941571.xml', 'Q996536.xml', 'Q1187315.xml', 'Q637773.xml', 'Q461535.xml', 'Q185378.xml', 'Q992176.xml', 'Q1019756.xml', 'Q1036625.xml', 'Q1083216.xml', 'Q1336786.xml', 'Q430966.xml', 'Q645892.xml', 'Q968553.xml', 'Q231146.xml', 'Q995165.xml', 'Q310199.xml', 'Q301241.xml']
+The index of file name is: 7
+FILE NAME : Q924485.xml
+search loop:   Whats the difference between a header file and a library
+list of docs ['Q875479.xml', 'Q1367316.xml', 'Q763837.xml', 'Q214230.xml', 'Q189921.xml', 'Q1022072.xml', 'Q645165.xml', 'Q301586.xml', 'Q924485.xml', 'Q813898.xml', 'Q21593.xml', 'Q1127460.xml', 'Q179213.xml', 'Q784379.xml', 'Q172262.xml', 'Q666417.xml', 'Q664118.xml', 'Q951403.xml', 'Q1440434.xml', 'Q645778.xml', 'Q28160.xml', 'Q839468.xml', 'Q185883.xml', 'Q654713.xml', 'Q1014538.xml', 'Q1444543.xml', 'Q453372.xml', 'Q622210.xml', 'Q424549.xml', 'Q1326982.xml', 'Q873348.xml', 'Q612328.xml', 'Q533076.xml', 'Q771247.xml', 'Q1245905.xml', 'Q223771.xml', 'Q791108.xml', 'Q60570.xml', 'Q990867.xml', 'Q271076.xml', 'Q886296.xml', 'Q1156792.xml', 'Q1440901.xml', 'Q152555.xml', 'Q373142.xml', 'Q307596.xml', 'Q635658.xml', 'Q1197858.xml', 'Q534861.xml', 'Q953166.xml']
+The index of file name is: 8
+FILE NAME : Q623384.xml
+search loop:   How can I insert RTF into a wxpython RichTextCtrl
+list of docs ['Q623384.xml', 'Q1059214.xml', 'Q294343.xml', 'Q1337446.xml', 'Q622417.xml', 'Q655180.xml', 'Q678308.xml', 'Q336517.xml', 'Q1476514.xml', 'Q891315.xml', 'Q783023.xml', 'Q543196.xml', 'Q301239.xml', 'Q110760.xml', 'Q561991.xml', 'Q1035183.xml', 'Q477573.xml', 'Q877145.xml', 'Q618429.xml', 'Q409677.xml', 'Q969093.xml', 'Q145573.xml', 'Q93930.xml', 'Q343505.xml', 'Q1310972.xml', 'Q306901.xml', 'Q751159.xml', 'Q1322801.xml', 'Q1155315.xml', 'Q844110.xml', 'Q310224.xml', 'Q1323361.xml', 'Q984263.xml', 'Q397337.xml', 'Q883348.xml', 'Q316325.xml', 'Q408810.xml', 'Q707491.xml', 'Q425722.xml', 'Q1031036.xml', 'Q293344.xml', 'Q818942.xml', 'Q176322.xml', 'Q262249.xml', 'Q1265599.xml', 'Q671741.xml', 'Q363907.xml', 'Q323424.xml', 'Q636990.xml', 'Q417159.xml']
+The index of file name is: 0
+FILE NAME : Q1332376.xml
+search loop:   Using UTM with geodjango
+list of docs ['Q1332376.xml', 'Q601442.xml', 'Q343865.xml', 'Q340185.xml', 'Q1117764.xml', 'Q793240.xml', 'Q559431.xml', 'Q1037388.xml', 'Q343210.xml', 'Q1404259.xml', 'Q1046248.xml', 'Q266114.xml', 'Q393637.xml', 'Q438192.xml', 'Q346697.xml', 'Q592744.xml', 'Q75722.xml', 'Q952648.xml', 'Q1277226.xml', 'Q223021.xml', 'Q1265039.xml', 'Q214927.xml', 'Q345045.xml', 'Q999120.xml', 'Q1332840.xml', 'Q445980.xml', 'Q1390606.xml', 'Q81870.xml', 'Q813943.xml', 'Q1029033.xml', 'Q929016.xml', 'Q944579.xml', 'Q1071119.xml', 'Q491994.xml', 'Q1452721.xml', 'Q1130857.xml', 'Q1181633.xml', 'Q888047.xml', 'Q72010.xml', 'Q242059.xml', 'Q870138.xml', 'Q1414897.xml', 'Q73439.xml', 'Q141939.xml', 'Q940100.xml', 'Q48123.xml', 'Q167862.xml', 'Q1208540.xml', 'Q148881.xml', 'Q152005.xml']
+The index of file name is: 0
+FILE NAME : Q404547.xml
+search loop:   C Inserting 2D array Object into another
+list of docs ['Q394844.xml', 'Q404547.xml', 'Q402432.xml', 'Q388258.xml', 'Q394763.xml', 'Q189087.xml', 'Q730913.xml', 'Q720707.xml', 'Q518021.xml', 'Q152745.xml', 'Q360195.xml', 'Q679888.xml', 'Q446866.xml', 'Q1006172.xml', 'Q1281398.xml', 'Q1416082.xml', 'Q646468.xml', 'Q408196.xml', 'Q1436020.xml', 'Q529875.xml', 'Q1107990.xml', 'Q550223.xml', 'Q983244.xml', 'Q664698.xml', 'Q902910.xml', 'Q187455.xml', 'Q1388597.xml', 'Q340943.xml', 'Q61680.xml', 'Q856948.xml', 'Q1411101.xml', 'Q1034904.xml', 'Q936687.xml', 'Q548749.xml', 'Q171512.xml', 'Q581426.xml', 'Q1095265.xml', 'Q929274.xml', 'Q154245.xml', 'Q71108.xml', 'Q944302.xml', 'Q431996.xml', 'Q1100100.xml', 'Q125094.xml', 'Q741190.xml', 'Q168249.xml', 'Q1237571.xml', 'Q1403150.xml', 'Q357481.xml', 'Q136789.xml']
+The index of file name is: 1
+FILE NAME : Q992320.xml
+search loop:   Can operators be used as functions C
+list of docs ['Q524633.xml', 'Q878172.xml', 'Q1137575.xml', 'Q1162461.xml', 'Q434085.xml', 'Q326179.xml', 'Q577465.xml', 'Q297112.xml', 'Q943280.xml', 'Q667410.xml', 'Q367219.xml', 'Q411114.xml', 'Q737567.xml', 'Q183108.xml', 'Q565371.xml', 'Q1185878.xml', 'Q584544.xml', 'Q156438.xml', 'Q1292138.xml', 'Q1456342.xml', 'Q1176427.xml', 'Q16067.xml', 'Q286105.xml', 'Q1173962.xml', 'Q707920.xml', 'Q713309.xml', 'Q1316018.xml', 'Q145838.xml', 'Q167165.xml', 'Q1082064.xml', 'Q592160.xml', 'Q902432.xml', 'Q678696.xml', 'Q700097.xml', 'Q608631.xml', 'Q1352732.xml', 'Q1315826.xml', 'Q1421485.xml', 'Q1208028.xml', 'Q956310.xml', 'Q366228.xml', 'Q599744.xml', 'Q1025345.xml', 'Q531133.xml', 'Q924485.xml', 'Q1440901.xml', 'Q1145482.xml', 'Q224397.xml', 'Q291559.xml', 'Q69112.xml']
+not in a list
+FILE NAME : Q1355918.xml
+search loop:   Creating GUI with Python in Linux
+list of docs ['Q2933.xml', 'Q449168.xml', 'Q1029435.xml', 'Q1006364.xml', 'Q897228.xml', 'Q1355918.xml', 'Q758023.xml', 'Q360602.xml', 'Q93930.xml', 'Q716524.xml', 'Q163881.xml', 'Q304883.xml', 'Q425343.xml', 'Q285132.xml', 'Q764631.xml', 'Q692566.xml', 'Q1320781.xml', 'Q1210700.xml', 'Q35922.xml', 'Q29562.xml', 'Q807245.xml', 'Q364327.xml', 'Q960049.xml', 'Q7489.xml', 'Q665566.xml', 'Q460426.xml', 'Q397337.xml', 'Q399326.xml', 'Q402598.xml', 'Q1361393.xml', 'Q1430497.xml', 'Q17228.xml', 'Q1125894.xml', 'Q450285.xml', 'Q125806.xml', 'Q1221244.xml', 'Q1450892.xml', 'Q471712.xml', 'Q1453393.xml', 'Q818736.xml', 'Q525926.xml', 'Q455075.xml', 'Q35762.xml', 'Q1094155.xml', 'Q118221.xml', 'Q1411860.xml', 'Q60152.xml', 'Q812870.xml', 'Q108892.xml', 'Q145621.xml']
+The index of file name is: 5
+FILE NAME : Q1147053.xml
+search loop:   How to check whether the tlb file is registered in registry using C
+list of docs ['Q1147053.xml', 'Q1037532.xml', 'Q846899.xml', 'Q1164069.xml', 'Q1039805.xml', 'Q465345.xml', 'Q969974.xml', 'Q1430884.xml', 'Q1265099.xml', 'Q410184.xml', 'Q1193272.xml', 'Q1038089.xml', 'Q415879.xml', 'Q1163404.xml', 'Q1473520.xml', 'Q939215.xml', 'Q1254013.xml', 'Q401621.xml', 'Q1300836.xml', 'Q1096700.xml', 'Q1162933.xml', 'Q1083913.xml', 'Q468388.xml', 'Q658016.xml', 'Q785271.xml', 'Q1108537.xml', 'Q833257.xml', 'Q455687.xml', 'Q1290472.xml', 'Q1177323.xml', 'Q1259261.xml', 'Q1325581.xml', 'Q1163503.xml', 'Q1204920.xml', 'Q873731.xml', 'Q431206.xml', 'Q1465655.xml', 'Q1470938.xml', 'Q1194264.xml', 'Q534088.xml', 'Q1458690.xml', 'Q1284674.xml', 'Q548551.xml', 'Q663449.xml', 'Q1170153.xml', 'Q1036720.xml', 'Q886653.xml', 'Q1013441.xml', 'Q483276.xml', 'Q1077649.xml']
+The index of file name is: 0
+FILE NAME : Q1140672.xml
+search loop:   xml.parsers.expat.ExpatError on parsing XML
+list of docs ['Q782955.xml', 'Q1032976.xml', 'Q886111.xml', 'Q964993.xml', 'Q1145286.xml', 'Q1444961.xml', 'Q1354415.xml', 'Q971660.xml', 'Q724746.xml', 'Q1459371.xml', 'Q1083250.xml', 'Q225274.xml', 'Q989980.xml', 'Q36953.xml', 'Q763837.xml', 'Q948376.xml', 'Q648545.xml', 'Q285200.xml', 'Q125222.xml', 'Q94952.xml', 'Q849912.xml', 'Q1296778.xml', 'Q1034957.xml', 'Q1086266.xml', 'Q982414.xml', 'Q565823.xml', 'Q983399.xml', 'Q564367.xml', 'Q192907.xml', 'Q973079.xml', 'Q909062.xml', 'Q723757.xml', 'Q761661.xml', 'Q1317279.xml', 'Q324168.xml', 'Q1015816.xml', 'Q999462.xml', 'Q708531.xml', 'Q493200.xml', 'Q241274.xml', 'Q306671.xml', 'Q1373707.xml', 'Q462038.xml', 'Q50311.xml', 'Q1380192.xml', 'Q301493.xml', 'Q552253.xml', 'Q191536.xml', 'Q170686.xml', 'Q471946.xml']
+not in a list
+FILE NAME : Q1195911.xml
+search loop:   How to manage many to one relationship in Django
+list of docs ['Q1301757.xml', 'Q1310495.xml', 'Q1307548.xml', 'Q1226290.xml', 'Q378303.xml', 'Q677476.xml', 'Q1389835.xml', 'Q1195911.xml', 'Q930641.xml', 'Q454443.xml', 'Q1435523.xml', 'Q1233670.xml', 'Q77731.xml', 'Q550632.xml', 'Q1450036.xml', 'Q550300.xml', 'Q1471707.xml', 'Q302983.xml', 'Q1381346.xml', 'Q1115238.xml', 'Q1399746.xml', 'Q411761.xml', 'Q160905.xml', 'Q511291.xml', 'Q497654.xml', 'Q911085.xml', 'Q579511.xml', 'Q383073.xml', 'Q364015.xml', 'Q1185084.xml', 'Q1407248.xml', 'Q283294.xml', 'Q408541.xml', 'Q890924.xml', 'Q1295492.xml', 'Q1091465.xml', 'Q1236285.xml', 'Q182229.xml', 'Q937742.xml', 'Q241250.xml', 'Q734255.xml', 'Q410392.xml', 'Q1359449.xml', 'Q885172.xml', 'Q880989.xml', 'Q969211.xml', 'Q1347851.xml', 'Q87522.xml', 'Q1383126.xml', 'Q707023.xml']
+The index of file name is: 7
+FILE NAME : Q920483.xml
+search loop:   Capturing video from a webcam in VC
+list of docs ['Q225078.xml', 'Q552999.xml', 'Q775349.xml', 'Q1259192.xml', 'Q396622.xml', 'Q897300.xml', 'Q604749.xml', 'Q1049777.xml', 'Q1258455.xml', 'Q892458.xml', 'Q736782.xml', 'Q851679.xml', 'Q467060.xml', 'Q338467.xml', 'Q756984.xml', 'Q969297.xml', 'Q1421272.xml', 'Q1010848.xml', 'Q1144609.xml', 'Q577102.xml', 'Q1081716.xml', 'Q945250.xml', 'Q154730.xml', 'Q1103863.xml', 'Q717636.xml', 'Q37956.xml', 'Q634502.xml', 'Q8443.xml', 'Q343257.xml', 'Q220866.xml', 'Q1428613.xml', 'Q1003376.xml', 'Q677641.xml', 'Q287053.xml', 'Q1327172.xml', 'Q917963.xml', 'Q573523.xml', 'Q1354360.xml', 'Q377956.xml', 'Q1242005.xml', 'Q324803.xml', 'Q1370325.xml', 'Q1081519.xml', 'Q1047200.xml', 'Q974821.xml', 'Q510198.xml', 'Q916259.xml', 'Q189943.xml', 'Q359084.xml', 'Q273946.xml']
+not in a list
+FILE NAME : Q334856.xml
+search loop:   Are there benefits of passing by pointer over passing by reference in C
+list of docs ['Q261567.xml', 'Q1052225.xml', 'Q667396.xml', 'Q86046.xml', 'Q971857.xml', 'Q723975.xml', 'Q1081811.xml', 'Q251325.xml', 'Q319623.xml', 'Q179105.xml', 'Q270408.xml', 'Q256220.xml', 'Q1027785.xml', 'Q904036.xml', 'Q1011790.xml', 'Q675980.xml', 'Q793679.xml', 'Q327573.xml', 'Q733125.xml', 'Q142331.xml', 'Q569110.xml', 'Q475652.xml', 'Q1141902.xml', 'Q153616.xml', 'Q788482.xml', 'Q1056411.xml', 'Q394763.xml', 'Q835233.xml', 'Q620378.xml', 'Q638704.xml', 'Q772709.xml', 'Q1308710.xml', 'Q704602.xml', 'Q722257.xml', 'Q1169745.xml', 'Q783073.xml', 'Q1217274.xml', 'Q1259982.xml', 'Q1282295.xml', 'Q383010.xml', 'Q84626.xml', 'Q620604.xml', 'Q398543.xml', 'Q1347280.xml', 'Q491972.xml', 'Q851587.xml', 'Q1229318.xml', 'Q70797.xml', 'Q132242.xml', 'Q850796.xml']
+not in a list
+FILE NAME : Q433965.xml
+search loop:   Protected derived class
+list of docs ['Q860339.xml', 'Q31867.xml', 'Q224966.xml', 'Q477829.xml', 'Q967352.xml', 'Q1133955.xml', 'Q961246.xml', 'Q308581.xml', 'Q1427370.xml', 'Q433965.xml', 'Q92859.xml', 'Q1247119.xml', 'Q1218764.xml', 'Q1412348.xml', 'Q549849.xml', 'Q1366441.xml', 'Q290913.xml', 'Q1269217.xml', 'Q353817.xml', 'Q1133002.xml', 'Q1471602.xml', 'Q691014.xml', 'Q1453131.xml', 'Q672373.xml', 'Q962132.xml', 'Q680672.xml', 'Q1123044.xml', 'Q394854.xml', 'Q1361431.xml', 'Q894222.xml', 'Q1267811.xml', 'Q966757.xml', 'Q1193138.xml', 'Q1010524.xml', 'Q397404.xml', 'Q478668.xml', 'Q270917.xml', 'Q1306778.xml', 'Q461203.xml', 'Q969232.xml', 'Q484758.xml', 'Q677620.xml', 'Q240874.xml', 'Q590371.xml', 'Q274626.xml', 'Q805413.xml', 'Q979211.xml', 'Q34506.xml', 'Q626067.xml', 'Q296283.xml']
+The index of file name is: 9
+FILE NAME : Q790534.xml
+search loop:   Is there a replacement for Paste.Template
+list of docs ['Q1248812.xml', 'Q860468.xml']
+not in a list
+FILE NAME : Q491404.xml
+search loop:   Can you recommend a Python SOAP client that can accept WSAttachments
+list of docs ['Q115316.xml', 'Q206154.xml', 'Q491404.xml', 'Q1186922.xml', 'Q231924.xml', 'Q1023187.xml', 'Q679302.xml', 'Q1239538.xml', 'Q139212.xml', 'Q1254802.xml', 'Q276184.xml', 'Q311654.xml', 'Q1196039.xml', 'Q331600.xml', 'Q1188927.xml', 'Q1273833.xml', 'Q870188.xml', 'Q1304106.xml', 'Q273060.xml', 'Q743374.xml', 'Q1476814.xml', 'Q949338.xml', 'Q807846.xml', 'Q755575.xml', 'Q66166.xml', 'Q379238.xml', 'Q218987.xml', 'Q273002.xml', 'Q1425912.xml', 'Q1455722.xml', 'Q274375.xml', 'Q1329190.xml', 'Q337.xml', 'Q1061690.xml', 'Q713522.xml', 'Q262579.xml', 'Q241892.xml', 'Q415192.xml', 'Q1371312.xml', 'Q409354.xml', 'Q379445.xml', 'Q429164.xml', 'Q1157245.xml', 'Q657473.xml', 'Q28961.xml', 'Q159802.xml', 'Q1349325.xml', 'Q1188367.xml', 'Q1322787.xml', 'Q118467.xml']
+The index of file name is: 2
+FILE NAME : Q1160598.xml
+search loop:   How to use schemas in Django
+list of docs ['Q1160598.xml', 'Q1191265.xml', 'Q361945.xml', 'Q1044667.xml', 'Q1048764.xml', 'Q362334.xml', 'Q905289.xml', 'Q482612.xml', 'Q307616.xml', 'Q771453.xml', 'Q128689.xml', 'Q1422402.xml', 'Q465914.xml', 'Q723757.xml', 'Q1381840.xml', 'Q1131926.xml', 'Q301566.xml', 'Q467300.xml', 'Q999452.xml', 'Q1151879.xml', 'Q1167903.xml', 'Q1286176.xml', 'Q434407.xml', 'Q490439.xml', 'Q740929.xml', 'Q764312.xml', 'Q464010.xml', 'Q579511.xml', 'Q1003302.xml', 'Q454443.xml', 'Q872065.xml', 'Q1405254.xml', 'Q352079.xml', 'Q1011476.xml', 'Q1279032.xml', 'Q1149881.xml', 'Q644237.xml', 'Q164427.xml', 'Q410392.xml', 'Q886221.xml', 'Q1329278.xml', 'Q873868.xml', 'Q364015.xml', 'Q1236443.xml', 'Q1291213.xml', 'Q896848.xml', 'Q1355813.xml', 'Q327807.xml', 'Q1023417.xml', 'Q789902.xml']
+The index of file name is: 0
+FILE NAME : Q1012571.xml
+search loop:   stdstring to float or double
+list of docs ['Q399114.xml', 'Q712623.xml', 'Q981563.xml', 'Q1421684.xml', 'Q1074474.xml', 'Q896786.xml', 'Q842935.xml', 'Q908946.xml', 'Q862846.xml', 'Q125885.xml', 'Q332705.xml', 'Q245740.xml', 'Q1129519.xml', 'Q667302.xml', 'Q775708.xml', 'Q1142191.xml', 'Q747470.xml', 'Q1384434.xml', 'Q485525.xml', 'Q1408056.xml', 'Q1141712.xml', 'Q49098.xml', 'Q898076.xml', 'Q17333.xml', 'Q1216878.xml', 'Q402364.xml', 'Q1471222.xml', 'Q482410.xml', 'Q690382.xml', 'Q1363665.xml', 'Q538711.xml', 'Q390977.xml', 'Q808403.xml', 'Q1053121.xml', 'Q1010539.xml', 'Q1331821.xml', 'Q666320.xml', 'Q1247119.xml', 'Q845912.xml', 'Q340413.xml', 'Q187713.xml', 'Q177723.xml', 'Q1260040.xml', 'Q777485.xml', 'Q554204.xml', 'Q900326.xml', 'Q423404.xml', 'Q1052458.xml', 'Q381695.xml', 'Q605533.xml']
+not in a list
+FILE NAME : Q464543.xml
+search loop:   unit testing for an application server
+list of docs ['Q261829.xml', 'Q455904.xml', 'Q1088077.xml', 'Q1107858.xml', 'Q1122192.xml', 'Q464543.xml', 'Q1173767.xml', 'Q510821.xml', 'Q912269.xml', 'Q340128.xml', 'Q634485.xml', 'Q87610.xml', 'Q739539.xml', 'Q1365279.xml', 'Q971409.xml', 'Q809564.xml', 'Q1468960.xml', 'Q423483.xml', 'Q914000.xml', 'Q236156.xml', 'Q411218.xml', 'Q693206.xml', 'Q387272.xml', 'Q342037.xml', 'Q119414.xml', 'Q244845.xml', 'Q281037.xml', 'Q671503.xml', 'Q1025134.xml', 'Q748130.xml', 'Q1283147.xml', 'Q296728.xml', 'Q91384.xml', 'Q1149244.xml', 'Q1111376.xml', 'Q185050.xml', 'Q272188.xml', 'Q91683.xml', 'Q1113694.xml', 'Q999452.xml', 'Q1116018.xml', 'Q384036.xml', 'Q1368255.xml', 'Q1407354.xml', 'Q1077920.xml', 'Q860923.xml', 'Q11060.xml', 'Q221482.xml', 'Q387894.xml', 'Q3150.xml']
+The index of file name is: 5
+FILE NAME : Q158836.xml
+search loop:   Random element in a map
+list of docs ['Q529831.xml', 'Q1332527.xml', 'Q535317.xml', 'Q1282994.xml', 'Q1202251.xml', 'Q865666.xml', 'Q614012.xml', 'Q181693.xml', 'Q1456617.xml', 'Q158836.xml', 'Q1080393.xml', 'Q577330.xml', 'Q352670.xml', 'Q1059330.xml', 'Q1152470.xml', 'Q847967.xml', 'Q790860.xml', 'Q288034.xml', 'Q698655.xml', 'Q693880.xml', 'Q238008.xml', 'Q1402483.xml', 'Q882855.xml', 'Q703503.xml', 'Q1423003.xml', 'Q976882.xml', 'Q962619.xml', 'Q644170.xml', 'Q59825.xml', 'Q647796.xml', 'Q492716.xml', 'Q1056244.xml', 'Q907087.xml', 'Q785058.xml', 'Q701402.xml', 'Q1238191.xml', 'Q922256.xml', 'Q151046.xml', 'Q1115356.xml', 'Q1412751.xml', 'Q713309.xml', 'Q1269819.xml', 'Q350519.xml', 'Q1450023.xml', 'Q309581.xml', 'Q306400.xml', 'Q1033089.xml', 'Q891750.xml', 'Q913070.xml', 'Q1271317.xml']
+The index of file name is: 9
+FILE NAME : Q999699.xml
+search loop:   Thread Safe Data and Thread Safe Containers
+list of docs ['Q999699.xml', 'Q820526.xml', 'Q1362110.xml', 'Q1120813.xml', 'Q1115420.xml', 'Q796099.xml', 'Q1099513.xml', 'Q1404717.xml', 'Q187583.xml', 'Q1185117.xml', 'Q743669.xml', 'Q362113.xml', 'Q441814.xml', 'Q717148.xml', 'Q521972.xml', 'Q1338846.xml', 'Q427329.xml', 'Q1270927.xml', 'Q362260.xml', 'Q1312331.xml', 'Q1051652.xml', 'Q1151100.xml', 'Q724347.xml', 'Q1363787.xml', 'Q762448.xml', 'Q680097.xml', 'Q164496.xml', 'Q213455.xml', 'Q271939.xml', 'Q869281.xml', 'Q1397977.xml', 'Q515587.xml', 'Q1103385.xml', 'Q1131430.xml', 'Q742882.xml', 'Q222916.xml', 'Q1048218.xml', 'Q692438.xml', 'Q1072821.xml', 'Q1052727.xml', 'Q1250432.xml', 'Q1251167.xml', 'Q1411230.xml', 'Q174449.xml', 'Q34151.xml', 'Q962323.xml', 'Q1109830.xml', 'Q898432.xml', 'Q972458.xml', 'Q539824.xml']
+The index of file name is: 0
+FILE NAME : Q1299272.xml
+search loop:   Difference between code generated using a template function and a normal function
+list of docs ['Q1117755.xml', 'Q879535.xml', 'Q994353.xml', 'Q69250.xml', 'Q101329.xml', 'Q415963.xml', 'Q527663.xml', 'Q620137.xml', 'Q1137575.xml', 'Q847876.xml', 'Q1222677.xml', 'Q185883.xml', 'Q112861.xml', 'Q132738.xml', 'Q113150.xml', 'Q906920.xml', 'Q734158.xml', 'Q531477.xml', 'Q397075.xml', 'Q365887.xml', 'Q448671.xml', 'Q411114.xml', 'Q672700.xml', 'Q1451963.xml', 'Q468486.xml', 'Q56091.xml', 'Q635658.xml', 'Q671925.xml', 'Q869648.xml', 'Q509994.xml', 'Q183108.xml', 'Q790650.xml', 'Q937744.xml', 'Q771012.xml', 'Q572255.xml', 'Q1022072.xml', 'Q643699.xml', 'Q449827.xml', 'Q924360.xml', 'Q1144088.xml', 'Q681497.xml', 'Q1119962.xml', 'Q251432.xml', 'Q1081811.xml', 'Q308061.xml', 'Q435627.xml', 'Q1420552.xml', 'Q1310836.xml', 'Q352341.xml', 'Q1164410.xml']
+not in a list
+FILE NAME : Q1268984.xml
+search loop:   Python http proxy library based on libevent or comparable technology
+list of docs ['Q1426779.xml', 'Q1327485.xml', 'Q1170290.xml', 'Q987802.xml', 'Q989739.xml', 'Q1293518.xml', 'Q1303954.xml', 'Q409354.xml', 'Q621802.xml', 'Q672426.xml', 'Q1336882.xml', 'Q1216591.xml', 'Q847032.xml', 'Q1268984.xml', 'Q1157245.xml', 'Q1020775.xml', 'Q779573.xml', 'Q1354338.xml', 'Q1068212.xml', 'Q378441.xml', 'Q1130857.xml', 'Q148853.xml', 'Q383371.xml', 'Q858149.xml', 'Q1353055.xml', 'Q883156.xml', 'Q419559.xml', 'Q366257.xml', 'Q302651.xml', 'Q454443.xml', 'Q1180878.xml', 'Q563384.xml', 'Q1185367.xml', 'Q1117491.xml', 'Q775482.xml', 'Q936625.xml', 'Q1291179.xml', 'Q822581.xml', 'Q1390471.xml', 'Q872695.xml', 'Q64426.xml', 'Q634107.xml', 'Q877033.xml', 'Q1078939.xml', 'Q85119.xml', 'Q675130.xml', 'Q1272325.xml', 'Q408970.xml', 'Q456753.xml', 'Q1096379.xml']
+The index of file name is: 13
+FILE NAME : Q351806.xml
+search loop:   Where is the Dont Fragment Bit of the IP Flags used
+list of docs ['Q351806.xml', 'Q1035799.xml', 'Q973439.xml', 'Q1037164.xml', 'Q610356.xml', 'Q558610.xml', 'Q1278294.xml', 'Q323790.xml', 'Q859501.xml', 'Q933122.xml', 'Q187057.xml', 'Q414025.xml', 'Q276058.xml', 'Q804336.xml', 'Q29890.xml', 'Q314909.xml', 'Q347191.xml', 'Q159137.xml', 'Q1150332.xml', 'Q1280266.xml', 'Q637399.xml', 'Q524028.xml', 'Q1417958.xml', 'Q212528.xml', 'Q1244694.xml', 'Q1148636.xml', 'Q860877.xml', 'Q809227.xml', 'Q1197111.xml', 'Q1108918.xml', 'Q747017.xml', 'Q662440.xml', 'Q330374.xml', 'Q862934.xml', 'Q1396340.xml', 'Q637175.xml', 'Q536314.xml', 'Q547011.xml', 'Q312695.xml', 'Q490737.xml', 'Q578794.xml', 'Q1309370.xml', 'Q1448396.xml', 'Q80341.xml', 'Q1280885.xml', 'Q1188163.xml', 'Q834076.xml', 'Q1151771.xml', 'Q873658.xml', 'Q1340485.xml']
+The index of file name is: 0
+FILE NAME : Q1372150.xml
+search loop:   Linux IDE with proper support for STL debugging
+list of docs ['Q1372150.xml', 'Q747310.xml', 'Q436400.xml', 'Q79537.xml', 'Q79023.xml', 'Q320124.xml', 'Q1334284.xml', 'Q24109.xml', 'Q1060337.xml', 'Q1160294.xml', 'Q253099.xml', 'Q1177457.xml', 'Q622339.xml', 'Q1417809.xml', 'Q197461.xml', 'Q77126.xml', 'Q524404.xml', 'Q907812.xml', 'Q950334.xml', 'Q248104.xml', 'Q546669.xml', 'Q1086550.xml', 'Q164693.xml', 'Q817627.xml', 'Q1302786.xml', 'Q797754.xml', 'Q1321407.xml', 'Q220644.xml', 'Q224090.xml', 'Q186237.xml', 'Q930416.xml', 'Q309135.xml', 'Q1284382.xml', 'Q1113214.xml', 'Q600401.xml', 'Q62389.xml', 'Q73519.xml', 'Q1115876.xml', 'Q490430.xml', 'Q1174373.xml', 'Q623605.xml', 'Q1417355.xml', 'Q537689.xml', 'Q421203.xml', 'Q843714.xml', 'Q450455.xml', 'Q959338.xml', 'Q802970.xml', 'Q672770.xml', 'Q1365830.xml']
+The index of file name is: 0
+FILE NAME : Q343437.xml
+search loop:   Memcached client for Windows in C or C
+list of docs ['Q343437.xml', 'Q8896.xml', 'Q1177093.xml', 'Q868690.xml', 'Q701264.xml', 'Q1440722.xml', 'Q274375.xml', 'Q1101049.xml', 'Q1046847.xml', 'Q499593.xml', 'Q926814.xml', 'Q1057637.xml', 'Q1336489.xml', 'Q1427255.xml', 'Q625314.xml', 'Q1152690.xml', 'Q828702.xml', 'Q1000540.xml', 'Q924530.xml', 'Q50568.xml', 'Q204802.xml', 'Q961981.xml', 'Q1229429.xml', 'Q720800.xml', 'Q93313.xml', 'Q1241.xml', 'Q262451.xml', 'Q1084569.xml', 'Q602030.xml', 'Q429141.xml', 'Q833962.xml', 'Q822581.xml', 'Q590098.xml', 'Q1200210.xml', 'Q953454.xml', 'Q213455.xml', 'Q1409729.xml', 'Q259166.xml', 'Q593815.xml', 'Q741746.xml', 'Q119999.xml', 'Q807846.xml', 'Q283227.xml', 'Q1453878.xml', 'Q873978.xml', 'Q1282357.xml', 'Q1170290.xml', 'Q1338777.xml', 'Q910854.xml', 'Q565824.xml']
+The index of file name is: 0
+FILE NAME : Q75432.xml
+search loop:   How can I prevent URLDownloadToFile from retrieving from the cache
+list of docs ['Q75432.xml', 'Q828702.xml', 'Q623822.xml', 'Q1313626.xml', 'Q306901.xml', 'Q757059.xml', 'Q1372967.xml', 'Q1380917.xml', 'Q1373153.xml', 'Q1412350.xml', 'Q705855.xml', 'Q53225.xml', 'Q353489.xml', 'Q1151658.xml', 'Q427453.xml', 'Q1226290.xml', 'Q1437158.xml', 'Q124856.xml', 'Q230584.xml', 'Q904966.xml', 'Q794632.xml', 'Q739490.xml', 'Q797773.xml', 'Q1320444.xml', 'Q1003965.xml', 'Q1471104.xml', 'Q428149.xml', 'Q892767.xml', 'Q61453.xml', 'Q341520.xml', 'Q1117890.xml', 'Q1119443.xml', 'Q920957.xml', 'Q1184110.xml', 'Q557462.xml', 'Q1089991.xml', 'Q948761.xml', 'Q113818.xml', 'Q1404942.xml', 'Q602030.xml', 'Q1423489.xml', 'Q720800.xml', 'Q1184018.xml', 'Q740435.xml', 'Q1377335.xml', 'Q1303182.xml', 'Q239258.xml', 'Q660727.xml', 'Q1001784.xml', 'Q460666.xml']
+The index of file name is: 0
+FILE NAME : Q285372.xml
+search loop:   automatic class templates
+list of docs ['Q98135.xml', 'Q95890.xml', 'Q30099.xml', 'Q388800.xml', 'Q751136.xml', 'Q655065.xml', 'Q1133002.xml', 'Q881966.xml', 'Q305849.xml', 'Q1332670.xml', 'Q677632.xml', 'Q397075.xml', 'Q1044103.xml', 'Q1355342.xml', 'Q1443870.xml', 'Q540515.xml', 'Q647257.xml', 'Q1378136.xml', 'Q58622.xml', 'Q685601.xml', 'Q933680.xml', 'Q948497.xml', 'Q175689.xml', 'Q448095.xml', 'Q197468.xml', 'Q293799.xml', 'Q315987.xml', 'Q426737.xml', 'Q518028.xml', 'Q1265821.xml', 'Q690579.xml', 'Q1332602.xml', 'Q455434.xml', 'Q1444222.xml', 'Q958853.xml', 'Q118630.xml', 'Q1096615.xml', 'Q126297.xml', 'Q791937.xml', 'Q1376085.xml', 'Q652779.xml', 'Q391756.xml', 'Q1247593.xml', 'Q1255157.xml', 'Q527742.xml', 'Q432115.xml', 'Q1046477.xml', 'Q412438.xml', 'Q1117481.xml', 'Q368737.xml']
+not in a list
+FILE NAME : Q1253307.xml
+search loop:   Creating planar shadows with 4x3 matrices
+list of docs ['Q1253307.xml', 'Q166356.xml', 'Q171512.xml', 'Q1355202.xml', 'Q1212859.xml', 'Q1422425.xml', 'Q758249.xml', 'Q334882.xml', 'Q1329175.xml', 'Q1053928.xml', 'Q477452.xml', 'Q702647.xml', 'Q1148315.xml', 'Q781001.xml', 'Q381695.xml', 'Q399942.xml', 'Q1225411.xml', 'Q388172.xml', 'Q1242190.xml', 'Q1231814.xml', 'Q977629.xml', 'Q929274.xml', 'Q1217775.xml', 'Q500387.xml', 'Q664760.xml', 'Q1281398.xml', 'Q443295.xml', 'Q716259.xml', 'Q1157203.xml', 'Q1449139.xml', 'Q1356348.xml', 'Q1167852.xml', 'Q872376.xml', 'Q1252117.xml', 'Q668226.xml', 'Q751104.xml', 'Q573487.xml', 'Q1445207.xml', 'Q1249814.xml', 'Q1067821.xml', 'Q1058051.xml', 'Q1086968.xml', 'Q958625.xml', 'Q1453568.xml', 'Q886633.xml', 'Q653211.xml', 'Q864883.xml', 'Q773667.xml', 'Q568962.xml', 'Q925084.xml']
+The index of file name is: 0
+FILE NAME : Q699325.xml
+search loop:   Suppress output in Python calls to executables
+list of docs ['Q1462878.xml', 'Q1173310.xml', 'Q191644.xml', 'Q502.xml', 'Q370075.xml', 'Q1475415.xml', 'Q1408143.xml', 'Q940149.xml', 'Q702395.xml', 'Q239020.xml', 'Q341138.xml', 'Q1465146.xml', 'Q789159.xml', 'Q929495.xml', 'Q303405.xml', 'Q730851.xml', 'Q1021210.xml', 'Q1383863.xml', 'Q1315926.xml', 'Q1368551.xml', 'Q254635.xml', 'Q1161582.xml', 'Q2933.xml', 'Q1080662.xml', 'Q560344.xml', 'Q1222510.xml', 'Q1176400.xml', 'Q1044517.xml', 'Q353634.xml', 'Q1363849.xml', 'Q655202.xml', 'Q874461.xml', 'Q446685.xml', 'Q839636.xml', 'Q505230.xml', 'Q972362.xml', 'Q844169.xml', 'Q1130360.xml', 'Q1430497.xml', 'Q359707.xml', 'Q1372916.xml', 'Q452498.xml', 'Q236801.xml', 'Q1277685.xml', 'Q49146.xml', 'Q1352922.xml', 'Q914833.xml', 'Q1455722.xml', 'Q597138.xml', 'Q1145662.xml']
+not in a list
+FILE NAME : Q983762.xml
+search loop:   Fully Featured C Assert Dialog
+list of docs ['Q983762.xml', 'Q701390.xml', 'Q1454058.xml', 'Q528409.xml', 'Q56145.xml', 'Q1063156.xml', 'Q352066.xml', 'Q98053.xml', 'Q1027503.xml', 'Q1116362.xml', 'Q1164868.xml', 'Q922204.xml', 'Q566587.xml', 'Q932315.xml', 'Q486087.xml', 'Q391125.xml', 'Q609076.xml', 'Q14491.xml', 'Q260040.xml', 'Q618204.xml', 'Q213256.xml', 'Q1380358.xml', 'Q1309432.xml', 'Q296728.xml', 'Q501373.xml', 'Q657724.xml', 'Q584734.xml', 'Q39525.xml', 'Q1120758.xml', 'Q402832.xml', 'Q916282.xml', 'Q124322.xml', 'Q663449.xml', 'Q267473.xml', 'Q1393898.xml', 'Q593403.xml', 'Q707491.xml', 'Q1443669.xml', 'Q613479.xml', 'Q942888.xml', 'Q1198215.xml', 'Q280143.xml', 'Q724942.xml', 'Q51687.xml', 'Q451535.xml', 'Q1429266.xml', 'Q944033.xml', 'Q149119.xml', 'Q144583.xml', 'Q1284401.xml']
+The index of file name is: 0
+FILE NAME : Q1430166.xml
+search loop:   Vector Ranges in C
+list of docs ['Q773414.xml', 'Q981186.xml', 'Q641724.xml', 'Q1329181.xml', 'Q1469687.xml', 'Q838721.xml', 'Q1380463.xml', 'Q1388597.xml', 'Q839455.xml', 'Q837521.xml', 'Q628837.xml', 'Q1089192.xml', 'Q592763.xml', 'Q178934.xml', 'Q491199.xml', 'Q152216.xml', 'Q798002.xml', 'Q1428786.xml', 'Q550797.xml', 'Q743055.xml', 'Q783018.xml', 'Q839958.xml', 'Q1436411.xml', 'Q698345.xml', 'Q485230.xml', 'Q439580.xml', 'Q379383.xml', 'Q912469.xml', 'Q579426.xml', 'Q767099.xml', 'Q168249.xml', 'Q1332067.xml', 'Q707096.xml', 'Q857072.xml', 'Q236172.xml', 'Q765257.xml', 'Q236129.xml', 'Q1308013.xml', 'Q593037.xml', 'Q589575.xml', 'Q145563.xml', 'Q89402.xml', 'Q1225741.xml', 'Q895500.xml', 'Q929103.xml', 'Q1041620.xml', 'Q1447257.xml', 'Q1442264.xml', 'Q1390471.xml', 'Q382603.xml']
+not in a list
+FILE NAME : Q1398855.xml
+search loop:   Which one will be faster
+list of docs ['Q1398855.xml', 'Q1110125.xml', 'Q504716.xml', 'Q1094215.xml', 'Q1084844.xml', 'Q865973.xml', 'Q405622.xml', 'Q718451.xml', 'Q850877.xml', 'Q734158.xml', 'Q77086.xml', 'Q688386.xml', 'Q610396.xml', 'Q1141570.xml', 'Q45972.xml', 'Q1157689.xml', 'Q498455.xml', 'Q925650.xml', 'Q195534.xml', 'Q1154494.xml', 'Q1176298.xml', 'Q116485.xml', 'Q445315.xml', 'Q1396564.xml', 'Q257481.xml', 'Q498169.xml', 'Q1130697.xml', 'Q485155.xml', 'Q147372.xml', 'Q513882.xml', 'Q580993.xml', 'Q471191.xml', 'Q771008.xml', 'Q912256.xml', 'Q138361.xml', 'Q918359.xml', 'Q890961.xml', 'Q262000.xml', 'Q776624.xml', 'Q454762.xml', 'Q53757.xml', 'Q1398822.xml', 'Q896654.xml', 'Q524919.xml', 'Q1154618.xml', 'Q1359903.xml', 'Q868966.xml', 'Q288775.xml', 'Q145110.xml', 'Q295279.xml']
+The index of file name is: 0
+FILE NAME : Q1096207.xml
+search loop:   C Replacing part of string using iterators is not working
+list of docs ['Q1260757.xml', 'Q286677.xml', 'Q1163465.xml', 'Q581209.xml', 'Q485371.xml', 'Q485230.xml', 'Q32332.xml', 'Q379306.xml', 'Q1152470.xml', 'Q835233.xml', 'Q516662.xml', 'Q837521.xml', 'Q800955.xml', 'Q62340.xml', 'Q1234760.xml', 'Q604050.xml', 'Q153354.xml', 'Q760790.xml', 'Q672729.xml', 'Q231146.xml', 'Q1068557.xml', 'Q516007.xml', 'Q555223.xml', 'Q1119443.xml', 'Q44693.xml', 'Q1116721.xml', 'Q708008.xml', 'Q827236.xml', 'Q838721.xml', 'Q1115356.xml', 'Q96414.xml', 'Q1096207.xml', 'Q969709.xml', 'Q637986.xml', 'Q1369664.xml', 'Q913980.xml', 'Q1116040.xml', 'Q1409729.xml', 'Q756848.xml', 'Q312749.xml', 'Q919406.xml', 'Q1160278.xml', 'Q455483.xml', 'Q1033089.xml', 'Q152436.xml', 'Q876553.xml', 'Q1124129.xml', 'Q703503.xml', 'Q704602.xml', 'Q728960.xml']
+The index of file name is: 31
+FILE NAME : Q662084.xml
+search loop:   Whats the difference between the WIN32 and WIN32 defines in C
+list of docs ['Q1022072.xml', 'Q846355.xml', 'Q1074247.xml', 'Q1049784.xml', 'Q111630.xml', 'Q929016.xml', 'Q794462.xml', 'Q1222264.xml', 'Q1078939.xml', 'Q662084.xml', 'Q1222806.xml', 'Q1148590.xml', 'Q243381.xml', 'Q1194371.xml', 'Q1194479.xml', 'Q1213976.xml', 'Q203189.xml', 'Q1147337.xml', 'Q1011799.xml', 'Q877577.xml', 'Q354329.xml', 'Q892849.xml', 'Q959589.xml', 'Q8896.xml', 'Q256188.xml', 'Q596411.xml', 'Q1127546.xml', 'Q305536.xml', 'Q307596.xml', 'Q430424.xml', 'Q454811.xml', 'Q791856.xml', 'Q1429850.xml', 'Q985281.xml', 'Q196930.xml', 'Q664118.xml', 'Q819481.xml', 'Q646955.xml', 'Q957057.xml', 'Q849375.xml', 'Q1314916.xml', 'Q821676.xml', 'Q1166316.xml', 'Q345936.xml', 'Q448811.xml', 'Q385660.xml', 'Q5892.xml', 'Q576843.xml', 'Q476043.xml', 'Q1440434.xml']
+The index of file name is: 9
+FILE NAME : Q204167.xml
+search loop:   How to get folder sharing on Windows Mobile emulator to work
+list of docs ['Q1440537.xml', 'Q204167.xml', 'Q60446.xml', 'Q180277.xml', 'Q173484.xml', 'Q173298.xml', 'Q1342299.xml', 'Q1119574.xml', 'Q780152.xml', 'Q1011520.xml', 'Q445139.xml', 'Q816212.xml', 'Q138153.xml', 'Q709914.xml', 'Q44821.xml', 'Q311805.xml', 'Q997325.xml', 'Q790915.xml', 'Q1313164.xml', 'Q832306.xml', 'Q1366973.xml', 'Q247093.xml', 'Q464675.xml', 'Q728602.xml', 'Q1132023.xml', 'Q829985.xml', 'Q545504.xml', 'Q405673.xml', 'Q256719.xml', 'Q1475662.xml', 'Q974250.xml', 'Q1446461.xml', 'Q562313.xml', 'Q1431936.xml', 'Q1002164.xml', 'Q185936.xml', 'Q787838.xml', 'Q968945.xml', 'Q831288.xml', 'Q361527.xml', 'Q1345937.xml', 'Q864887.xml', 'Q803161.xml', 'Q381968.xml', 'Q919671.xml', 'Q1373432.xml', 'Q644889.xml', 'Q1268077.xml', 'Q1215777.xml', 'Q1411069.xml']
+The index of file name is: 1
+FILE NAME : Q32404.xml
+search loop:   How do you run a Python script as a service in Windows
+list of docs ['Q1295446.xml', 'Q32404.xml', 'Q34328.xml', 'Q1332853.xml', 'Q877033.xml', 'Q833062.xml', 'Q153221.xml', 'Q1031705.xml', 'Q204062.xml', 'Q597572.xml', 'Q267838.xml', 'Q906660.xml', 'Q95950.xml', 'Q568028.xml', 'Q113288.xml', 'Q716524.xml', 'Q1129678.xml', 'Q783531.xml', 'Q340122.xml', 'Q1465494.xml', 'Q446218.xml', 'Q431205.xml', 'Q1070772.xml', 'Q1398843.xml', 'Q1265308.xml', 'Q418039.xml', 'Q1294556.xml', 'Q1423345.xml', 'Q976573.xml', 'Q8896.xml', 'Q727313.xml', 'Q1418082.xml', 'Q1112784.xml', 'Q1455592.xml', 'Q518206.xml', 'Q850575.xml', 'Q446685.xml', 'Q860428.xml', 'Q311805.xml', 'Q213798.xml', 'Q263296.xml', 'Q85122.xml', 'Q210461.xml', 'Q348392.xml', 'Q1417121.xml', 'Q996129.xml', 'Q433325.xml', 'Q910854.xml', 'Q1188133.xml', 'Q276184.xml']
+The index of file name is: 1
+FILE NAME : Q922323.xml
+search loop:   How do I deactivate an egg
+list of docs ['Q922323.xml', 'Q990754.xml', 'Q857072.xml', 'Q672881.xml', 'Q1117066.xml', 'Q256417.xml', 'Q268015.xml', 'Q177910.xml', 'Q1108384.xml', 'Q1416882.xml', 'Q49164.xml', 'Q1299849.xml', 'Q1416005.xml', 'Q1289971.xml', 'Q268025.xml', 'Q458311.xml', 'Q1449130.xml', 'Q1007488.xml', 'Q1264447.xml', 'Q851420.xml', 'Q1252910.xml', 'Q1329190.xml', 'Q843753.xml', 'Q178300.xml', 'Q1301689.xml', 'Q737383.xml', 'Q685874.xml', 'Q1106574.xml', 'Q877072.xml', 'Q769766.xml', 'Q194339.xml', 'Q421050.xml', 'Q1151256.xml', 'Q320979.xml', 'Q215267.xml', 'Q410163.xml', 'Q897792.xml', 'Q924051.xml', 'Q969553.xml', 'Q775880.xml', 'Q1045906.xml', 'Q1384717.xml', 'Q1236172.xml', 'Q1120758.xml', 'Q47953.xml', 'Q922148.xml', 'Q368636.xml', 'Q791561.xml', 'Q1122494.xml', 'Q1166503.xml']
+The index of file name is: 0
+FILE NAME : Q461236.xml
+search loop:   How to cast a pointer in C
+list of docs ['Q851587.xml', 'Q461236.xml', 'Q1347280.xml', 'Q492377.xml', 'Q640389.xml', 'Q1276847.xml', 'Q1325518.xml', 'Q1413851.xml', 'Q1060305.xml', 'Q518708.xml', 'Q1044073.xml', 'Q1033169.xml', 'Q1304736.xml', 'Q1229751.xml', 'Q1282295.xml', 'Q494163.xml', 'Q504635.xml', 'Q739870.xml', 'Q874433.xml', 'Q1169745.xml', 'Q465605.xml', 'Q1315465.xml', 'Q379445.xml', 'Q421618.xml', 'Q1382076.xml', 'Q874245.xml', 'Q383010.xml', 'Q119869.xml', 'Q406010.xml', 'Q512941.xml', 'Q1001522.xml', 'Q1294649.xml', 'Q828139.xml', 'Q1395591.xml', 'Q327002.xml', 'Q1229318.xml', 'Q1207106.xml', 'Q186232.xml', 'Q1222926.xml', 'Q1052135.xml', 'Q1163250.xml', 'Q1461381.xml', 'Q162480.xml', 'Q380442.xml', 'Q983999.xml', 'Q1470343.xml', 'Q1093883.xml', 'Q245740.xml', 'Q60000.xml', 'Q47981.xml']
+The index of file name is: 1
+FILE NAME : Q1173962.xml
+search loop:   Run Code Before Every Function Call for a Class in C
+list of docs ['Q1173962.xml', 'Q36832.xml', 'Q1051539.xml', 'Q434700.xml', 'Q394900.xml', 'Q628410.xml', 'Q72422.xml', 'Q762448.xml', 'Q420350.xml', 'Q1118227.xml', 'Q667634.xml', 'Q737102.xml', 'Q603390.xml', 'Q496440.xml', 'Q1338403.xml', 'Q564703.xml', 'Q1014584.xml', 'Q1391426.xml', 'Q1153937.xml', 'Q104983.xml', 'Q764540.xml', 'Q667410.xml', 'Q735299.xml', 'Q676915.xml', 'Q91849.xml', 'Q1358748.xml', 'Q847279.xml', 'Q1216794.xml', 'Q399946.xml', 'Q449827.xml', 'Q949890.xml', 'Q1034606.xml', 'Q576572.xml', 'Q1156027.xml', 'Q419163.xml', 'Q1219607.xml', 'Q1454941.xml', 'Q708089.xml', 'Q142545.xml', 'Q666320.xml', 'Q1273739.xml', 'Q1261668.xml', 'Q701699.xml', 'Q1277650.xml', 'Q67174.xml', 'Q292124.xml', 'Q419379.xml', 'Q875337.xml', 'Q580985.xml', 'Q1301056.xml']
+The index of file name is: 0
+FILE NAME : Q1468780.xml
+search loop:   What networking librariesframeworks exist for Python
+list of docs ['Q936625.xml', 'Q1253905.xml', 'Q1141130.xml', 'Q846950.xml', 'Q407464.xml', 'Q963305.xml', 'Q1468780.xml', 'Q1187817.xml', 'Q491380.xml', 'Q1290142.xml', 'Q294504.xml', 'Q831679.xml', 'Q917619.xml', 'Q171835.xml', 'Q1134565.xml', 'Q627596.xml', 'Q900754.xml', 'Q700905.xml', 'Q68774.xml', 'Q987876.xml', 'Q1057449.xml', 'Q1322243.xml', 'Q619130.xml', 'Q538875.xml', 'Q1448193.xml', 'Q1120976.xml', 'Q177197.xml', 'Q479816.xml', 'Q377556.xml', 'Q595062.xml', 'Q378808.xml', 'Q1432253.xml', 'Q916663.xml', 'Q1236104.xml', 'Q1017399.xml', 'Q1106433.xml', 'Q732476.xml', 'Q1472876.xml', 'Q1026136.xml', 'Q833252.xml', 'Q986516.xml', 'Q366257.xml', 'Q1062198.xml', 'Q257730.xml', 'Q1241797.xml', 'Q186916.xml', 'Q849728.xml', 'Q1210700.xml', 'Q747017.xml', 'Q228781.xml']
+The index of file name is: 6
+FILE NAME : Q1185545.xml
+search loop:   Python loop counter in a for loop
+list of docs ['Q1173310.xml', 'Q160889.xml', 'Q323419.xml', 'Q1105014.xml', 'Q962361.xml', 'Q485371.xml', 'Q387654.xml', 'Q214881.xml', 'Q1106433.xml', 'Q1290798.xml', 'Q279561.xml', 'Q1185545.xml', 'Q475871.xml', 'Q429414.xml', 'Q1073396.xml', 'Q19151.xml', 'Q1047614.xml', 'Q860893.xml', 'Q472575.xml', 'Q722697.xml', 'Q1066758.xml', 'Q183480.xml', 'Q823141.xml', 'Q886706.xml', 'Q1224978.xml', 'Q869885.xml', 'Q1474646.xml', 'Q514617.xml', 'Q886629.xml', 'Q521321.xml', 'Q877295.xml', 'Q1475264.xml', 'Q1118227.xml', 'Q774876.xml', 'Q1123574.xml', 'Q1208963.xml', 'Q225675.xml', 'Q1072639.xml', 'Q961943.xml', 'Q969285.xml', 'Q1374457.xml', 'Q948376.xml', 'Q795405.xml', 'Q1119220.xml', 'Q680683.xml', 'Q795817.xml', 'Q650877.xml', 'Q1233222.xml', 'Q936904.xml', 'Q1031199.xml']
+The index of file name is: 11
+FILE NAME : Q497952.xml
+search loop:   How to make python gracefully fail
+list of docs ['Q497952.xml', 'Q58119.xml', 'Q584599.xml', 'Q515149.xml', 'Q1320401.xml', 'Q1340950.xml', 'Q1330498.xml', 'Q389180.xml', 'Q85985.xml', 'Q388069.xml', 'Q1086014.xml', 'Q1424593.xml', 'Q1035666.xml', 'Q961297.xml', 'Q1078166.xml', 'Q1353263.xml', 'Q852334.xml', 'Q151929.xml', 'Q916455.xml', 'Q617944.xml', 'Q914821.xml', 'Q540427.xml', 'Q1213607.xml', 'Q130763.xml', 'Q1298316.xml', 'Q984244.xml', 'Q374768.xml', 'Q181556.xml', 'Q461981.xml', 'Q621084.xml', 'Q1348315.xml', 'Q602046.xml', 'Q302736.xml', 'Q1081409.xml', 'Q691402.xml', 'Q598879.xml', 'Q796319.xml', 'Q907812.xml', 'Q1231599.xml', 'Q1127626.xml', 'Q1254028.xml', 'Q556342.xml', 'Q56145.xml', 'Q620844.xml', 'Q399946.xml', 'Q737653.xml', 'Q1134607.xml', 'Q1034145.xml', 'Q272750.xml', 'Q236407.xml']
+The index of file name is: 0
+
+Average postion : 15.2

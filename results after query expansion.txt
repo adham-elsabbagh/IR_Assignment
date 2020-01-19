@@ -1,0 +1,507 @@
+RESULTS AFTER QUERY EXPANSION
+AVERAGE POSITION OF THE DOCUMENT WITH THE TITLE AS QUERY
+(BM25SIMILARITY)
+
+FILE NAME : Q173298.xml
+search loop:   Getting started with mobile programming. What is a good platform
+query_expanded:  acquiring getting get get_down begin start_out Mobile Mobile_River mobile scheduling programming programing good goodness commodity platform political_platform political_program 
+list of docs ['Q361527.xml', 'Q44821.xml', 'Q429322.xml', 'Q671657.xml', 'Q1119574.xml', 'Q1011168.xml', 'Q832306.xml', 'Q787838.xml', 'Q997325.xml', 'Q1307977.xml', 'Q728602.xml', 'Q708484.xml', 'Q674456.xml', 'Q173484.xml', 'Q1284631.xml', 'Q1076933.xml', 'Q386379.xml', 'Q1313164.xml', 'Q271261.xml', 'Q864887.xml', 'Q1440537.xml', 'Q1310272.xml', 'Q164427.xml', 'Q172764.xml', 'Q1366973.xml', 'Q617202.xml', 'Q197135.xml', 'Q165984.xml', 'Q545504.xml', 'Q343257.xml', 'Q1475662.xml', 'Q271404.xml', 'Q304752.xml', 'Q251506.xml', 'Q968945.xml', 'Q1124223.xml', 'Q415879.xml', 'Q290139.xml', 'Q60446.xml', 'Q256719.xml', 'Q246407.xml', 'Q816212.xml', 'Q1132023.xml', 'Q891069.xml', 'Q495658.xml', 'Q1211190.xml', 'Q1373432.xml', 'Q1345937.xml', 'Q173298.xml', 'Q1342299.xml']
+The index of file name is: 48
+FILE NAME : Q171765.xml
+search loop:   What is the best way to get all the divisors of a number
+query_expanded:  best topper Best manner mode style get acquire become divisor factor number figure act 
+list of docs ['Q134834.xml', 'Q1142133.xml', 'Q942198.xml', 'Q1215402.xml', 'Q195853.xml', 'Q363907.xml', 'Q1200247.xml', 'Q492366.xml', 'Q171765.xml', 'Q321068.xml', 'Q961344.xml', 'Q1381739.xml', 'Q1076644.xml', 'Q853316.xml', 'Q555009.xml', 'Q567222.xml', 'Q1422144.xml', 'Q685758.xml', 'Q1269994.xml', 'Q881388.xml', 'Q230715.xml', 'Q1401102.xml', 'Q588700.xml', 'Q571488.xml', 'Q1420685.xml', 'Q692225.xml', 'Q358396.xml', 'Q309129.xml', 'Q181543.xml', 'Q463618.xml', 'Q1018888.xml', 'Q271261.xml', 'Q903555.xml', 'Q183447.xml', 'Q37142.xml', 'Q850630.xml', 'Q1262308.xml', 'Q861864.xml', 'Q1202466.xml', 'Q641514.xml', 'Q635276.xml', 'Q487642.xml', 'Q1280229.xml', 'Q999699.xml', 'Q1010381.xml', 'Q899861.xml', 'Q299267.xml', 'Q175544.xml', 'Q153074.xml', 'Q1129678.xml']
+The index of file name is: 8
+FILE NAME : Q743697.xml
+search loop:   What is the exact definition of instance variable
+query_expanded:  demand exact claim definition case instance example variable variable_quantity variable_star 
+list of docs ['Q743697.xml', 'Q876776.xml', 'Q223771.xml', 'Q722640.xml', 'Q143073.xml', 'Q1128431.xml', 'Q874661.xml', 'Q159990.xml', 'Q1232175.xml', 'Q651358.xml', 'Q1079623.xml', 'Q1038667.xml', 'Q599430.xml', 'Q290952.xml', 'Q976834.xml', 'Q1326468.xml', 'Q199747.xml', 'Q789421.xml', 'Q1300836.xml', 'Q994353.xml', 'Q496582.xml', 'Q616573.xml', 'Q1350410.xml', 'Q552329.xml', 'Q737583.xml', 'Q369898.xml', 'Q1333296.xml', 'Q734075.xml', 'Q1262063.xml', 'Q908830.xml', 'Q391006.xml', 'Q323790.xml', 'Q785686.xml', 'Q68645.xml', 'Q197509.xml', 'Q653423.xml', 'Q1029192.xml', 'Q1240229.xml', 'Q1362328.xml', 'Q558216.xml', 'Q620844.xml', 'Q154469.xml', 'Q771816.xml', 'Q886526.xml', 'Q603390.xml', 'Q291978.xml', 'Q1093968.xml', 'Q1260954.xml', 'Q363292.xml', 'Q931995.xml']
+The index of file name is: 0
+FILE NAME : Q1350396.xml
+search loop:   Error while inserting pointer to a vector
+query_expanded:  mistake error fault insert infix enter arrow pointer cursor vector transmitter 
+list of docs ['Q1384301.xml', 'Q326922.xml', 'Q891913.xml', 'Q1381840.xml', 'Q1472019.xml', 'Q405617.xml', 'Q995281.xml', 'Q1039627.xml', 'Q901704.xml', 'Q739870.xml', 'Q974702.xml', 'Q1189179.xml', 'Q1148169.xml', 'Q403433.xml', 'Q518708.xml', 'Q933941.xml', 'Q113424.xml', 'Q372885.xml', 'Q932328.xml', 'Q282570.xml', 'Q1080649.xml', 'Q390400.xml', 'Q721089.xml', 'Q1288474.xml', 'Q1085489.xml', 'Q528116.xml', 'Q485358.xml', 'Q1145762.xml', 'Q524068.xml', 'Q1271502.xml', 'Q1003905.xml', 'Q280069.xml', 'Q775296.xml', 'Q136789.xml', 'Q532779.xml', 'Q914460.xml', 'Q849168.xml', 'Q485789.xml', 'Q1340181.xml', 'Q257563.xml', 'Q893514.xml', 'Q47901.xml', 'Q680885.xml', 'Q577467.xml', 'Q279601.xml', 'Q660020.xml', 'Q1110658.xml', 'Q1380585.xml', 'Q860357.xml', 'Q403897.xml']
+not in a list
+FILE NAME : Q522919.xml
+search loop:   Is this a reasonable use of the ternary operator
+query_expanded:  reasonable sensible fair use usage utilization three 3 III operator manipulator hustler 
+list of docs ['Q467600.xml', 'Q676797.xml', 'Q1220794.xml', 'Q456926.xml', 'Q1982.xml', 'Q418039.xml', 'Q862487.xml', 'Q806830.xml', 'Q621776.xml', 'Q1058001.xml', 'Q991518.xml', 'Q259634.xml', 'Q657783.xml', 'Q1199920.xml', 'Q117110.xml', 'Q1330550.xml', 'Q871423.xml', 'Q1143671.xml', 'Q885625.xml', 'Q466684.xml', 'Q702647.xml', 'Q327776.xml', 'Q1433850.xml', 'Q1079748.xml', 'Q1066827.xml', 'Q1296893.xml', 'Q1463515.xml', 'Q63166.xml', 'Q1234750.xml', 'Q783944.xml', 'Q1282368.xml', 'Q396856.xml', 'Q370357.xml', 'Q99907.xml', 'Q580842.xml', 'Q963914.xml', 'Q1163012.xml', 'Q361443.xml', 'Q994429.xml', 'Q969285.xml', 'Q357968.xml', 'Q1108918.xml', 'Q1144953.xml', 'Q792217.xml', 'Q581209.xml', 'Q1259982.xml', 'Q276052.xml', 'Q1206793.xml', 'Q674739.xml', 'Q456786.xml']
+not in a list
+FILE NAME : Q689384.xml
+search loop:   PyQt4 and QtWebKit  how to auto scroll the view
+query_expanded:  car auto automobile coil whorl roll position view perspective 
+list of docs ['Q347010.xml', 'Q999291.xml', 'Q1087870.xml', 'Q246315.xml', 'Q202340.xml', 'Q197121.xml', 'Q670734.xml', 'Q966960.xml', 'Q598471.xml', 'Q1045232.xml', 'Q1457669.xml', 'Q1300836.xml', 'Q1444222.xml', 'Q756222.xml', 'Q160298.xml', 'Q1118272.xml', 'Q1384301.xml', 'Q1045344.xml', 'Q1164309.xml', 'Q932435.xml', 'Q499713.xml', 'Q459503.xml', 'Q1413057.xml', 'Q1434949.xml', 'Q597532.xml', 'Q1057529.xml', 'Q374399.xml', 'Q1247863.xml', 'Q1060483.xml', 'Q652788.xml', 'Q602593.xml', 'Q1086241.xml', 'Q133899.xml', 'Q1327848.xml', 'Q1224962.xml', 'Q926187.xml', 'Q194621.xml', 'Q1025579.xml', 'Q1250437.xml', 'Q967031.xml', 'Q1333801.xml', 'Q1440418.xml', 'Q593815.xml', 'Q944033.xml', 'Q1172281.xml', 'Q103347.xml', 'Q632171.xml', 'Q507560.xml', 'Q212941.xml', 'Q855816.xml']
+not in a list
+FILE NAME : Q328019.xml
+search loop:   How to load bmp into GLubyte array
+query_expanded:  load loading burden array raiment regalia 
+list of docs ['Q1432777.xml', 'Q556730.xml', 'Q987828.xml', 'Q328019.xml', 'Q1388388.xml', 'Q993712.xml', 'Q775217.xml', 'Q1422270.xml', 'Q876107.xml', 'Q1398234.xml', 'Q679210.xml', 'Q895994.xml', 'Q1195753.xml', 'Q433293.xml', 'Q238535.xml', 'Q314492.xml', 'Q1348547.xml', 'Q448935.xml', 'Q301357.xml', 'Q1279583.xml', 'Q935978.xml', 'Q1231900.xml', 'Q140295.xml', 'Q1180902.xml', 'Q795391.xml', 'Q1267697.xml', 'Q708684.xml', 'Q211934.xml', 'Q686798.xml', 'Q1078069.xml', 'Q552253.xml', 'Q562349.xml', 'Q1191525.xml', 'Q456323.xml', 'Q1263800.xml', 'Q1207082.xml', 'Q272030.xml', 'Q1152690.xml', 'Q289397.xml', 'Q1362114.xml', 'Q646652.xml', 'Q1002841.xml', 'Q402314.xml', 'Q1401527.xml', 'Q1362674.xml', 'Q638277.xml', 'Q1200026.xml', 'Q1346503.xml', 'Q1183572.xml', 'Q27998.xml']
+The index of file name is: 3
+FILE NAME : Q678236.xml
+search loop:   How to get the filename without the extension from a path in Python
+query_expanded:  get acquire become filename file_name computer_filename extension propagation extension_service way path way_of_life python Python 
+list of docs ['Q678236.xml', 'Q1176624.xml', 'Q1149983.xml', 'Q541390.xml', 'Q183480.xml', 'Q120656.xml', 'Q1192978.xml', 'Q208120.xml', 'Q377017.xml', 'Q306533.xml', 'Q1027714.xml', 'Q22676.xml', 'Q82831.xml', 'Q959837.xml', 'Q51520.xml', 'Q434597.xml', 'Q918154.xml', 'Q837606.xml', 'Q1158076.xml', 'Q1361604.xml', 'Q299588.xml', 'Q1122924.xml', 'Q599953.xml', 'Q67631.xml', 'Q50499.xml', 'Q759906.xml', 'Q225735.xml', 'Q898669.xml', 'Q904170.xml', 'Q542596.xml', 'Q923318.xml', 'Q612097.xml', 'Q67273.xml', 'Q7880.xml', 'Q881639.xml', 'Q43580.xml', 'Q1252481.xml', 'Q845058.xml', 'Q660160.xml', 'Q973473.xml', 'Q51949.xml', 'Q309412.xml', 'Q51212.xml', 'Q646955.xml', 'Q753190.xml', 'Q140758.xml', 'Q221185.xml', 'Q1222929.xml', 'Q651048.xml', 'Q595305.xml']
+The index of file name is: 0
+FILE NAME : Q1179096.xml
+search loop:   Suggestions for python assert function
+query_expanded:  suggestion proposition proffer python Python assert asseverate maintain function mathematical_function single-valued_function 
+list of docs ['Q850630.xml', 'Q741950.xml', 'Q438149.xml', 'Q863935.xml', 'Q653259.xml', 'Q552423.xml', 'Q1273211.xml', 'Q1303243.xml', 'Q811670.xml', 'Q452610.xml', 'Q608098.xml', 'Q680826.xml', 'Q944592.xml', 'Q489720.xml', 'Q1307367.xml', 'Q1121951.xml', 'Q898669.xml', 'Q54867.xml', 'Q1091756.xml', 'Q366980.xml', 'Q1098549.xml', 'Q265687.xml', 'Q402364.xml', 'Q455612.xml', 'Q653368.xml', 'Q367560.xml', 'Q602046.xml', 'Q510821.xml', 'Q412954.xml', 'Q1180606.xml', 'Q1416646.xml', 'Q1461392.xml', 'Q455717.xml', 'Q1308607.xml', 'Q1091337.xml', 'Q231121.xml', 'Q501945.xml', 'Q1055360.xml', 'Q1389180.xml', 'Q1294382.xml', 'Q486087.xml', 'Q516946.xml', 'Q140026.xml', 'Q453738.xml', 'Q1045334.xml', 'Q136069.xml', 'Q129507.xml', 'Q463604.xml', 'Q330367.xml', 'Q715417.xml']
+not in a list
+FILE NAME : Q683493.xml
+search loop:   Timeout on a HTTP request in python
+query_expanded:  hypertext_transfer_protocol HTTP request petition postulation python Python 
+list of docs ['Q843392.xml', 'Q603856.xml', 'Q629518.xml', 'Q265720.xml', 'Q1293518.xml', 'Q695703.xml', 'Q563384.xml', 'Q987217.xml', 'Q201515.xml', 'Q979599.xml', 'Q1290142.xml', 'Q984244.xml', 'Q111945.xml', 'Q894168.xml', 'Q645312.xml', 'Q1180878.xml', 'Q464040.xml', 'Q456753.xml', 'Q635113.xml', 'Q223356.xml', 'Q149307.xml', 'Q219110.xml', 'Q383738.xml', 'Q1353055.xml', 'Q962179.xml', 'Q921532.xml', 'Q1071110.xml', 'Q167426.xml', 'Q64426.xml', 'Q85119.xml', 'Q802134.xml', 'Q600536.xml', 'Q688766.xml', 'Q1123622.xml', 'Q417158.xml', 'Q150517.xml', 'Q1028408.xml', 'Q148853.xml', 'Q395451.xml', 'Q514912.xml', 'Q415192.xml', 'Q1208067.xml', 'Q556342.xml', 'Q35538.xml', 'Q1017087.xml', 'Q1037406.xml', 'Q508817.xml', 'Q1107862.xml', 'Q796906.xml', 'Q775482.xml']
+not in a list
+FILE NAME : Q258871.xml
+search loop:   How to use find algorithm with a vector of pointers to objects in c
+query_expanded:  use usage utilization discovery breakthrough find algorithm algorithmic_rule algorithmic_program vector transmitter arrow pointer cursor object physical_object aim degree_centigrade degree_Celsius C 
+list of docs ['Q739870.xml', 'Q1189179.xml', 'Q1982.xml', 'Q418039.xml', 'Q640407.xml', 'Q466684.xml', 'Q467600.xml', 'Q832284.xml', 'Q326922.xml', 'Q1472019.xml', 'Q914460.xml', 'Q1039627.xml', 'Q357243.xml', 'Q618169.xml', 'Q621776.xml', 'Q1199920.xml', 'Q47901.xml', 'Q121787.xml', 'Q644821.xml', 'Q580053.xml', 'Q28080.xml', 'Q1238613.xml', 'Q1223962.xml', 'Q712020.xml', 'Q518708.xml', 'Q589985.xml', 'Q891913.xml', 'Q571394.xml', 'Q218488.xml', 'Q1371710.xml', 'Q182957.xml', 'Q1305713.xml', 'Q776042.xml', 'Q258871.xml', 'Q806830.xml', 'Q364802.xml', 'Q351806.xml', 'Q1009137.xml', 'Q99907.xml', 'Q1006172.xml', 'Q969285.xml', 'Q337479.xml', 'Q555223.xml', 'Q248104.xml', 'Q47538.xml', 'Q979961.xml', 'Q369211.xml', 'Q771453.xml', 'Q491304.xml', 'Q1021521.xml']
+The index of file name is: 33
+FILE NAME : Q598036.xml
+search loop:   How do I implement operator for dynamic array
+query_expanded:  implement enforce apply operator manipulator hustler moral_force dynamic dynamical array raiment regalia 
+list of docs ['Q288217.xml', 'Q614492.xml', 'Q1274428.xml', 'Q737567.xml', 'Q322086.xml', 'Q1176298.xml', 'Q143850.xml', 'Q683838.xml', 'Q433850.xml', 'Q1416898.xml', 'Q381621.xml', 'Q1214151.xml', 'Q1124534.xml', 'Q1374187.xml', 'Q1204521.xml', 'Q201940.xml', 'Q1201198.xml', 'Q1408866.xml', 'Q143746.xml', 'Q751878.xml', 'Q216259.xml', 'Q1021138.xml', 'Q554476.xml', 'Q426737.xml', 'Q404231.xml', 'Q1402384.xml', 'Q905724.xml', 'Q1350630.xml', 'Q62512.xml', 'Q972705.xml', 'Q650283.xml', 'Q48094.xml', 'Q1314526.xml', 'Q958549.xml', 'Q1338921.xml', 'Q727762.xml', 'Q983244.xml', 'Q365782.xml', 'Q347493.xml', 'Q1313805.xml', 'Q408196.xml', 'Q849168.xml', 'Q913070.xml', 'Q936687.xml', 'Q1285457.xml', 'Q850796.xml', 'Q991335.xml', 'Q232445.xml', 'Q718477.xml', 'Q913338.xml']
+not in a list
+FILE NAME : Q1382925.xml
+search loop:   virtualenv nositepackages and pip still finding global packages
+query_expanded:  pip spot blip still hush stillness determination finding find global planetary world package bundle packet 
+list of docs ['Q688471.xml', 'Q267977.xml', 'Q1231688.xml', 'Q329498.xml', 'Q502435.xml', 'Q865115.xml', 'Q679759.xml', 'Q329838.xml', 'Q1257638.xml', 'Q671412.xml', 'Q704286.xml', 'Q710432.xml', 'Q643756.xml', 'Q349004.xml', 'Q1003360.xml', 'Q1387775.xml', 'Q1360257.xml', 'Q156799.xml', 'Q1294272.xml', 'Q1263187.xml', 'Q913459.xml', 'Q281783.xml', 'Q1459001.xml', 'Q510098.xml', 'Q142545.xml', 'Q101754.xml', 'Q1440324.xml', 'Q118138.xml', 'Q935111.xml', 'Q922771.xml', 'Q323424.xml', 'Q534574.xml', 'Q637081.xml', 'Q846566.xml', 'Q33813.xml', 'Q955129.xml', 'Q516200.xml', 'Q484635.xml', 'Q455627.xml', 'Q99479.xml', 'Q1259106.xml', 'Q1061611.xml', 'Q573540.xml', 'Q351806.xml', 'Q579151.xml', 'Q1153096.xml', 'Q49926.xml', 'Q122524.xml', 'Q18959.xml', 'Q1318311.xml']
+not in a list
+FILE NAME : Q1149994.xml
+search loop:   stdlist stdvector methods and malloc
+query_expanded:  method method_acting 
+list of docs ['Q1259963.xml', 'Q1333296.xml', 'Q1385546.xml', 'Q955533.xml', 'Q972.xml', 'Q1129246.xml', 'Q1372967.xml', 'Q961048.xml', 'Q496304.xml', 'Q697564.xml', 'Q934628.xml', 'Q1167617.xml', 'Q1248926.xml', 'Q490487.xml', 'Q1273148.xml', 'Q53225.xml', 'Q454223.xml', 'Q533300.xml', 'Q671340.xml', 'Q695679.xml', 'Q1284014.xml', 'Q1053983.xml', 'Q725777.xml', 'Q114214.xml', 'Q625083.xml', 'Q546337.xml', 'Q1364117.xml', 'Q1116693.xml', 'Q498835.xml', 'Q954340.xml', 'Q940442.xml', 'Q569754.xml', 'Q136097.xml', 'Q61453.xml', 'Q1138425.xml', 'Q706813.xml', 'Q1454941.xml', 'Q677444.xml', 'Q852308.xml', 'Q394770.xml', 'Q784331.xml', 'Q1288498.xml', 'Q880160.xml', 'Q1240229.xml', 'Q1306778.xml', 'Q554551.xml', 'Q1143833.xml', 'Q34439.xml', 'Q1149109.xml', 'Q1406145.xml']
+not in a list
+FILE NAME : Q1213706.xml
+search loop:   What user do python scripts run as in windows
+query_expanded:  user exploiter drug_user python Python script book playscript run tally test Windows window windowpane 
+list of docs ['Q954834.xml', 'Q488366.xml', 'Q1295446.xml', 'Q764631.xml', 'Q2933.xml', 'Q445595.xml', 'Q792816.xml', 'Q1000900.xml', 'Q779675.xml', 'Q1301149.xml', 'Q1418082.xml', 'Q111155.xml', 'Q1235629.xml', 'Q341184.xml', 'Q877033.xml', 'Q1213706.xml', 'Q558776.xml', 'Q699390.xml', 'Q165495.xml', 'Q1459087.xml', 'Q342729.xml', 'Q107591.xml', 'Q1002064.xml', 'Q372885.xml', 'Q1168517.xml', 'Q872737.xml', 'Q1198067.xml', 'Q1009813.xml', 'Q431205.xml', 'Q621874.xml', 'Q151846.xml', 'Q361312.xml', 'Q842075.xml', 'Q34328.xml', 'Q193469.xml', 'Q476668.xml', 'Q365058.xml', 'Q783531.xml', 'Q785667.xml', 'Q874757.xml', 'Q904555.xml', 'Q118260.xml', 'Q32404.xml', 'Q620154.xml', 'Q279094.xml', 'Q1378803.xml', 'Q524068.xml', 'Q906660.xml', 'Q1125637.xml', 'Q1053006.xml']
+The index of file name is: 15
+FILE NAME : Q1138106.xml
+search loop:   Django Template Error  Template ubase.html cannot be extended
+query_expanded:  template templet guide mistake error fault widen broaden extend 
+list of docs ['Q995281.xml', 'Q740740.xml', 'Q1080649.xml', 'Q613807.xml', 'Q88991.xml', 'Q1041971.xml', 'Q874433.xml', 'Q1451963.xml', 'Q551465.xml', 'Q370366.xml', 'Q246806.xml', 'Q1037388.xml', 'Q1325763.xml', 'Q1319615.xml', 'Q768250.xml', 'Q1005329.xml', 'Q44084.xml', 'Q280069.xml', 'Q650461.xml', 'Q1145762.xml', 'Q1377548.xml', 'Q797574.xml', 'Q519296.xml', 'Q597213.xml', 'Q768585.xml', 'Q515149.xml', 'Q962135.xml', 'Q451963.xml', 'Q945555.xml', 'Q1138106.xml', 'Q342839.xml', 'Q1130819.xml', 'Q1044705.xml', 'Q1321407.xml', 'Q756611.xml', 'Q1171060.xml', 'Q1293879.xml', 'Q1384301.xml', 'Q622659.xml', 'Q883109.xml', 'Q470840.xml', 'Q671703.xml', 'Q1340181.xml', 'Q858338.xml', 'Q334292.xml', 'Q1311945.xml', 'Q384200.xml', 'Q581426.xml', 'Q330497.xml', 'Q550098.xml']
+The index of file name is: 29
+FILE NAME : Q583740.xml
+search loop:   Django development server shutdown error
+query_expanded:  development evolution growth waiter server host closure closedown closing mistake error fault 
+list of docs ['Q440541.xml', 'Q551226.xml', 'Q1186922.xml', 'Q505593.xml', 'Q1472876.xml', 'Q1291755.xml', 'Q81644.xml', 'Q519296.xml', 'Q1075753.xml', 'Q568247.xml', 'Q273524.xml', 'Q690856.xml', 'Q1028671.xml', 'Q1041971.xml', 'Q1345239.xml', 'Q159240.xml', 'Q1164033.xml', 'Q92928.xml', 'Q560808.xml', 'Q1130819.xml', 'Q984526.xml', 'Q995281.xml', 'Q1033130.xml', 'Q1105014.xml', 'Q1080649.xml', 'Q399129.xml', 'Q758819.xml', 'Q776120.xml', 'Q679966.xml', 'Q446912.xml', 'Q972927.xml', 'Q1040319.xml', 'Q1232366.xml', 'Q567622.xml', 'Q1469431.xml', 'Q771399.xml', 'Q1297519.xml', 'Q351656.xml', 'Q1171060.xml', 'Q1372949.xml', 'Q372885.xml', 'Q1086014.xml', 'Q1233728.xml', 'Q1334607.xml', 'Q754421.xml', 'Q1400787.xml', 'Q781466.xml', 'Q677028.xml', 'Q156951.xml', 'Q1115238.xml']
+not in a list
+FILE NAME : Q638360.xml
+search loop:   Python  How to calculate equal parts of two dictionaries
+query_expanded:  python Python calculate cipher cypher peer equal match parts part portion two 2 II dictionary lexicon 
+list of docs ['Q431082.xml', 'Q526125.xml', 'Q1165352.xml', 'Q327311.xml', 'Q285938.xml', 'Q49137.xml', 'Q581209.xml', 'Q638360.xml', 'Q609972.xml', 'Q1024847.xml', 'Q250394.xml', 'Q1108203.xml', 'Q60208.xml', 'Q145607.xml', 'Q1055410.xml', 'Q347734.xml', 'Q1185634.xml', 'Q558216.xml', 'Q626199.xml', 'Q842245.xml', 'Q1323364.xml', 'Q1056151.xml', 'Q484853.xml', 'Q319426.xml', 'Q817087.xml', 'Q402217.xml', 'Q1252357.xml', 'Q41701.xml', 'Q978222.xml', 'Q1019643.xml', 'Q1369664.xml', 'Q122277.xml', 'Q382466.xml', 'Q1374372.xml', 'Q894157.xml', 'Q1303021.xml', 'Q1031851.xml', 'Q452104.xml', 'Q1043766.xml', 'Q38987.xml', 'Q592746.xml', 'Q1407021.xml', 'Q1154378.xml', 'Q952110.xml', 'Q577421.xml', 'Q1008587.xml', 'Q451884.xml', 'Q931995.xml', 'Q1444528.xml', 'Q440541.xml']
+The index of file name is: 7
+FILE NAME : Q211830.xml
+search loop:   PerlTk GUI for C Application
+query_expanded:  graphical_user_interface GUI degree_centigrade degree_Celsius C application practical_application coating 
+list of docs ['Q261829.xml', 'Q455904.xml', 'Q1124340.xml', 'Q1396050.xml', 'Q449168.xml', 'Q13607.xml', 'Q758023.xml', 'Q707491.xml', 'Q623692.xml', 'Q1453393.xml', 'Q1043114.xml', 'Q1048254.xml', 'Q506441.xml', 'Q1189084.xml', 'Q61499.xml', 'Q692566.xml', 'Q1006364.xml', 'Q875909.xml', 'Q1332762.xml', 'Q48299.xml', 'Q7489.xml', 'Q584734.xml', 'Q402598.xml', 'Q1221244.xml', 'Q816714.xml', 'Q1125596.xml', 'Q1265169.xml', 'Q5313.xml', 'Q394146.xml', 'Q93930.xml', 'Q35922.xml', 'Q1283202.xml', 'Q437416.xml', 'Q640229.xml', 'Q1387264.xml', 'Q1322243.xml', 'Q1210700.xml', 'Q875686.xml', 'Q977653.xml', 'Q1355918.xml', 'Q665566.xml', 'Q1186017.xml', 'Q476881.xml', 'Q318641.xml', 'Q1440118.xml', 'Q772089.xml', 'Q212559.xml', 'Q1086179.xml', 'Q527314.xml', 'Q1027894.xml']
+not in a list
+FILE NAME : Q827393.xml
+search loop:   Default value for bool in C
+query_expanded:  default nonpayment nonremittal value economic_value time_value degree_centigrade degree_Celsius C 
+list of docs ['Q620137.xml', 'Q563221.xml', 'Q1059630.xml', 'Q687718.xml', 'Q1123725.xml', 'Q827393.xml', 'Q1142209.xml', 'Q1190112.xml', 'Q202718.xml', 'Q507971.xml', 'Q695645.xml', 'Q849812.xml', 'Q734958.xml', 'Q774898.xml', 'Q1192032.xml', 'Q1392869.xml', 'Q702185.xml', 'Q1144264.xml', 'Q1127396.xml', 'Q1126107.xml', 'Q60208.xml', 'Q412611.xml', 'Q1103933.xml', 'Q859511.xml', 'Q741476.xml', 'Q1171060.xml', 'Q152643.xml', 'Q879664.xml', 'Q877699.xml', 'Q936999.xml', 'Q250033.xml', 'Q269241.xml', 'Q255429.xml', 'Q1132941.xml', 'Q1092777.xml', 'Q420099.xml', 'Q1409454.xml', 'Q1117564.xml', 'Q92859.xml', 'Q1387769.xml', 'Q1398164.xml', 'Q1440222.xml', 'Q1386075.xml', 'Q120033.xml', 'Q1124340.xml', 'Q460613.xml', 'Q326062.xml', 'Q566574.xml', 'Q1069621.xml', 'Q755857.xml']
+The index of file name is: 5
+FILE NAME : Q1373940.xml
+search loop:   Expected primaryexpression before  token in strsafe.h
+query_expanded:  expect anticipate ask token item keepsake 
+list of docs ['Q275404.xml', 'Q1314314.xml', 'Q1368327.xml', 'Q177284.xml', 'Q870192.xml', 'Q909289.xml', 'Q367155.xml', 'Q453967.xml', 'Q1155553.xml', 'Q271612.xml', 'Q719559.xml', 'Q118370.xml', 'Q324867.xml', 'Q275355.xml', 'Q1416096.xml', 'Q290397.xml', 'Q856769.xml', 'Q977458.xml', 'Q1123117.xml', 'Q992661.xml', 'Q955568.xml', 'Q1060520.xml', 'Q133886.xml', 'Q910829.xml', 'Q942148.xml', 'Q575426.xml', 'Q1121971.xml', 'Q1401497.xml', 'Q770427.xml', 'Q667508.xml', 'Q236129.xml', 'Q851351.xml', 'Q53849.xml', 'Q1293966.xml', 'Q1161998.xml', 'Q1050520.xml', 'Q289347.xml', 'Q1349367.xml', 'Q88613.xml', 'Q1099178.xml', 'Q691148.xml', 'Q473099.xml', 'Q669903.xml', 'Q1018626.xml', 'Q994619.xml', 'Q459162.xml', 'Q1254244.xml', 'Q263339.xml', 'Q913409.xml', 'Q564829.xml']
+not in a list
+FILE NAME : Q494756.xml
+search loop:   When should you return a reference to a object from a class method
+query_expanded:  tax_return income_tax_return return mention reference citation object physical_object aim class category family method method_acting 
+list of docs ['Q1305632.xml', 'Q491304.xml', 'Q1463153.xml', 'Q1440958.xml', 'Q898955.xml', 'Q937954.xml', 'Q1385759.xml', 'Q648888.xml', 'Q259634.xml', 'Q797771.xml', 'Q350799.xml', 'Q223990.xml', 'Q503833.xml', 'Q407100.xml', 'Q622017.xml', 'Q1096291.xml', 'Q1327943.xml', 'Q834865.xml', 'Q134731.xml', 'Q853184.xml', 'Q1221878.xml', 'Q163823.xml', 'Q1318960.xml', 'Q604078.xml', 'Q1275735.xml', 'Q805403.xml', 'Q745692.xml', 'Q327807.xml', 'Q883313.xml', 'Q590217.xml', 'Q497408.xml', 'Q1444222.xml', 'Q182278.xml', 'Q1448817.xml', 'Q1193909.xml', 'Q697564.xml', 'Q347109.xml', 'Q848269.xml', 'Q625023.xml', 'Q1292081.xml', 'Q352152.xml', 'Q1387315.xml', 'Q490487.xml', 'Q526469.xml', 'Q423404.xml', 'Q1309921.xml', 'Q212237.xml', 'Q752602.xml', 'Q575455.xml', 'Q723293.xml']
+not in a list
+FILE NAME : Q52557.xml
+search loop:   profileguided optimization C
+query_expanded:  optimization optimisation degree_centigrade degree_Celsius C 
+list of docs ['Q618859.xml', 'Q179500.xml', 'Q675547.xml', 'Q145096.xml', 'Q1151557.xml', 'Q610934.xml', 'Q283701.xml', 'Q304088.xml', 'Q1420234.xml', 'Q800576.xml', 'Q199418.xml', 'Q598552.xml', 'Q67894.xml', 'Q1250219.xml', 'Q558227.xml', 'Q1201593.xml', 'Q462924.xml', 'Q1041866.xml', 'Q969297.xml', 'Q527700.xml', 'Q1230708.xml', 'Q703979.xml', 'Q473720.xml', 'Q1292138.xml', 'Q376966.xml', 'Q109937.xml', 'Q270455.xml', 'Q307362.xml', 'Q513009.xml', 'Q497786.xml', 'Q1025345.xml', 'Q297323.xml', 'Q152436.xml', 'Q640657.xml', 'Q1144034.xml', 'Q1054406.xml', 'Q297122.xml', 'Q197461.xml', 'Q713042.xml', 'Q443090.xml', 'Q345936.xml', 'Q780027.xml', 'Q649789.xml', 'Q1251710.xml', 'Q946855.xml', 'Q734227.xml', 'Q1281329.xml', 'Q688386.xml', 'Q878304.xml', 'Q879664.xml']
+not in a list
+FILE NAME : Q1469211.xml
+search loop:   Unmanaged dll call to crash a dotnet app
+query_expanded:  call phone_call telephone_call clang clangor clangour 
+list of docs ['Q457441.xml', 'Q1441947.xml', 'Q735204.xml', 'Q381161.xml', 'Q771867.xml', 'Q582302.xml', 'Q211237.xml', 'Q552019.xml', 'Q485525.xml', 'Q700097.xml', 'Q1180346.xml', 'Q499636.xml', 'Q255773.xml', 'Q1416096.xml', 'Q172863.xml', 'Q132667.xml', 'Q34125.xml', 'Q108318.xml', 'Q706101.xml', 'Q893841.xml', 'Q1373369.xml', 'Q780805.xml', 'Q841075.xml', 'Q1388469.xml', 'Q141498.xml', 'Q281818.xml', 'Q956640.xml', 'Q121757.xml', 'Q173618.xml', 'Q1061005.xml', 'Q777261.xml', 'Q1001307.xml', 'Q656420.xml', 'Q1056911.xml', 'Q1444961.xml', 'Q528559.xml', 'Q21593.xml', 'Q1419360.xml', 'Q145270.xml', 'Q1189097.xml', 'Q621542.xml', 'Q1180805.xml', 'Q1052844.xml', 'Q1114305.xml', 'Q1460377.xml', 'Q72552.xml', 'Q69539.xml', 'Q249467.xml', 'Q810951.xml', 'Q776508.xml']
+not in a list
+FILE NAME : Q1007442.xml
+search loop:   mrdivide function in MATLAB what is it doing and how can I do it in Python
+query_expanded:  function mathematical_function single-valued_function python Python 
+list of docs ['Q61605.xml', 'Q196771.xml', 'Q1312940.xml', 'Q1420957.xml', 'Q1294382.xml', 'Q847936.xml', 'Q157018.xml', 'Q922805.xml', 'Q143714.xml', 'Q551038.xml', 'Q265687.xml', 'Q357997.xml', 'Q402364.xml', 'Q305359.xml', 'Q115764.xml', 'Q723757.xml', 'Q1219733.xml', 'Q77552.xml', 'Q694768.xml', 'Q897020.xml', 'Q1204378.xml', 'Q1416646.xml', 'Q1303243.xml', 'Q957685.xml', 'Q982970.xml', 'Q776120.xml', 'Q983354.xml', 'Q446052.xml', 'Q988228.xml', 'Q843546.xml', 'Q35817.xml', 'Q1250313.xml', 'Q1321708.xml', 'Q756630.xml', 'Q992136.xml', 'Q1055360.xml', 'Q818362.xml', 'Q931995.xml', 'Q634024.xml', 'Q599625.xml', 'Q1091756.xml', 'Q165883.xml', 'Q166630.xml', 'Q328568.xml', 'Q764235.xml', 'Q714475.xml', 'Q159720.xml', 'Q1384715.xml', 'Q38987.xml', 'Q1454437.xml']
+not in a list
+FILE NAME : Q270455.xml
+search loop:   Is it possible to program iPhone in C
+query_expanded:  possible potential plan program programme degree_centigrade degree_Celsius C 
+list of docs ['Q673936.xml', 'Q1020279.xml', 'Q579673.xml', 'Q689339.xml', 'Q621212.xml', 'Q339649.xml', 'Q1180876.xml', 'Q1185775.xml', 'Q240887.xml', 'Q1108958.xml', 'Q1283664.xml', 'Q1187898.xml', 'Q931652.xml', 'Q1071417.xml', 'Q385632.xml', 'Q1008126.xml', 'Q1161618.xml', 'Q1268604.xml', 'Q1344026.xml', 'Q1062154.xml', 'Q526734.xml', 'Q997602.xml', 'Q1107865.xml', 'Q758693.xml', 'Q927574.xml', 'Q1131582.xml', 'Q445139.xml', 'Q847109.xml', 'Q1090503.xml', 'Q708555.xml', 'Q804995.xml', 'Q1404259.xml', 'Q1201537.xml', 'Q477387.xml', 'Q1177323.xml', 'Q648138.xml', 'Q902039.xml', 'Q1442154.xml', 'Q806543.xml', 'Q832331.xml', 'Q339971.xml', 'Q975785.xml', 'Q975016.xml', 'Q740844.xml', 'Q1270517.xml', 'Q1311513.xml', 'Q603973.xml', 'Q592763.xml', 'Q470840.xml', 'Q1290198.xml']
+not in a list
+FILE NAME : Q648276.xml
+search loop:   How to make a list comprehension with the group method in python
+query_expanded:  brand make shuffle list listing tilt comprehension inclusion group grouping radical method method_acting python Python 
+list of docs ['Q976882.xml', 'Q473973.xml', 'Q1022141.xml', 'Q859489.xml', 'Q1089441.xml', 'Q1415608.xml', 'Q842031.xml', 'Q1231333.xml', 'Q719886.xml', 'Q45500.xml', 'Q798854.xml', 'Q790860.xml', 'Q304152.xml', 'Q584865.xml', 'Q111954.xml', 'Q674690.xml', 'Q695505.xml', 'Q216657.xml', 'Q1318676.xml', 'Q139180.xml', 'Q1372890.xml', 'Q1205383.xml', 'Q1011431.xml', 'Q1220465.xml', 'Q1098218.xml', 'Q335096.xml', 'Q1221232.xml', 'Q1220872.xml', 'Q693880.xml', 'Q869229.xml', 'Q127454.xml', 'Q570433.xml', 'Q668591.xml', 'Q585006.xml', 'Q1387222.xml', 'Q1410887.xml', 'Q588958.xml', 'Q546385.xml', 'Q468421.xml', 'Q354883.xml', 'Q1185248.xml', 'Q257730.xml', 'Q1086241.xml', 'Q873327.xml', 'Q922256.xml', 'Q261500.xml', 'Q1035825.xml', 'Q1161810.xml', 'Q766546.xml', 'Q1027990.xml']
+not in a list
+FILE NAME : Q892673.xml
+search loop:   regarding encryption method
+query_expanded:  see consider reckon encoding encryption method method_acting 
+list of docs ['Q918294.xml', 'Q1428613.xml', 'Q959193.xml', 'Q1153096.xml', 'Q106630.xml', 'Q1061697.xml', 'Q572831.xml', 'Q1317279.xml', 'Q1328581.xml', 'Q941669.xml', 'Q1010783.xml', 'Q1064086.xml', 'Q728891.xml', 'Q694706.xml', 'Q447107.xml', 'Q491921.xml', 'Q998302.xml', 'Q1101715.xml', 'Q277521.xml', 'Q902095.xml', 'Q1077869.xml', 'Q1184844.xml', 'Q727507.xml', 'Q550470.xml', 'Q610516.xml', 'Q809796.xml', 'Q620609.xml', 'Q477061.xml', 'Q213628.xml', 'Q621321.xml', 'Q606191.xml', 'Q1455782.xml', 'Q1393004.xml', 'Q1159429.xml', 'Q1456770.xml', 'Q404795.xml', 'Q628332.xml', 'Q1308584.xml', 'Q904041.xml', 'Q480849.xml', 'Q1168894.xml', 'Q262579.xml', 'Q218089.xml', 'Q221376.xml', 'Q174890.xml', 'Q882184.xml', 'Q843392.xml', 'Q728296.xml', 'Q276010.xml', 'Q571083.xml']
+not in a list
+FILE NAME : Q513009.xml
+search loop:   Is there something that I can do in C but I cant do in C
+query_expanded:  degree_centigrade degree_Celsius C buzzword cant bank speed_of_light light_speed c 
+list of docs ['Q1029794.xml', 'Q1133286.xml', 'Q22059.xml', 'Q1358084.xml', 'Q1011168.xml', 'Q871411.xml', 'Q1247343.xml', 'Q461711.xml', 'Q1218014.xml', 'Q610403.xml', 'Q744768.xml', 'Q524453.xml', 'Q1087537.xml', 'Q833356.xml', 'Q1076316.xml', 'Q873976.xml', 'Q344715.xml', 'Q467851.xml', 'Q1142502.xml', 'Q1097785.xml', 'Q1119220.xml', 'Q1031772.xml', 'Q1355187.xml', 'Q1111479.xml', 'Q926946.xml', 'Q924257.xml', 'Q823141.xml', 'Q634963.xml', 'Q691773.xml', 'Q1418149.xml', 'Q537595.xml', 'Q124171.xml', 'Q711637.xml', 'Q1062965.xml', 'Q698011.xml', 'Q820846.xml', 'Q1466968.xml', 'Q8263.xml', 'Q877068.xml', 'Q1296506.xml', 'Q1079288.xml', 'Q743901.xml', 'Q477829.xml', 'Q529284.xml', 'Q1101049.xml', 'Q1184337.xml', 'Q1419650.xml', 'Q1270449.xml', 'Q558473.xml', 'Q1254196.xml']
+not in a list
+FILE NAME : Q392160.xml
+search loop:   What are some concrete usecases for metaclasses
+query_expanded:  concrete 
+list of docs ['Q559522.xml', 'Q310408.xml', 'Q1198055.xml', 'Q1080871.xml', 'Q1107743.xml', 'Q547833.xml', 'Q1104816.xml', 'Q1308079.xml', 'Q1260757.xml', 'Q483255.xml', 'Q31913.xml', 'Q1218764.xml', 'Q408336.xml', 'Q379053.xml', 'Q806561.xml', 'Q171596.xml', 'Q970472.xml', 'Q495021.xml', 'Q1430884.xml', 'Q1071092.xml', 'Q1150800.xml', 'Q1260954.xml', 'Q1085240.xml', 'Q616573.xml', 'Q521502.xml', 'Q1302161.xml', 'Q1050325.xml', 'Q1361560.xml', 'Q395982.xml', 'Q1041218.xml', 'Q249500.xml', 'Q1325553.xml', 'Q1176658.xml', 'Q776004.xml', 'Q1309725.xml', 'Q851323.xml', 'Q1037090.xml', 'Q1337095.xml', 'Q1172792.xml', 'Q1255545.xml', 'Q1395312.xml', 'Q256724.xml', 'Q729905.xml', 'Q37346.xml', 'Q843247.xml', 'Q445037.xml', 'Q1336070.xml', 'Q741452.xml', 'Q748028.xml', 'Q877234.xml']
+not in a list
+FILE NAME : Q684019.xml
+search loop:   How to make a single line systabcontrol32 that scrolls but doesnt show a scrollbar
+query_expanded:  brand make shuffle single bingle one line argumentation logical_argument coil whorl roll show display appearance 
+list of docs ['Q695505.xml', 'Q473973.xml', 'Q922256.xml', 'Q1415608.xml', 'Q976882.xml', 'Q856444.xml', 'Q798854.xml', 'Q643413.xml', 'Q1086241.xml', 'Q1027894.xml', 'Q181064.xml', 'Q910215.xml', 'Q1369416.xml', 'Q1453882.xml', 'Q945482.xml', 'Q1022141.xml', 'Q693880.xml', 'Q1080393.xml', 'Q694002.xml', 'Q1002064.xml', 'Q27700.xml', 'Q782584.xml', 'Q751339.xml', 'Q985543.xml', 'Q133899.xml', 'Q288739.xml', 'Q302379.xml', 'Q479236.xml', 'Q941669.xml', 'Q1247863.xml', 'Q719886.xml', 'Q335096.xml', 'Q1241395.xml', 'Q790860.xml', 'Q579310.xml', 'Q148963.xml', 'Q421223.xml', 'Q637371.xml', 'Q604329.xml', 'Q290424.xml', 'Q1442675.xml', 'Q1424177.xml', 'Q263676.xml', 'Q1121002.xml', 'Q618204.xml', 'Q154780.xml', 'Q339150.xml', 'Q485371.xml', 'Q190135.xml', 'Q756223.xml']
+not in a list
+FILE NAME : Q1279403.xml
+search loop:   Default route doesnt work
+query_expanded:  default nonpayment nonremittal path route itinerary work piece_of_work employment 
+list of docs ['Q1130819.xml', 'Q973439.xml', 'Q981691.xml', 'Q341184.xml', 'Q1122924.xml', 'Q926551.xml', 'Q1017185.xml', 'Q1029559.xml', 'Q916758.xml', 'Q1448429.xml', 'Q1383863.xml', 'Q29856.xml', 'Q1271337.xml', 'Q1462842.xml', 'Q242065.xml', 'Q616480.xml', 'Q1220243.xml', 'Q377017.xml', 'Q624671.xml', 'Q990459.xml', 'Q1272242.xml', 'Q441838.xml', 'Q599953.xml', 'Q212528.xml', 'Q1059594.xml', 'Q1180878.xml', 'Q685589.xml', 'Q420515.xml', 'Q637953.xml', 'Q33306.xml', 'Q221185.xml', 'Q959837.xml', 'Q229664.xml', 'Q955504.xml', 'Q1303908.xml', 'Q1213690.xml', 'Q969553.xml', 'Q648138.xml', 'Q1418553.xml', 'Q1053794.xml', 'Q477387.xml', 'Q95950.xml', 'Q1279403.xml', 'Q310224.xml', 'Q1085852.xml', 'Q740836.xml', 'Q1147199.xml', 'Q1290659.xml', 'Q1465846.xml', 'Q1438270.xml']
+The index of file name is: 42
+FILE NAME : Q161852.xml
+search loop:   How can I read binary data from wfstream
+query_expanded:  read say scan binary_star binary double_star data information datum 
+list of docs ['Q1133739.xml', 'Q618581.xml', 'Q720507.xml', 'Q441203.xml', 'Q1093618.xml', 'Q997620.xml', 'Q479919.xml', 'Q1377446.xml', 'Q572734.xml', 'Q446296.xml', 'Q843154.xml', 'Q1400961.xml', 'Q1044517.xml', 'Q686296.xml', 'Q682432.xml', 'Q557199.xml', 'Q597260.xml', 'Q799479.xml', 'Q156799.xml', 'Q1294385.xml', 'Q1225053.xml', 'Q1322508.xml', 'Q708229.xml', 'Q1018073.xml', 'Q823479.xml', 'Q1734.xml', 'Q313753.xml', 'Q866730.xml', 'Q196776.xml', 'Q329020.xml', 'Q766172.xml', 'Q778468.xml', 'Q552131.xml', 'Q305817.xml', 'Q47953.xml', 'Q653336.xml', 'Q441400.xml', 'Q1024323.xml', 'Q416436.xml', 'Q822161.xml', 'Q903885.xml', 'Q1316357.xml', 'Q796198.xml', 'Q880570.xml', 'Q1159992.xml', 'Q1457045.xml', 'Q1321062.xml', 'Q1297466.xml', 'Q686378.xml', 'Q599996.xml']
+not in a list
+FILE NAME : Q204427.xml
+search loop:   Failed to get separate instances of a class under modpython
+query_expanded:  fail neglect go_wrong get acquire become offprint reprint separate case instance example class category family 
+list of docs ['Q1305632.xml', 'Q401118.xml', 'Q797771.xml', 'Q646427.xml', 'Q1365729.xml', 'Q651358.xml', 'Q1409192.xml', 'Q1161618.xml', 'Q259634.xml', 'Q1367130.xml', 'Q871300.xml', 'Q723293.xml', 'Q1221878.xml', 'Q1204452.xml', 'Q590217.xml', 'Q784149.xml', 'Q195853.xml', 'Q1448276.xml', 'Q1296938.xml', 'Q1048592.xml', 'Q347109.xml', 'Q196522.xml', 'Q1262063.xml', 'Q655856.xml', 'Q796466.xml', 'Q365104.xml', 'Q1116018.xml', 'Q1233709.xml', 'Q1145186.xml', 'Q1444222.xml', 'Q347574.xml', 'Q881388.xml', 'Q558848.xml', 'Q714707.xml', 'Q1358143.xml', 'Q327807.xml', 'Q601152.xml', 'Q853316.xml', 'Q951380.xml', 'Q419145.xml', 'Q1086014.xml', 'Q415407.xml', 'Q1292081.xml', 'Q1404305.xml', 'Q1463153.xml', 'Q1256213.xml', 'Q962573.xml', 'Q820671.xml', 'Q1336476.xml', 'Q853184.xml']
+not in a list
+FILE NAME : Q1124667.xml
+search loop:   What is the best practice in deploying application on Windows
+query_expanded:  best topper Best practice pattern exercise deploy application practical_application coating Windows window windowpane 
+list of docs ['Q531684.xml', 'Q480866.xml', 'Q261829.xml', 'Q371018.xml', 'Q585165.xml', 'Q455904.xml', 'Q588749.xml', 'Q927043.xml', 'Q74696.xml', 'Q1121725.xml', 'Q646955.xml', 'Q336013.xml', 'Q1367953.xml', 'Q769175.xml', 'Q1208963.xml', 'Q363160.xml', 'Q268260.xml', 'Q1433826.xml', 'Q361312.xml', 'Q1380784.xml', 'Q916259.xml', 'Q785503.xml', 'Q164460.xml', 'Q167427.xml', 'Q785598.xml', 'Q153685.xml', 'Q423345.xml', 'Q1432480.xml', 'Q1152552.xml', 'Q478875.xml', 'Q546944.xml', 'Q705459.xml', 'Q622339.xml', 'Q968177.xml', 'Q1129678.xml', 'Q941809.xml', 'Q657141.xml', 'Q1326811.xml', 'Q1135625.xml', 'Q417159.xml', 'Q954834.xml', 'Q1424169.xml', 'Q966933.xml', 'Q1394912.xml', 'Q1414187.xml', 'Q978739.xml', 'Q117792.xml', 'Q525926.xml', 'Q1426469.xml', 'Q1173208.xml']
+not in a list
+FILE NAME : Q890170.xml
+search loop:   How do I detect when my window is minimized with wxPython
+query_expanded:  detect observe find window windowpane minimize minimise understate 
+list of docs ['Q840894.xml', 'Q1006147.xml', 'Q1453392.xml', 'Q890170.xml', 'Q1389167.xml', 'Q758256.xml', 'Q268260.xml', 'Q1080876.xml', 'Q304621.xml', 'Q259562.xml', 'Q615551.xml', 'Q523363.xml', 'Q883498.xml', 'Q456707.xml', 'Q1271122.xml', 'Q111155.xml', 'Q217157.xml', 'Q479332.xml', 'Q916259.xml', 'Q1408529.xml', 'Q502282.xml', 'Q207021.xml', 'Q578293.xml', 'Q769175.xml', 'Q290139.xml', 'Q883536.xml', 'Q176179.xml', 'Q785598.xml', 'Q722098.xml', 'Q365058.xml', 'Q1173642.xml', 'Q625714.xml', 'Q446218.xml', 'Q1090406.xml', 'Q927043.xml', 'Q790898.xml', 'Q851321.xml', 'Q1112827.xml', 'Q363160.xml', 'Q908793.xml', 'Q1269763.xml', 'Q505151.xml', 'Q213256.xml', 'Q633999.xml', 'Q633086.xml', 'Q323874.xml', 'Q860428.xml', 'Q578812.xml', 'Q625504.xml', 'Q1267354.xml']
+The index of file name is: 3
+FILE NAME : Q125703.xml
+search loop:   How to modify a text file
+query_expanded:  modify qualify change text textual_matter textbook file data_file single_file 
+list of docs ['Q1419039.xml', 'Q1315831.xml', 'Q1366775.xml', 'Q1219367.xml', 'Q468383.xml', 'Q1106483.xml', 'Q201846.xml', 'Q179287.xml', 'Q261648.xml', 'Q221185.xml', 'Q613423.xml', 'Q223021.xml', 'Q410516.xml', 'Q1236161.xml', 'Q232472.xml', 'Q725364.xml', 'Q1351051.xml', 'Q1311513.xml', 'Q1332632.xml', 'Q1371786.xml', 'Q327985.xml', 'Q1306604.xml', 'Q357600.xml', 'Q1350528.xml', 'Q1029334.xml', 'Q848537.xml', 'Q1160824.xml', 'Q491994.xml', 'Q1228299.xml', 'Q887557.xml', 'Q1289482.xml', 'Q555038.xml', 'Q768634.xml', 'Q300144.xml', 'Q872181.xml', 'Q1082801.xml', 'Q1045232.xml', 'Q1387095.xml', 'Q793759.xml', 'Q1110458.xml', 'Q1050773.xml', 'Q1301735.xml', 'Q110923.xml', 'Q439323.xml', 'Q1068663.xml', 'Q173246.xml', 'Q779338.xml', 'Q937805.xml', 'Q1070882.xml', 'Q764312.xml']
+not in a list
+FILE NAME : Q1109498.xml
+search loop:   Whats a good way to render outlined fonts
+query_expanded:  good goodness commodity manner mode style render supply provide sketch outline adumbrate font fount typeface 
+list of docs ['Q1072734.xml', 'Q1069735.xml', 'Q1109498.xml', 'Q1452237.xml', 'Q895596.xml', 'Q538661.xml', 'Q491487.xml', 'Q1150289.xml', 'Q734259.xml', 'Q1021721.xml', 'Q932092.xml', 'Q799479.xml', 'Q1003376.xml', 'Q1072639.xml', 'Q424031.xml', 'Q544079.xml', 'Q560936.xml', 'Q619618.xml', 'Q1126730.xml', 'Q1403251.xml', 'Q465144.xml', 'Q13607.xml', 'Q658939.xml', 'Q1389928.xml', 'Q422555.xml', 'Q1192405.xml', 'Q1286363.xml', 'Q994538.xml', 'Q1433278.xml', 'Q810173.xml', 'Q781382.xml', 'Q1269326.xml', 'Q1158133.xml', 'Q875543.xml', 'Q1215661.xml', 'Q1367130.xml', 'Q866272.xml', 'Q1231163.xml', 'Q108134.xml', 'Q1469635.xml', 'Q888406.xml', 'Q1253928.xml', 'Q835038.xml', 'Q1347851.xml', 'Q134371.xml', 'Q1464591.xml', 'Q118659.xml', 'Q850799.xml', 'Q166356.xml', 'Q58622.xml']
+The index of file name is: 2
+FILE NAME : Q42446.xml
+search loop:   How do I convert an IntPtr to a Stream
+query_expanded:  convert change_over change stream watercourse flow 
+list of docs ['Q1243428.xml', 'Q997925.xml', 'Q784563.xml', 'Q1342480.xml', 'Q1138863.xml', 'Q851128.xml', 'Q1334134.xml', 'Q798046.xml', 'Q200090.xml', 'Q935290.xml', 'Q1211872.xml', 'Q1331292.xml', 'Q112564.xml', 'Q761824.xml', 'Q575070.xml', 'Q686378.xml', 'Q266665.xml', 'Q738929.xml', 'Q512941.xml', 'Q791743.xml', 'Q344031.xml', 'Q786951.xml', 'Q1313246.xml', 'Q51502.xml', 'Q640721.xml', 'Q653491.xml', 'Q670465.xml', 'Q1178747.xml', 'Q994538.xml', 'Q944925.xml', 'Q1090884.xml', 'Q1197858.xml', 'Q819268.xml', 'Q1075866.xml', 'Q1024351.xml', 'Q636695.xml', 'Q675953.xml', 'Q649962.xml', 'Q1344011.xml', 'Q1258097.xml', 'Q292740.xml', 'Q109449.xml', 'Q914351.xml', 'Q216068.xml', 'Q324867.xml', 'Q1229202.xml', 'Q189943.xml', 'Q879173.xml', 'Q161852.xml', 'Q1321137.xml']
+not in a list
+FILE NAME : Q1104064.xml
+search loop:   Run remote php script from local python script
+query_expanded:  run tally test remote_control remote distant script book playscript local local_anesthetic local_anaesthetic python Python handwriting hand 
+list of docs ['Q536370.xml', 'Q1125637.xml', 'Q1295446.xml', 'Q1332853.xml', 'Q440036.xml', 'Q1359449.xml', 'Q923691.xml', 'Q1235629.xml', 'Q1299013.xml', 'Q431205.xml', 'Q81194.xml', 'Q881639.xml', 'Q543196.xml', 'Q1301149.xml', 'Q125019.xml', 'Q893053.xml', 'Q600401.xml', 'Q331767.xml', 'Q622744.xml', 'Q1451849.xml', 'Q1141157.xml', 'Q1020839.xml', 'Q1168517.xml', 'Q1456757.xml', 'Q1104064.xml', 'Q370357.xml', 'Q1107858.xml', 'Q166506.xml', 'Q1303047.xml', 'Q455075.xml', 'Q1025817.xml', 'Q476668.xml', 'Q223356.xml', 'Q1308879.xml', 'Q68335.xml', 'Q978581.xml', 'Q423379.xml', 'Q1455722.xml', 'Q481943.xml', 'Q1366542.xml', 'Q1072028.xml', 'Q1275009.xml', 'Q1343192.xml', 'Q64426.xml', 'Q842075.xml', 'Q1419629.xml', 'Q250283.xml', 'Q216489.xml', 'Q1449396.xml', 'Q309135.xml']
+The index of file name is: 24
+FILE NAME : Q707492.xml
+search loop:   How do I paint with QPainter
+query_expanded:  paint pigment key 
+list of docs ['Q673434.xml', 'Q1277512.xml', 'Q102283.xml', 'Q577853.xml', 'Q662440.xml', 'Q99623.xml', 'Q641089.xml', 'Q1052831.xml', 'Q1256963.xml', 'Q1101028.xml', 'Q299267.xml', 'Q1106112.xml', 'Q853483.xml', 'Q473099.xml', 'Q576634.xml', 'Q715234.xml', 'Q1024847.xml', 'Q157424.xml', 'Q1028341.xml', 'Q1356705.xml', 'Q1455782.xml', 'Q1403501.xml', 'Q1464961.xml', 'Q55180.xml', 'Q1317410.xml', 'Q859511.xml', 'Q744256.xml', 'Q1301149.xml', 'Q1214422.xml', 'Q575819.xml', 'Q508627.xml', 'Q1387867.xml', 'Q649793.xml', 'Q1458450.xml', 'Q477820.xml', 'Q515801.xml', 'Q1343577.xml', 'Q497428.xml', 'Q712225.xml', 'Q852332.xml', 'Q1352483.xml', 'Q1300433.xml', 'Q1063319.xml', 'Q72899.xml', 'Q509449.xml', 'Q505024.xml', 'Q1031772.xml', 'Q1383693.xml', 'Q1419522.xml', 'Q49211.xml']
+not in a list
+FILE NAME : Q63166.xml
+search loop:   How to determine CPU and memory consumption from inside a process
+query_expanded:  determine find find_out central_processing_unit CPU C.P.U. memory remembering retention consumption ingestion intake inside interior inner procedure process cognitive_process 
+list of docs ['Q1199920.xml', 'Q621707.xml', 'Q1343289.xml', 'Q220323.xml', 'Q1058526.xml', 'Q1322307.xml', 'Q265814.xml', 'Q358398.xml', 'Q548819.xml', 'Q305203.xml', 'Q785810.xml', 'Q1106481.xml', 'Q63166.xml', 'Q1013828.xml', 'Q639162.xml', 'Q1053986.xml', 'Q850774.xml', 'Q152064.xml', 'Q1421697.xml', 'Q396455.xml', 'Q1402483.xml', 'Q231220.xml', 'Q938590.xml', 'Q416464.xml', 'Q578200.xml', 'Q912256.xml', 'Q1346207.xml', 'Q890961.xml', 'Q387654.xml', 'Q191644.xml', 'Q1292786.xml', 'Q926327.xml', 'Q550106.xml', 'Q122826.xml', 'Q1154618.xml', 'Q128217.xml', 'Q372198.xml', 'Q230584.xml', 'Q532092.xml', 'Q1261875.xml', 'Q433895.xml', 'Q1023038.xml', 'Q782329.xml', 'Q218935.xml', 'Q904966.xml', 'Q1291396.xml', 'Q781896.xml', 'Q703691.xml', 'Q630920.xml', 'Q449560.xml']
+The index of file name is: 12
+FILE NAME : Q531708.xml
+search loop:   Logging output of external program with wxpython
+query_expanded:  logging log lumber end_product output yield external extraneous outside plan program programme 
+list of docs ['Q689339.xml', 'Q1417665.xml', 'Q1136323.xml', 'Q1055917.xml', 'Q673936.xml', 'Q1311513.xml', 'Q437476.xml', 'Q899067.xml', 'Q1020279.xml', 'Q345610.xml', 'Q324386.xml', 'Q1062154.xml', 'Q641420.xml', 'Q616645.xml', 'Q1147812.xml', 'Q839636.xml', 'Q215689.xml', 'Q533048.xml', 'Q1375283.xml', 'Q686300.xml', 'Q284043.xml', 'Q1310142.xml', 'Q772709.xml', 'Q1380985.xml', 'Q879732.xml', 'Q238081.xml', 'Q1014627.xml', 'Q811438.xml', 'Q1170744.xml', 'Q240887.xml', 'Q975248.xml', 'Q1407474.xml', 'Q648138.xml', 'Q1015047.xml', 'Q342434.xml', 'Q779989.xml', 'Q1203896.xml', 'Q1442154.xml', 'Q935930.xml', 'Q439791.xml', 'Q1104347.xml', 'Q894474.xml', 'Q170353.xml', 'Q579673.xml', 'Q511768.xml', 'Q237542.xml', 'Q166198.xml', 'Q522730.xml', 'Q954950.xml', 'Q480482.xml']
+not in a list
+FILE NAME : Q889434.xml
+search loop:   Markdown Implementations for CC
+query_expanded:  execution implementation carrying_out milliliter millilitre mil 
+list of docs ['Q1137732.xml', 'Q1470530.xml', 'Q688386.xml', 'Q60570.xml', 'Q188693.xml', 'Q520031.xml', 'Q1198159.xml', 'Q190996.xml', 'Q876901.xml', 'Q1173310.xml', 'Q904966.xml', 'Q1381937.xml', 'Q389779.xml', 'Q1028609.xml', 'Q1407837.xml', 'Q880530.xml', 'Q443082.xml', 'Q1353472.xml', 'Q441824.xml', 'Q750702.xml', 'Q839994.xml', 'Q1416882.xml', 'Q907579.xml', 'Q64468.xml', 'Q925832.xml', 'Q1079008.xml', 'Q453293.xml', 'Q1381078.xml', 'Q266168.xml', 'Q755070.xml', 'Q808746.xml', 'Q150375.xml', 'Q218786.xml', 'Q728068.xml', 'Q255852.xml', 'Q741212.xml', 'Q600848.xml', 'Q446782.xml', 'Q541329.xml', 'Q658973.xml', 'Q1351217.xml', 'Q765971.xml', 'Q697026.xml', 'Q158585.xml', 'Q1005665.xml', 'Q1087799.xml', 'Q694775.xml', 'Q1001448.xml', 'Q1014045.xml', 'Q445127.xml']
+not in a list
+FILE NAME : Q938742.xml
+search loop:   Extracting YouTube Videos author using Python and YouTubeAPI
+query_expanded:  extract pull_out pull video picture video_recording writer author generator exploitation victimization victimisation python Python 
+list of docs ['Q945250.xml', 'Q938742.xml', 'Q1428613.xml', 'Q526469.xml', 'Q44778.xml', 'Q965694.xml', 'Q668240.xml', 'Q364802.xml', 'Q343257.xml', 'Q152068.xml', 'Q476968.xml', 'Q1145905.xml', 'Q1388672.xml', 'Q634502.xml', 'Q683462.xml', 'Q753190.xml', 'Q1460105.xml', 'Q571186.xml', 'Q1047200.xml', 'Q1003376.xml', 'Q220866.xml', 'Q1020053.xml', 'Q1116172.xml', 'Q77198.xml', 'Q250394.xml', 'Q1019200.xml', 'Q198465.xml', 'Q1170214.xml', 'Q302867.xml', 'Q1081519.xml', 'Q974821.xml', 'Q102535.xml', 'Q1010848.xml', 'Q1126173.xml', 'Q804992.xml', 'Q37486.xml', 'Q1446004.xml', 'Q477193.xml', 'Q653509.xml', 'Q314583.xml', 'Q590053.xml', 'Q1185959.xml', 'Q1230089.xml', 'Q639962.xml', 'Q125222.xml', 'Q961848.xml', 'Q1046873.xml', 'Q37956.xml', 'Q323032.xml', 'Q644821.xml']
+The index of file name is: 1
+FILE NAME : Q680305.xml
+search loop:   Using MultipartPostHandler to POST formdata with Python
+query_expanded:  exploitation victimization victimisation post station military_post python Python 
+list of docs ['Q818362.xml', 'Q852055.xml', 'Q884650.xml', 'Q980932.xml', 'Q464040.xml', 'Q1002064.xml', 'Q1188737.xml', 'Q530526.xml', 'Q629518.xml', 'Q948815.xml', 'Q1179213.xml', 'Q1208067.xml', 'Q167426.xml', 'Q881086.xml', 'Q1268209.xml', 'Q571083.xml', 'Q390992.xml', 'Q1319895.xml', 'Q962179.xml', 'Q87689.xml', 'Q1310443.xml', 'Q69979.xml', 'Q632577.xml', 'Q837195.xml', 'Q343622.xml', 'Q530127.xml', 'Q391237.xml', 'Q374768.xml', 'Q336866.xml', 'Q349369.xml', 'Q477794.xml', 'Q1082361.xml', 'Q547743.xml', 'Q1254270.xml', 'Q786603.xml', 'Q1042451.xml', 'Q393738.xml', 'Q1096396.xml', 'Q301924.xml', 'Q628132.xml', 'Q1308760.xml', 'Q150517.xml', 'Q1204376.xml', 'Q243375.xml', 'Q429164.xml', 'Q130587.xml', 'Q664937.xml', 'Q219110.xml', 'Q1170898.xml', 'Q574140.xml']
+not in a list
+FILE NAME : Q381324.xml
+search loop:   An operator  whose parameters are nonconst references
+query_expanded:  operator manipulator hustler parameter parametric_quantity argument mention reference citation 
+list of docs ['Q706059.xml', 'Q604078.xml', 'Q203667.xml', 'Q805403.xml', 'Q31913.xml', 'Q526469.xml', 'Q1059630.xml', 'Q540748.xml', 'Q1264405.xml', 'Q1268504.xml', 'Q370357.xml', 'Q1387206.xml', 'Q769843.xml', 'Q210939.xml', 'Q1353407.xml', 'Q759365.xml', 'Q625083.xml', 'Q1342953.xml', 'Q1448817.xml', 'Q1195675.xml', 'Q1132941.xml', 'Q39474.xml', 'Q708460.xml', 'Q308279.xml', 'Q1394229.xml', 'Q1391746.xml', 'Q1280787.xml', 'Q1336070.xml', 'Q390102.xml', 'Q1304680.xml', 'Q1463588.xml', 'Q467327.xml', 'Q524641.xml', 'Q536281.xml', 'Q752762.xml', 'Q143746.xml', 'Q604522.xml', 'Q1197566.xml', 'Q265650.xml', 'Q1159641.xml', 'Q1419046.xml', 'Q1013245.xml', 'Q969161.xml', 'Q892133.xml', 'Q357307.xml', 'Q1374457.xml', 'Q134731.xml', 'Q81062.xml', 'Q1061387.xml', 'Q478482.xml']
+not in a list
+FILE NAME : Q909508.xml
+search loop:   Programmatically fetching contacts from Yahoo Address Book
+query_expanded:  bring get convey contact physical_contact impinging yokel rube hick address computer_address reference book volume record 
+list of docs ['Q152318.xml', 'Q78184.xml', 'Q1119401.xml', 'Q1321407.xml', 'Q1009326.xml', 'Q526457.xml', 'Q717509.xml', 'Q68084.xml', 'Q993076.xml', 'Q892199.xml', 'Q1192070.xml', 'Q980113.xml', 'Q896602.xml', 'Q1028219.xml', 'Q405724.xml', 'Q56741.xml', 'Q846566.xml', 'Q630164.xml', 'Q895637.xml', 'Q1141408.xml', 'Q1463242.xml', 'Q146789.xml', 'Q1266233.xml', 'Q491199.xml', 'Q1419653.xml', 'Q96285.xml', 'Q613423.xml', 'Q1131599.xml', 'Q1257062.xml', 'Q670154.xml', 'Q859535.xml', 'Q636485.xml', 'Q1048749.xml', 'Q67174.xml', 'Q263690.xml', 'Q230310.xml', 'Q344826.xml', 'Q1279471.xml', 'Q399304.xml', 'Q1059831.xml', 'Q924485.xml', 'Q131589.xml', 'Q554847.xml', 'Q916259.xml', 'Q135112.xml', 'Q673114.xml', 'Q204983.xml', 'Q176213.xml', 'Q1309370.xml', 'Q457896.xml']
+not in a list
+FILE NAME : Q430424.xml
+search loop:   Are there any macros to determine if my code is being compiled to Windows
+query_expanded:  macro macro_instruction determine find find_out code codification computer_code roll_up collect accumulate Windows window windowpane 
+list of docs ['Q495452.xml', 'Q1442436.xml', 'Q30521.xml', 'Q865851.xml', 'Q712020.xml', 'Q912526.xml', 'Q1333527.xml', 'Q586799.xml', 'Q200550.xml', 'Q615551.xml', 'Q464788.xml', 'Q479332.xml', 'Q617248.xml', 'Q1128937.xml', 'Q562313.xml', 'Q795297.xml', 'Q430424.xml', 'Q927043.xml', 'Q283431.xml', 'Q431470.xml', 'Q1326118.xml', 'Q792816.xml', 'Q1439752.xml', 'Q1384946.xml', 'Q661907.xml', 'Q1394912.xml', 'Q339971.xml', 'Q933020.xml', 'Q1291226.xml', 'Q1030608.xml', 'Q913738.xml', 'Q652813.xml', 'Q1201179.xml', 'Q673554.xml', 'Q587703.xml', 'Q445382.xml', 'Q521518.xml', 'Q24931.xml', 'Q478875.xml', 'Q1287728.xml', 'Q1432336.xml', 'Q75180.xml', 'Q136734.xml', 'Q566746.xml', 'Q1149620.xml', 'Q1398855.xml', 'Q181975.xml', 'Q713309.xml', 'Q1327691.xml', 'Q1406995.xml']
+The index of file name is: 16
+FILE NAME : Q1314174.xml
+search loop:   Is there any way to get vim to auto wrap python strings at 79 chars
+query_expanded:  manner mode style get acquire become energy vim vitality car auto automobile wrap wrapper wrapping python Python string_section strings string seventy-nine 79 ilxxx char charwoman cleaning_woman 
+list of docs ['Q1288474.xml', 'Q493174.xml', 'Q88942.xml', 'Q289735.xml', 'Q1024435.xml', 'Q1164309.xml', 'Q157018.xml', 'Q1432419.xml', 'Q143714.xml', 'Q1405205.xml', 'Q409449.xml', 'Q399956.xml', 'Q1170508.xml', 'Q869975.xml', 'Q583048.xml', 'Q675442.xml', 'Q905005.xml', 'Q362231.xml', 'Q1315041.xml', 'Q199180.xml', 'Q650162.xml', 'Q138680.xml', 'Q768634.xml', 'Q759577.xml', 'Q1055756.xml', 'Q175044.xml', 'Q662918.xml', 'Q1420685.xml', 'Q144201.xml', 'Q1064644.xml', 'Q501585.xml', 'Q542006.xml', 'Q1357374.xml', 'Q357785.xml', 'Q109317.xml', 'Q890793.xml', 'Q1286614.xml', 'Q1279244.xml', 'Q1250295.xml', 'Q166630.xml', 'Q704130.xml', 'Q801385.xml', 'Q312570.xml', 'Q1474719.xml', 'Q419145.xml', 'Q120926.xml', 'Q237804.xml', 'Q1367130.xml', 'Q241327.xml', 'Q445595.xml']
+not in a list
+FILE NAME : Q1199018.xml
+search loop:   Is it possible to make both a managed and unmanaged versions of the same C assembly
+query_expanded:  possible potential brand make shuffle pull_off negociate bring_off version variant variation degree_centigrade degree_Celsius C assembly fabrication forum 
+list of docs ['Q976882.xml', 'Q1017510.xml', 'Q635660.xml', 'Q1352959.xml', 'Q756223.xml', 'Q72769.xml', 'Q1415608.xml', 'Q1153690.xml', 'Q922256.xml', 'Q209198.xml', 'Q190135.xml', 'Q1086241.xml', 'Q798854.xml', 'Q501445.xml', 'Q1399252.xml', 'Q713887.xml', 'Q72931.xml', 'Q1185775.xml', 'Q1371494.xml', 'Q1473520.xml', 'Q734158.xml', 'Q38842.xml', 'Q693880.xml', 'Q473973.xml', 'Q661338.xml', 'Q516395.xml', 'Q695505.xml', 'Q994429.xml', 'Q685869.xml', 'Q680721.xml', 'Q1426093.xml', 'Q339649.xml', 'Q335096.xml', 'Q1080393.xml', 'Q787375.xml', 'Q1022141.xml', 'Q843843.xml', 'Q1364603.xml', 'Q1194842.xml', 'Q1171279.xml', 'Q1394133.xml', 'Q1150748.xml', 'Q208959.xml', 'Q1319234.xml', 'Q197461.xml', 'Q788102.xml', 'Q790860.xml', 'Q212559.xml', 'Q1134388.xml', 'Q961237.xml']
+not in a list
+FILE NAME : Q676159.xml
+search loop:   Create static graphics files png gif jpg using Ruby or Python
+query_expanded:  make create produce static atmospherics atmospheric_static artwork art graphics file data_file single_file exploitation victimization victimisation ruby crimson deep_red python Python 
+list of docs ['Q1017898.xml', 'Q957838.xml', 'Q409949.xml', 'Q890081.xml', 'Q61109.xml', 'Q84340.xml', 'Q1382252.xml', 'Q1419039.xml', 'Q1380852.xml', 'Q685713.xml', 'Q1113611.xml', 'Q676159.xml', 'Q405165.xml', 'Q590921.xml', 'Q511412.xml', 'Q486995.xml', 'Q1149581.xml', 'Q406907.xml', 'Q956104.xml', 'Q493819.xml', 'Q304779.xml', 'Q75798.xml', 'Q1044667.xml', 'Q466897.xml', 'Q880917.xml', 'Q301493.xml', 'Q1353211.xml', 'Q196776.xml', 'Q328061.xml', 'Q1099305.xml', 'Q257730.xml', 'Q582449.xml', 'Q1216591.xml', 'Q144661.xml', 'Q1281879.xml', 'Q4942.xml', 'Q13454.xml', 'Q1027179.xml', 'Q717506.xml', 'Q873790.xml', 'Q206823.xml', 'Q296624.xml', 'Q1183420.xml', 'Q1204450.xml', 'Q446685.xml', 'Q615100.xml', 'Q577824.xml', 'Q894502.xml', 'Q987758.xml', 'Q959168.xml']
+The index of file name is: 11
+FILE NAME : Q230584.xml
+search loop:   Where are variables in C stored
+query_expanded:  variable variable_quantity variable_star degree_centigrade degree_Celsius C store hive_away lay_in 
+list of docs ['Q991144.xml', 'Q495540.xml', 'Q1189649.xml', 'Q874408.xml', 'Q536267.xml', 'Q1436271.xml', 'Q1362063.xml', 'Q1382628.xml', 'Q1290798.xml', 'Q1454437.xml', 'Q1302628.xml', 'Q230584.xml', 'Q823283.xml', 'Q772281.xml', 'Q173681.xml', 'Q1266233.xml', 'Q382166.xml', 'Q599308.xml', 'Q655065.xml', 'Q1344684.xml', 'Q957087.xml', 'Q236669.xml', 'Q640784.xml', 'Q798413.xml', 'Q1014550.xml', 'Q304011.xml', 'Q563840.xml', 'Q1137116.xml', 'Q1449299.xml', 'Q1258690.xml', 'Q620604.xml', 'Q1213334.xml', 'Q731403.xml', 'Q1326468.xml', 'Q1471031.xml', 'Q93039.xml', 'Q1059674.xml', 'Q332705.xml', 'Q1029743.xml', 'Q722739.xml', 'Q1419963.xml', 'Q1046717.xml', 'Q1224978.xml', 'Q1025579.xml', 'Q680097.xml', 'Q323515.xml', 'Q913505.xml', 'Q368963.xml', 'Q1424454.xml', 'Q59648.xml']
+The index of file name is: 11
+FILE NAME : Q369305.xml
+search loop:   Is there anyone who has managed to compile modwsgi for apache on Mac OS X Leopard
+query_expanded:  pull_off negociate bring_off roll_up collect accumulate Apache apache macintosh mackintosh mac os osmium Os ten 10 X leopard Panthera_pardus 
+list of docs ['Q907529.xml', 'Q253768.xml', 'Q1381739.xml', 'Q680561.xml', 'Q708285.xml', 'Q693952.xml', 'Q170278.xml', 'Q327251.xml', 'Q1854.xml', 'Q145621.xml', 'Q160245.xml', 'Q446209.xml', 'Q1072281.xml', 'Q550474.xml', 'Q584575.xml', 'Q814041.xml', 'Q634404.xml', 'Q1052844.xml', 'Q54795.xml', 'Q803613.xml', 'Q863240.xml', 'Q1270285.xml', 'Q284103.xml', 'Q947829.xml', 'Q12319.xml', 'Q91616.xml', 'Q373020.xml', 'Q617202.xml', 'Q98586.xml', 'Q903242.xml', 'Q276281.xml', 'Q1052957.xml', 'Q1340577.xml', 'Q135112.xml', 'Q651717.xml', 'Q343488.xml', 'Q167439.xml', 'Q452018.xml', 'Q1392604.xml', 'Q1081536.xml', 'Q302867.xml', 'Q1447961.xml', 'Q593815.xml', 'Q1299013.xml', 'Q823553.xml', 'Q566040.xml', 'Q523885.xml', 'Q1378127.xml', 'Q790915.xml', 'Q140758.xml']
+not in a list
+FILE NAME : Q1350114.xml
+search loop:   Can Selenium RC tests written in Python be integrated into PHPUnit
+query_expanded:  selenium Se atomic_number_34 trial trial_run test write compose pen python Python integrate incorporate desegregate 
+list of docs ['Q1107858.xml', 'Q816704.xml', 'Q464543.xml', 'Q60152.xml', 'Q1350114.xml', 'Q1007391.xml', 'Q1418082.xml', 'Q688740.xml', 'Q410823.xml', 'Q535.xml', 'Q522229.xml', 'Q980058.xml', 'Q1344026.xml', 'Q1446317.xml', 'Q1292817.xml', 'Q476668.xml', 'Q1355244.xml', 'Q206855.xml', 'Q1225686.xml', 'Q999452.xml', 'Q1212108.xml', 'Q641089.xml', 'Q230751.xml', 'Q272188.xml', 'Q750984.xml', 'Q1303243.xml', 'Q180528.xml', 'Q752482.xml', 'Q786603.xml', 'Q1066971.xml', 'Q1168914.xml', 'Q896193.xml', 'Q1119696.xml', 'Q1256213.xml', 'Q275989.xml', 'Q538346.xml', 'Q1036660.xml', 'Q4942.xml', 'Q940982.xml', 'Q1157134.xml', 'Q118516.xml', 'Q240996.xml', 'Q1164810.xml', 'Q604622.xml', 'Q383944.xml', 'Q107591.xml', 'Q693459.xml', 'Q1197172.xml', 'Q1153577.xml', 'Q1015581.xml']
+The index of file name is: 4
+FILE NAME : Q1052589.xml
+search loop:   How can I parse the output of ocnetdev into keyvalue pairs per interface using Python
+query_expanded:  parse end_product output yield pair brace couple interface user_interface port exploitation victimization victimisation python Python 
+list of docs ['Q864124.xml', 'Q191644.xml', 'Q695505.xml', 'Q1462878.xml', 'Q192907.xml', 'Q182053.xml', 'Q1205383.xml', 'Q370075.xml', 'Q1467898.xml', 'Q1297609.xml', 'Q831679.xml', 'Q336866.xml', 'Q1121002.xml', 'Q369664.xml', 'Q502.xml', 'Q978841.xml', 'Q675237.xml', 'Q664444.xml', 'Q868173.xml', 'Q994732.xml', 'Q983855.xml', 'Q88613.xml', 'Q839468.xml', 'Q1283856.xml', 'Q1389278.xml', 'Q1270518.xml', 'Q237209.xml', 'Q1475415.xml', 'Q1434276.xml', 'Q1430517.xml', 'Q1277278.xml', 'Q1049070.xml', 'Q608951.xml', 'Q715417.xml', 'Q604622.xml', 'Q231767.xml', 'Q577779.xml', 'Q1464728.xml', 'Q247818.xml', 'Q181693.xml', 'Q20063.xml', 'Q874461.xml', 'Q187567.xml', 'Q106850.xml', 'Q1451304.xml', 'Q961848.xml', 'Q1321735.xml', 'Q362426.xml', 'Q1133371.xml', 'Q441864.xml']
+not in a list
+FILE NAME : Q241955.xml
+search loop:   Checking lists and running handlers
+query_expanded:  check check_up_on look_into list listing tilt run running running_play animal_trainer handler coach 
+list of docs ['Q715950.xml', 'Q1098218.xml', 'Q584865.xml', 'Q355958.xml', 'Q1415326.xml', 'Q1008858.xml', 'Q45500.xml', 'Q1359383.xml', 'Q174853.xml', 'Q973520.xml', 'Q375620.xml', 'Q658016.xml', 'Q1123796.xml', 'Q466377.xml', 'Q132058.xml', 'Q731208.xml', 'Q1213706.xml', 'Q235422.xml', 'Q843182.xml', 'Q1223927.xml', 'Q1203765.xml', 'Q700073.xml', 'Q520362.xml', 'Q794813.xml', 'Q529034.xml', 'Q171213.xml', 'Q1387222.xml', 'Q430424.xml', 'Q570433.xml', 'Q728773.xml', 'Q1364173.xml', 'Q1115428.xml', 'Q1025817.xml', 'Q208085.xml', 'Q1145741.xml', 'Q803613.xml', 'Q968701.xml', 'Q277965.xml', 'Q209198.xml', 'Q1213229.xml', 'Q1006556.xml', 'Q392142.xml', 'Q378380.xml', 'Q1107826.xml', 'Q1454455.xml', 'Q694733.xml', 'Q1051652.xml', 'Q19030.xml', 'Q1088336.xml', 'Q112831.xml']
+not in a list
+FILE NAME : Q634964.xml
+search loop:   svg diagrams using python
+query_expanded:  diagram plot exploitation victimization victimisation python Python 
+list of docs ['Q1450874.xml', 'Q1190854.xml', 'Q260165.xml', 'Q1303118.xml', 'Q749937.xml', 'Q456753.xml', 'Q1102134.xml', 'Q798389.xml', 'Q527919.xml', 'Q960432.xml', 'Q521809.xml', 'Q701429.xml', 'Q1242270.xml', 'Q304285.xml', 'Q238764.xml', 'Q1329994.xml', 'Q783217.xml', 'Q591839.xml', 'Q634964.xml', 'Q473324.xml', 'Q52652.xml', 'Q181543.xml', 'Q1379607.xml', 'Q1106860.xml', 'Q1356510.xml', 'Q1263677.xml', 'Q1181391.xml', 'Q267507.xml', 'Q1251438.xml', 'Q557069.xml', 'Q1397572.xml', 'Q405953.xml', 'Q100298.xml', 'Q704738.xml', 'Q1083905.xml', 'Q90798.xml', 'Q1289681.xml', 'Q805356.xml', 'Q1466000.xml', 'Q1271513.xml', 'Q429125.xml', 'Q364015.xml', 'Q845966.xml', 'Q1168701.xml', 'Q1289193.xml', 'Q361945.xml', 'Q61151.xml', 'Q1259272.xml', 'Q82415.xml', 'Q1123725.xml']
+The index of file name is: 18
+FILE NAME : Q1041.xml
+search loop:   EasytoUse Regular Expression Support in C
+query_expanded:  regular habitue fixture expression look aspect support reinforcement reenforcement degree_centigrade degree_Celsius C 
+list of docs ['Q1417809.xml', 'Q367819.xml', 'Q1457842.xml', 'Q1386420.xml', 'Q258767.xml', 'Q290099.xml', 'Q1270657.xml', 'Q1037388.xml', 'Q927279.xml', 'Q346840.xml', 'Q91384.xml', 'Q87610.xml', 'Q1025134.xml', 'Q1142702.xml', 'Q833626.xml', 'Q650461.xml', 'Q181724.xml', 'Q672392.xml', 'Q1257115.xml', 'Q841159.xml', 'Q779580.xml', 'Q387272.xml', 'Q1407354.xml', 'Q1013050.xml', 'Q1043528.xml', 'Q1242947.xml', 'Q637773.xml', 'Q524548.xml', 'Q941571.xml', 'Q242926.xml', 'Q614205.xml', 'Q645892.xml', 'Q65266.xml', 'Q677962.xml', 'Q260056.xml', 'Q964459.xml', 'Q1323455.xml', 'Q138552.xml', 'Q54047.xml', 'Q792679.xml', 'Q497654.xml', 'Q473662.xml', 'Q329517.xml', 'Q695501.xml', 'Q739651.xml', 'Q1259719.xml', 'Q419775.xml', 'Q549894.xml', 'Q1016197.xml', 'Q360600.xml']
+not in a list
+FILE NAME : Q924485.xml
+search loop:   Whats the difference between a header file and a library
+query_expanded:  difference deviation divergence heading header head file data_file single_file library depository_library program_library 
+list of docs ['Q494919.xml', 'Q534861.xml', 'Q1229786.xml', 'Q1174984.xml', 'Q953701.xml', 'Q163432.xml', 'Q317963.xml', 'Q173246.xml', 'Q1419039.xml', 'Q1199350.xml', 'Q625353.xml', 'Q1186031.xml', 'Q56229.xml', 'Q1147337.xml', 'Q1417715.xml', 'Q1219367.xml', 'Q875479.xml', 'Q563384.xml', 'Q1366775.xml', 'Q1058897.xml', 'Q924485.xml', 'Q654751.xml', 'Q301586.xml', 'Q189921.xml', 'Q763837.xml', 'Q1415913.xml', 'Q476324.xml', 'Q214230.xml', 'Q92546.xml', 'Q1014538.xml', 'Q1367316.xml', 'Q1178743.xml', 'Q172587.xml', 'Q1127460.xml', 'Q813898.xml', 'Q888718.xml', 'Q1081040.xml', 'Q645165.xml', 'Q843392.xml', 'Q1083959.xml', 'Q71959.xml', 'Q806348.xml', 'Q107405.xml', 'Q1245905.xml', 'Q127606.xml', 'Q791108.xml', 'Q1451694.xml', 'Q784379.xml', 'Q172262.xml', 'Q1108447.xml']
+The index of file name is: 20
+FILE NAME : Q623384.xml
+search loop:   How can I insert RTF into a wxpython RichTextCtrl
+query_expanded:  insert inset cut-in 
+list of docs ['Q639496.xml', 'Q1280586.xml', 'Q364017.xml', 'Q1308038.xml', 'Q677962.xml', 'Q1472019.xml', 'Q1159524.xml', 'Q930693.xml', 'Q998314.xml', 'Q1196000.xml', 'Q259297.xml', 'Q404547.xml', 'Q777996.xml', 'Q1336426.xml', 'Q827502.xml', 'Q1313626.xml', 'Q394978.xml', 'Q467878.xml', 'Q933941.xml', 'Q1302057.xml', 'Q1270990.xml', 'Q365395.xml', 'Q875476.xml', 'Q250357.xml', 'Q401213.xml', 'Q476324.xml', 'Q117514.xml', 'Q793679.xml', 'Q1189541.xml', 'Q699054.xml', 'Q97050.xml', 'Q207496.xml', 'Q934602.xml', 'Q1109050.xml', 'Q1201522.xml', 'Q906509.xml', 'Q1417298.xml', 'Q257563.xml', 'Q706755.xml', 'Q1294385.xml', 'Q1438430.xml', 'Q1136106.xml', 'Q1202902.xml', 'Q317368.xml', 'Q279601.xml', 'Q902408.xml', 'Q61151.xml', 'Q1271502.xml', 'Q317719.xml', 'Q352837.xml']
+not in a list
+FILE NAME : Q1332376.xml
+search loop:   Using UTM with geodjango
+query_expanded:  exploitation victimization victimisation 
+list of docs []
+not in a list
+FILE NAME : Q404547.xml
+search loop:   C Inserting 2D array Object into another
+query_expanded:  degree_centigrade degree_Celsius C insert infix enter second 2nd 2d array raiment regalia object physical_object aim another some_other 
+list of docs ['Q394844.xml', 'Q113424.xml', 'Q394763.xml', 'Q402432.xml', 'Q404547.xml', 'Q856948.xml', 'Q834865.xml', 'Q818534.xml', 'Q1202883.xml', 'Q1409454.xml', 'Q1315263.xml', 'Q877479.xml', 'Q960963.xml', 'Q936687.xml', 'Q1412751.xml', 'Q152745.xml', 'Q388258.xml', 'Q1371608.xml', 'Q1411101.xml', 'Q471432.xml', 'Q929274.xml', 'Q252703.xml', 'Q1293933.xml', 'Q980000.xml', 'Q236172.xml', 'Q983244.xml', 'Q621670.xml', 'Q154245.xml', 'Q1338921.xml', 'Q1107990.xml', 'Q491304.xml', 'Q1080652.xml', 'Q509211.xml', 'Q212358.xml', 'Q1358501.xml', 'Q1286950.xml', 'Q237128.xml', 'Q189087.xml', 'Q572685.xml', 'Q823562.xml', 'Q1043402.xml', 'Q697343.xml', 'Q405617.xml', 'Q365782.xml', 'Q357481.xml', 'Q71108.xml', 'Q596886.xml', 'Q1183477.xml', 'Q374399.xml', 'Q1059330.xml']
+The index of file name is: 4
+FILE NAME : Q992320.xml
+search loop:   Can operators be used as functions C
+query_expanded:  operator manipulator hustler use utilize utilise function mathematical_function single-valued_function degree_centigrade degree_Celsius C 
+list of docs ['Q344101.xml', 'Q894389.xml', 'Q456786.xml', 'Q370357.xml', 'Q962962.xml', 'Q156278.xml', 'Q357307.xml', 'Q712737.xml', 'Q142240.xml', 'Q1265599.xml', 'Q813943.xml', 'Q632730.xml', 'Q762852.xml', 'Q310276.xml', 'Q1134050.xml', 'Q1305502.xml', 'Q1409701.xml', 'Q575650.xml', 'Q747959.xml', 'Q1332632.xml', 'Q1213448.xml', 'Q908550.xml', 'Q590007.xml', 'Q1288996.xml', 'Q62918.xml', 'Q1274869.xml', 'Q254985.xml', 'Q588859.xml', 'Q1290752.xml', 'Q1193272.xml', 'Q439573.xml', 'Q1159641.xml', 'Q308390.xml', 'Q456926.xml', 'Q355690.xml', 'Q411422.xml', 'Q1231461.xml', 'Q793501.xml', 'Q1223616.xml', 'Q1301056.xml', 'Q249009.xml', 'Q48496.xml', 'Q1163236.xml', 'Q35762.xml', 'Q1276760.xml', 'Q530741.xml', 'Q1424511.xml', 'Q879218.xml', 'Q1390371.xml', 'Q367053.xml']
+not in a list
+FILE NAME : Q1355918.xml
+search loop:   Creating GUI with Python in Linux
+query_expanded:  make create produce graphical_user_interface GUI python Python Linux 
+list of docs ['Q1355918.xml', 'Q2933.xml', 'Q93930.xml', 'Q957838.xml', 'Q493819.xml', 'Q692566.xml', 'Q764631.xml', 'Q13454.xml', 'Q665566.xml', 'Q960049.xml', 'Q1450892.xml', 'Q425343.xml', 'Q716524.xml', 'Q360602.xml', 'Q304883.xml', 'Q707491.xml', 'Q1430497.xml', 'Q29562.xml', 'Q285132.xml', 'Q205062.xml', 'Q449168.xml', 'Q813571.xml', 'Q1029435.xml', 'Q364327.xml', 'Q164137.xml', 'Q520015.xml', 'Q450285.xml', 'Q465814.xml', 'Q1037673.xml', 'Q1210700.xml', 'Q248730.xml', 'Q758023.xml', 'Q153956.xml', 'Q35762.xml', 'Q49146.xml', 'Q636990.xml', 'Q118260.xml', 'Q1459087.xml', 'Q402598.xml', 'Q1434144.xml', 'Q1402933.xml', 'Q525609.xml', 'Q1284196.xml', 'Q1283202.xml', 'Q460426.xml', 'Q111155.xml', 'Q965694.xml', 'Q672770.xml', 'Q1424398.xml', 'Q211830.xml']
+The index of file name is: 0
+FILE NAME : Q1147053.xml
+search loop:   How to check whether the tlb file is registered in registry using C
+query_expanded:  check bank_check cheque file data_file single_file register record read registry exploitation victimization victimisation degree_centigrade degree_Celsius C 
+list of docs ['Q1096700.xml', 'Q1163404.xml', 'Q468388.xml', 'Q618581.xml', 'Q481862.xml', 'Q969974.xml', 'Q993076.xml', 'Q737061.xml', 'Q1067986.xml', 'Q557466.xml', 'Q1037532.xml', 'Q785598.xml', 'Q910619.xml', 'Q992760.xml', 'Q940407.xml', 'Q184253.xml', 'Q197999.xml', 'Q465345.xml', 'Q1271337.xml', 'Q1419039.xml', 'Q1309187.xml', 'Q186004.xml', 'Q230584.xml', 'Q1259261.xml', 'Q415879.xml', 'Q173930.xml', 'Q56741.xml', 'Q1219367.xml', 'Q846899.xml', 'Q1343577.xml', 'Q247093.xml', 'Q786566.xml', 'Q1254013.xml', 'Q466801.xml', 'Q859535.xml', 'Q1404638.xml', 'Q583122.xml', 'Q1159524.xml', 'Q1290752.xml', 'Q641420.xml', 'Q712691.xml', 'Q1197148.xml', 'Q1204920.xml', 'Q1299018.xml', 'Q136175.xml', 'Q363453.xml', 'Q613282.xml', 'Q381131.xml', 'Q1257115.xml', 'Q704130.xml']
+not in a list
+FILE NAME : Q1140672.xml
+search loop:   xml.parsers.expat.ExpatError on parsing XML
+query_expanded:  parse 
+list of docs ['Q192907.xml', 'Q994732.xml', 'Q1436549.xml', 'Q160889.xml', 'Q1049070.xml', 'Q330383.xml', 'Q768853.xml', 'Q187567.xml', 'Q695505.xml', 'Q664444.xml', 'Q1145273.xml', 'Q1255937.xml', 'Q341520.xml', 'Q88613.xml', 'Q52506.xml', 'Q823553.xml', 'Q1258199.xml', 'Q20063.xml', 'Q992717.xml', 'Q237209.xml', 'Q262201.xml', 'Q978841.xml', 'Q170988.xml', 'Q1265308.xml', 'Q1286842.xml', 'Q677219.xml', 'Q989276.xml', 'Q1225586.xml', 'Q1259982.xml', 'Q38037.xml', 'Q895637.xml', 'Q418497.xml', 'Q726664.xml', 'Q362426.xml', 'Q1364733.xml', 'Q1312922.xml', 'Q1143260.xml', 'Q1447575.xml', 'Q952648.xml', 'Q263339.xml', 'Q330334.xml', 'Q698223.xml', 'Q960122.xml', 'Q365155.xml', 'Q1284196.xml', 'Q324214.xml', 'Q1050773.xml', 'Q416345.xml', 'Q1418255.xml', 'Q1058986.xml']
+not in a list
+FILE NAME : Q1195911.xml
+search loop:   How to manage many to one relationship in Django
+query_expanded:  pull_off negociate bring_off many one 1 I relationship human_relationship kinship 
+list of docs ['Q1297404.xml', 'Q472575.xml', 'Q361443.xml', 'Q441114.xml', 'Q1226290.xml', 'Q570137.xml', 'Q888550.xml', 'Q1039462.xml', 'Q1091756.xml', 'Q344826.xml', 'Q1063775.xml', 'Q896290.xml', 'Q623054.xml', 'Q739490.xml', 'Q1154494.xml', 'Q613361.xml', 'Q1125653.xml', 'Q976015.xml', 'Q1257727.xml', 'Q431866.xml', 'Q396455.xml', 'Q1391227.xml', 'Q510441.xml', 'Q1386142.xml', 'Q294712.xml', 'Q416406.xml', 'Q730207.xml', 'Q1088678.xml', 'Q1322793.xml', 'Q1396820.xml', 'Q1225550.xml', 'Q1173310.xml', 'Q1157689.xml', 'Q519296.xml', 'Q643173.xml', 'Q1150399.xml', 'Q1374457.xml', 'Q437166.xml', 'Q1473977.xml', 'Q677172.xml', 'Q1174075.xml', 'Q259634.xml', 'Q1283266.xml', 'Q243383.xml', 'Q1349734.xml', 'Q554063.xml', 'Q431841.xml', 'Q1359172.xml', 'Q1022141.xml', 'Q951387.xml']
+not in a list
+FILE NAME : Q920483.xml
+search loop:   Capturing video from a webcam in VC
+query_expanded:  capture enamour trance video picture video_recording webcam 
+list of docs ['Q225078.xml', 'Q552999.xml', 'Q775349.xml', 'Q1259192.xml', 'Q396622.xml', 'Q897300.xml', 'Q1258455.xml', 'Q892458.xml', 'Q736782.xml', 'Q851679.xml', 'Q1049777.xml', 'Q604749.xml', 'Q1145905.xml', 'Q467060.xml', 'Q1460105.xml', 'Q526469.xml', 'Q409949.xml', 'Q1421272.xml', 'Q1010848.xml', 'Q577102.xml', 'Q1144609.xml', 'Q1081716.xml', 'Q343257.xml', 'Q1428613.xml', 'Q1003376.xml', 'Q573523.xml', 'Q1354360.xml', 'Q1103863.xml', 'Q154730.xml', 'Q1229414.xml', 'Q377956.xml', 'Q220866.xml', 'Q945250.xml', 'Q717636.xml', 'Q37956.xml', 'Q287053.xml', 'Q634502.xml', 'Q917963.xml', 'Q677641.xml', 'Q167743.xml', 'Q1327172.xml', 'Q324803.xml', 'Q916259.xml', 'Q1240218.xml', 'Q974821.xml', 'Q1242005.xml', 'Q1047200.xml', 'Q1283707.xml', 'Q590053.xml', 'Q1370325.xml']
+not in a list
+FILE NAME : Q334856.xml
+search loop:   Are there benefits of passing by pointer over passing by reference in C
+query_expanded:  benefit welfare profit pass passing_play passing_game arrow pointer cursor passing loss departure mention reference citation degree_centigrade degree_Celsius C 
+list of docs ['Q739870.xml', 'Q270408.xml', 'Q326922.xml', 'Q1472019.xml', 'Q722257.xml', 'Q221346.xml', 'Q526469.xml', 'Q1238613.xml', 'Q1371710.xml', 'Q604078.xml', 'Q402992.xml', 'Q1169745.xml', 'Q984107.xml', 'Q142331.xml', 'Q805403.xml', 'Q271833.xml', 'Q673554.xml', 'Q1306823.xml', 'Q843389.xml', 'Q914567.xml', 'Q1347280.xml', 'Q1415319.xml', 'Q851190.xml', 'Q832284.xml', 'Q438059.xml', 'Q851587.xml', 'Q390400.xml', 'Q327573.xml', 'Q1229318.xml', 'Q933941.xml', 'Q1195675.xml', 'Q143788.xml', 'Q1039627.xml', 'Q1169066.xml', 'Q431944.xml', 'Q835233.xml', 'Q146271.xml', 'Q1290404.xml', 'Q267660.xml', 'Q383010.xml', 'Q472791.xml', 'Q639922.xml', 'Q387234.xml', 'Q405617.xml', 'Q650646.xml', 'Q615100.xml', 'Q305849.xml', 'Q667396.xml', 'Q1322517.xml', 'Q1222926.xml']
+not in a list
+FILE NAME : Q433965.xml
+search loop:   Protected derived class
+query_expanded:  protect protected saved deduce infer deduct class category family 
+list of docs ['Q1221878.xml', 'Q860339.xml', 'Q259634.xml', 'Q797594.xml', 'Q961246.xml', 'Q31867.xml', 'Q477829.xml', 'Q224966.xml', 'Q1305632.xml', 'Q949259.xml', 'Q853798.xml', 'Q1161618.xml', 'Q796466.xml', 'Q1268504.xml', 'Q1447141.xml', 'Q1463153.xml', 'Q621212.xml', 'Q1444222.xml', 'Q308581.xml', 'Q327807.xml', 'Q1368802.xml', 'Q697320.xml', 'Q1292081.xml', 'Q1353757.xml', 'Q992272.xml', 'Q1053456.xml', 'Q741597.xml', 'Q1256213.xml', 'Q87317.xml', 'Q199747.xml', 'Q503833.xml', 'Q590217.xml', 'Q597058.xml', 'Q853184.xml', 'Q967352.xml', 'Q1466163.xml', 'Q985543.xml', 'Q1296938.xml', 'Q1427370.xml', 'Q270745.xml', 'Q797771.xml', 'Q1129246.xml', 'Q305536.xml', 'Q1193909.xml', 'Q1053344.xml', 'Q871300.xml', 'Q285372.xml', 'Q334813.xml', 'Q956820.xml', 'Q966541.xml']
+not in a list
+FILE NAME : Q790534.xml
+search loop:   Is there a replacement for Paste.Template
+query_expanded:  replacement replacing surrogate 
+list of docs ['Q1248812.xml', 'Q860468.xml', 'Q300445.xml', 'Q1340577.xml', 'Q1059253.xml', 'Q1231899.xml', 'Q1411505.xml', 'Q741254.xml', 'Q280347.xml', 'Q200093.xml', 'Q68042.xml', 'Q1003131.xml', 'Q750178.xml', 'Q207662.xml', 'Q688760.xml', 'Q75538.xml']
+not in a list
+FILE NAME : Q491404.xml
+search loop:   Can you recommend a Python SOAP client that can accept WSAttachments
+query_expanded:  recommend urge advocate python Python soap scoop max client customer node accept take have 
+list of docs ['Q115316.xml', 'Q206154.xml', 'Q1239538.xml', 'Q276184.xml', 'Q1254802.xml', 'Q491404.xml', 'Q139212.xml', 'Q1186922.xml', 'Q231924.xml', 'Q1023187.xml', 'Q331600.xml', 'Q679302.xml', 'Q218987.xml', 'Q1188927.xml', 'Q379238.xml', 'Q894864.xml', 'Q1425912.xml', 'Q311654.xml', 'Q755575.xml', 'Q273060.xml', 'Q1241813.xml', 'Q66166.xml', 'Q807846.xml', 'Q456753.xml', 'Q122033.xml', 'Q1304106.xml', 'Q870188.xml', 'Q273002.xml', 'Q1455722.xml', 'Q274375.xml', 'Q337.xml', 'Q184049.xml', 'Q1273833.xml', 'Q64426.xml', 'Q431841.xml', 'Q1196039.xml', 'Q1303105.xml', 'Q415192.xml', 'Q1476814.xml', 'Q1021411.xml', 'Q972895.xml', 'Q382603.xml', 'Q1425048.xml', 'Q594.xml', 'Q742776.xml', 'Q1128924.xml', 'Q409354.xml', 'Q1044202.xml', 'Q743374.xml', 'Q1355555.xml']
+The index of file name is: 5
+FILE NAME : Q1160598.xml
+search loop:   How to use schemas in Django
+query_expanded:  use usage utilization schema scheme outline 
+list of docs ['Q467600.xml', 'Q1982.xml', 'Q418039.xml', 'Q1090280.xml', 'Q806830.xml', 'Q657783.xml', 'Q1199920.xml', 'Q871423.xml', 'Q294852.xml', 'Q1345240.xml', 'Q466684.xml', 'Q1109498.xml', 'Q456926.xml', 'Q1234750.xml', 'Q575172.xml', 'Q275572.xml', 'Q454456.xml', 'Q295670.xml', 'Q1220794.xml', 'Q850799.xml', 'Q301566.xml', 'Q361945.xml', 'Q1018359.xml', 'Q362426.xml', 'Q1241758.xml', 'Q1061482.xml', 'Q299588.xml', 'Q1327485.xml', 'Q1123463.xml', 'Q618169.xml', 'Q63166.xml', 'Q362334.xml', 'Q983399.xml', 'Q456786.xml', 'Q1276420.xml', 'Q1093589.xml', 'Q287757.xml', 'Q967855.xml', 'Q761661.xml', 'Q905289.xml', 'Q463708.xml', 'Q786417.xml', 'Q1329190.xml', 'Q1417958.xml', 'Q1064335.xml', 'Q621776.xml', 'Q538661.xml', 'Q761616.xml', 'Q885172.xml', 'Q676797.xml']
+not in a list
+FILE NAME : Q1012571.xml
+search loop:   stdstring to float or double
+query_expanded:  float ice-cream_soda ice-cream_float double two-base_hit two-bagger 
+list of docs ['Q981563.xml', 'Q1421684.xml', 'Q1387644.xml', 'Q647257.xml', 'Q732465.xml', 'Q406043.xml', 'Q1117481.xml', 'Q1041342.xml', 'Q695505.xml', 'Q1419077.xml', 'Q1225637.xml', 'Q715234.xml', 'Q1297914.xml', 'Q192649.xml', 'Q774245.xml', 'Q834378.xml', 'Q273524.xml', 'Q691773.xml', 'Q228912.xml', 'Q1155513.xml', 'Q1332110.xml', 'Q1110658.xml', 'Q1356029.xml', 'Q842935.xml', 'Q108518.xml', 'Q114238.xml', 'Q1313073.xml', 'Q898076.xml', 'Q116894.xml', 'Q133886.xml', 'Q896786.xml', 'Q1055108.xml', 'Q17333.xml', 'Q245740.xml', 'Q1166317.xml', 'Q1260040.xml', 'Q1418141.xml', 'Q808403.xml', 'Q667302.xml', 'Q1051089.xml', 'Q493973.xml', 'Q891934.xml', 'Q1129519.xml', 'Q930323.xml', 'Q471946.xml', 'Q1215342.xml', 'Q1211802.xml', 'Q399114.xml', 'Q1408056.xml', 'Q485525.xml']
+not in a list
+FILE NAME : Q464543.xml
+search loop:   unit testing for an application server
+query_expanded:  unit_of_measurement unit social_unit testing examination test application practical_application coating waiter server host 
+list of docs ['Q914000.xml', 'Q671503.xml', 'Q1088077.xml', 'Q1107858.xml', 'Q455904.xml', 'Q1122192.xml', 'Q464543.xml', 'Q1173767.xml', 'Q510821.xml', 'Q1441899.xml', 'Q340128.xml', 'Q347812.xml', 'Q87610.xml', 'Q193469.xml', 'Q634485.xml', 'Q971409.xml', 'Q1365279.xml', 'Q92928.xml', 'Q423483.xml', 'Q261829.xml', 'Q693206.xml', 'Q1468960.xml', 'Q244845.xml', 'Q809564.xml', 'Q411218.xml', 'Q236156.xml', 'Q119414.xml', 'Q342037.xml', 'Q1111376.xml', 'Q1283147.xml', 'Q281037.xml', 'Q91384.xml', 'Q387272.xml', 'Q1116018.xml', 'Q1025134.xml', 'Q124108.xml', 'Q739539.xml', 'Q1149244.xml', 'Q964123.xml', 'Q221482.xml', 'Q11060.xml', 'Q91683.xml', 'Q720838.xml', 'Q860923.xml', 'Q384036.xml', 'Q3150.xml', 'Q387894.xml', 'Q1279032.xml', 'Q1077920.xml', 'Q1368255.xml']
+The index of file name is: 6
+FILE NAME : Q158836.xml
+search loop:   Random element in a map
+query_expanded:  random component constituent element map function mathematical_function 
+list of docs ['Q529831.xml', 'Q1332527.xml', 'Q535317.xml', 'Q1282994.xml', 'Q614012.xml', 'Q1016191.xml', 'Q1456617.xml', 'Q577330.xml', 'Q1202251.xml', 'Q1152470.xml', 'Q882855.xml', 'Q865666.xml', 'Q288034.xml', 'Q1059330.xml', 'Q181693.xml', 'Q976882.xml', 'Q693880.xml', 'Q962619.xml', 'Q151046.xml', 'Q158836.xml', 'Q644170.xml', 'Q1080393.xml', 'Q352670.xml', 'Q703503.xml', 'Q922256.xml', 'Q1238191.xml', 'Q59825.xml', 'Q1239751.xml', 'Q713309.xml', 'Q765228.xml', 'Q847967.xml', 'Q790860.xml', 'Q350519.xml', 'Q1435004.xml', 'Q1033089.xml', 'Q891750.xml', 'Q701402.xml', 'Q698655.xml', 'Q181975.xml', 'Q641864.xml', 'Q422991.xml', 'Q1218922.xml', 'Q1271317.xml', 'Q1269819.xml', 'Q238008.xml', 'Q1402483.xml', 'Q306400.xml', 'Q1217780.xml', 'Q1423003.xml', 'Q62340.xml']
+The index of file name is: 19
+FILE NAME : Q999699.xml
+search loop:   Thread Safe Data and Thread Safe Containers
+query_expanded:  thread yarn ribbon safe condom rubber data information datum train_of_thought screw_thread weave safety prophylactic dependable container 
+list of docs ['Q1362110.xml', 'Q1115420.xml', 'Q515587.xml', 'Q820526.xml', 'Q743669.xml', 'Q724347.xml', 'Q1099513.xml', 'Q362260.xml', 'Q114211.xml', 'Q1151100.xml', 'Q796099.xml', 'Q1397977.xml', 'Q1137116.xml', 'Q999699.xml', 'Q362113.xml', 'Q717148.xml', 'Q1270927.xml', 'Q222916.xml', 'Q692438.xml', 'Q436013.xml', 'Q1131430.xml', 'Q329061.xml', 'Q271939.xml', 'Q1404717.xml', 'Q962323.xml', 'Q248421.xml', 'Q1052168.xml', 'Q681725.xml', 'Q680097.xml', 'Q1411230.xml', 'Q1435541.xml', 'Q174449.xml', 'Q502640.xml', 'Q1185117.xml', 'Q441814.xml', 'Q524495.xml', 'Q982682.xml', 'Q272479.xml', 'Q916282.xml', 'Q742882.xml', 'Q108047.xml', 'Q846015.xml', 'Q696308.xml', 'Q932823.xml', 'Q790553.xml', 'Q1251167.xml', 'Q956314.xml', 'Q164496.xml', 'Q1311321.xml', 'Q898432.xml']
+The index of file name is: 13
+FILE NAME : Q1299272.xml
+search loop:   Difference between code generated using a template function and a normal function
+query_expanded:  difference deviation divergence code codification computer_code generate bring_forth render exploitation victimization victimisation template templet guide function mathematical_function single-valued_function convention normal pattern map mapping purpose 
+list of docs ['Q159720.xml', 'Q748881.xml', 'Q1233400.xml', 'Q317963.xml', 'Q1174984.xml', 'Q823141.xml', 'Q217881.xml', 'Q935378.xml', 'Q477237.xml', 'Q1118482.xml', 'Q577330.xml', 'Q978739.xml', 'Q1081811.xml', 'Q77996.xml', 'Q809362.xml', 'Q1410063.xml', 'Q1301346.xml', 'Q125192.xml', 'Q659415.xml', 'Q256220.xml', 'Q875479.xml', 'Q353632.xml', 'Q350419.xml', 'Q1415913.xml', 'Q1150289.xml', 'Q1248812.xml', 'Q450866.xml', 'Q692752.xml', 'Q985309.xml', 'Q949862.xml', 'Q1319895.xml', 'Q795827.xml', 'Q1176427.xml', 'Q764824.xml', 'Q755783.xml', 'Q53162.xml', 'Q1240229.xml', 'Q77552.xml', 'Q397148.xml', 'Q1312940.xml', 'Q166356.xml', 'Q430759.xml', 'Q112564.xml', 'Q266501.xml', 'Q53786.xml', 'Q1301689.xml', 'Q167923.xml', 'Q1413256.xml', 'Q1444528.xml', 'Q434583.xml']
+not in a list
+FILE NAME : Q1268984.xml
+search loop:   Python http proxy library based on libevent or comparable technology
+query_expanded:  python Python hypertext_transfer_protocol HTTP proxy placeholder procurator library depository_library program_library establish base ground comparable corresponding like technology engineering engineering_science 
+list of docs ['Q987802.xml', 'Q989739.xml', 'Q1426779.xml', 'Q1327485.xml', 'Q1057768.xml', 'Q1293518.xml', 'Q223356.xml', 'Q1170290.xml', 'Q716540.xml', 'Q1303954.xml', 'Q149500.xml', 'Q777924.xml', 'Q409354.xml', 'Q475216.xml', 'Q972895.xml', 'Q1216591.xml', 'Q432080.xml', 'Q1282368.xml', 'Q1291179.xml', 'Q847032.xml', 'Q1130857.xml', 'Q77086.xml', 'Q373406.xml', 'Q1344884.xml', 'Q87522.xml', 'Q454443.xml', 'Q148853.xml', 'Q872695.xml', 'Q869586.xml', 'Q1389385.xml', 'Q688766.xml', 'Q1422969.xml', 'Q1407016.xml', 'Q328041.xml', 'Q440036.xml', 'Q378441.xml', 'Q1453264.xml', 'Q261638.xml', 'Q1020775.xml', 'Q793501.xml', 'Q1168565.xml', 'Q82599.xml', 'Q1068212.xml', 'Q206855.xml', 'Q732222.xml', 'Q858149.xml', 'Q932069.xml', 'Q603856.xml', 'Q1078939.xml', 'Q843392.xml']
+not in a list
+FILE NAME : Q351806.xml
+search loop:   Where is the Dont Fragment Bit of the IP Flags used
+query_expanded:  fragment shard sherd spot bit chip information_science informatics information_processing flag masthead iris use utilize utilise 
+list of docs ['Q973439.xml', 'Q351806.xml', 'Q610356.xml', 'Q588859.xml', 'Q314909.xml', 'Q344101.xml', 'Q1417958.xml', 'Q1035799.xml', 'Q777188.xml', 'Q187057.xml', 'Q894389.xml', 'Q1060938.xml', 'Q662440.xml', 'Q1037164.xml', 'Q456786.xml', 'Q456926.xml', 'Q524028.xml', 'Q718316.xml', 'Q813943.xml', 'Q804336.xml', 'Q1167434.xml', 'Q1148885.xml', 'Q1277534.xml', 'Q1148854.xml', 'Q749359.xml', 'Q156278.xml', 'Q741834.xml', 'Q1364733.xml', 'Q536314.xml', 'Q976639.xml', 'Q1345632.xml', 'Q632730.xml', 'Q1134050.xml', 'Q223314.xml', 'Q547011.xml', 'Q729354.xml', 'Q252297.xml', 'Q908550.xml', 'Q1148636.xml', 'Q796175.xml', 'Q747959.xml', 'Q441814.xml', 'Q1268050.xml', 'Q1305502.xml', 'Q1290752.xml', 'Q1409701.xml', 'Q508183.xml', 'Q1303118.xml', 'Q1265599.xml', 'Q1188163.xml']
+The index of file name is: 1
+FILE NAME : Q1372150.xml
+search loop:   Linux IDE with proper support for STL debugging
+query_expanded:  Linux proper right support reinforcement reenforcement debug 
+list of docs ['Q1417809.xml', 'Q927279.xml', 'Q631969.xml', 'Q1027988.xml', 'Q402598.xml', 'Q540800.xml', 'Q608584.xml', 'Q622339.xml', 'Q1137033.xml', 'Q1365830.xml', 'Q440585.xml', 'Q320124.xml', 'Q868853.xml', 'Q147650.xml', 'Q718126.xml', 'Q986631.xml', 'Q914833.xml', 'Q248104.xml', 'Q467060.xml', 'Q81194.xml', 'Q1343192.xml', 'Q15635.xml', 'Q77522.xml', 'Q1440767.xml', 'Q1177457.xml', 'Q521972.xml', 'Q747310.xml', 'Q1043528.xml', 'Q850062.xml', 'Q1389838.xml', 'Q1334284.xml', 'Q1229441.xml', 'Q67015.xml', 'Q936218.xml', 'Q1101272.xml', 'Q164693.xml', 'Q959338.xml', 'Q270527.xml', 'Q1037662.xml', 'Q947742.xml', 'Q436400.xml', 'Q1314821.xml', 'Q276543.xml', 'Q315165.xml', 'Q379581.xml', 'Q764555.xml', 'Q817407.xml', 'Q1183700.xml', 'Q59331.xml', 'Q1467067.xml']
+not in a list
+FILE NAME : Q343437.xml
+search loop:   Memcached client for Windows in C or C
+query_expanded:  client customer node Windows window windowpane degree_centigrade degree_Celsius C speed_of_light light_speed c 
+list of docs ['Q429141.xml', 'Q402314.xml', 'Q956546.xml', 'Q140347.xml', 'Q953454.xml', 'Q423181.xml', 'Q736345.xml', 'Q1241813.xml', 'Q894864.xml', 'Q431470.xml', 'Q148003.xml', 'Q866737.xml', 'Q99623.xml', 'Q696580.xml', 'Q615551.xml', 'Q785503.xml', 'Q803623.xml', 'Q184777.xml', 'Q1372720.xml', 'Q432361.xml', 'Q734674.xml', 'Q151846.xml', 'Q1201179.xml', 'Q878143.xml', 'Q100304.xml', 'Q1433826.xml', 'Q330348.xml', 'Q523894.xml', 'Q1334989.xml', 'Q916259.xml', 'Q1418506.xml', 'Q1048782.xml', 'Q210939.xml', 'Q1221244.xml', 'Q838511.xml', 'Q117792.xml', 'Q1145220.xml', 'Q1469860.xml', 'Q309006.xml', 'Q127514.xml', 'Q1453392.xml', 'Q856715.xml', 'Q842843.xml', 'Q1021411.xml', 'Q974250.xml', 'Q982912.xml', 'Q1052992.xml', 'Q1450892.xml', 'Q1360163.xml', 'Q1460722.xml']
+not in a list
+FILE NAME : Q75432.xml
+search loop:   How can I prevent URLDownloadToFile from retrieving from the cache
+query_expanded:  prevent forestall foreclose recover retrieve find cache hoard stash 
+list of docs ['Q147298.xml', 'Q881676.xml', 'Q655202.xml', 'Q1462078.xml', 'Q705855.xml', 'Q1265338.xml', 'Q757059.xml', 'Q1094215.xml', 'Q559701.xml', 'Q733971.xml', 'Q75432.xml', 'Q1385172.xml', 'Q942574.xml', 'Q213483.xml', 'Q621776.xml', 'Q1174075.xml', 'Q213455.xml', 'Q454337.xml', 'Q987876.xml', 'Q942399.xml', 'Q527887.xml', 'Q559436.xml', 'Q152097.xml', 'Q17117.xml', 'Q1392604.xml', 'Q306901.xml', 'Q1381078.xml', 'Q1372967.xml', 'Q50568.xml', 'Q1468634.xml', 'Q1075147.xml', 'Q1072649.xml', 'Q477427.xml', 'Q763184.xml', 'Q930578.xml', 'Q832295.xml', 'Q1128924.xml', 'Q724096.xml', 'Q69979.xml', 'Q815110.xml', 'Q400191.xml', 'Q1308542.xml', 'Q1320444.xml', 'Q321377.xml', 'Q1408272.xml', 'Q1406643.xml', 'Q1142133.xml', 'Q984141.xml', 'Q779791.xml', 'Q1151658.xml']
+The index of file name is: 10
+FILE NAME : Q285372.xml
+search loop:   automatic class templates
+query_expanded:  automatic_rifle automatic machine_rifle class category family template templet guide 
+list of docs ['Q1444222.xml', 'Q1451963.xml', 'Q259634.xml', 'Q705880.xml', 'Q1305632.xml', 'Q1161618.xml', 'Q796466.xml', 'Q1463153.xml', 'Q883109.xml', 'Q327807.xml', 'Q1469743.xml', 'Q1292081.xml', 'Q1037388.xml', 'Q58622.xml', 'Q768250.xml', 'Q242926.xml', 'Q1256213.xml', 'Q455434.xml', 'Q87317.xml', 'Q590217.xml', 'Q613807.xml', 'Q29562.xml', 'Q597058.xml', 'Q350799.xml', 'Q853184.xml', 'Q985543.xml', 'Q1296938.xml', 'Q270745.xml', 'Q797771.xml', 'Q1439172.xml', 'Q627319.xml', 'Q1193909.xml', 'Q1053344.xml', 'Q871300.xml', 'Q622017.xml', 'Q956820.xml', 'Q1382569.xml', 'Q858916.xml', 'Q165386.xml', 'Q1118272.xml', 'Q401118.xml', 'Q914000.xml', 'Q415407.xml', 'Q1014591.xml', 'Q1221878.xml', 'Q95890.xml', 'Q30099.xml', 'Q848269.xml', 'Q1318960.xml', 'Q215542.xml']
+not in a list
+FILE NAME : Q1253307.xml
+search loop:   Creating planar shadows with 4x3 matrices
+query_expanded:  make create produce planar two-dimensional shadow darkness dark matrix intercellular_substance ground_substance 
+list of docs ['Q1212859.xml', 'Q1253307.xml', 'Q573487.xml', 'Q256297.xml', 'Q903853.xml', 'Q936687.xml', 'Q957838.xml', 'Q152745.xml', 'Q55532.xml', 'Q702647.xml', 'Q198051.xml', 'Q696874.xml', 'Q972705.xml', 'Q727066.xml', 'Q528559.xml', 'Q744750.xml', 'Q1123215.xml', 'Q55093.xml', 'Q637564.xml', 'Q349446.xml', 'Q919353.xml', 'Q365782.xml', 'Q923111.xml', 'Q508657.xml', 'Q527887.xml', 'Q1058434.xml', 'Q272030.xml', 'Q1435004.xml', 'Q1025348.xml', 'Q758673.xml', 'Q397420.xml', 'Q118370.xml', 'Q1353421.xml', 'Q414243.xml', 'Q691194.xml', 'Q856948.xml', 'Q722555.xml', 'Q681746.xml', 'Q340943.xml', 'Q308279.xml', 'Q579806.xml', 'Q432080.xml', 'Q1180069.xml', 'Q581426.xml', 'Q1355202.xml', 'Q477452.xml', 'Q799767.xml', 'Q1285457.xml', 'Q1423566.xml', 'Q1419681.xml']
+The index of file name is: 1
+FILE NAME : Q699325.xml
+search loop:   Suppress output in Python calls to executables
+query_expanded:  suppress stamp_down inhibit end_product output yield python Python call phone_call telephone_call 
+list of docs ['Q1462878.xml', 'Q191644.xml', 'Q370075.xml', 'Q1298316.xml', 'Q502.xml', 'Q231767.xml', 'Q142812.xml', 'Q1451304.xml', 'Q590007.xml', 'Q822001.xml', 'Q1312940.xml', 'Q839636.xml', 'Q440063.xml', 'Q1347085.xml', 'Q1087019.xml', 'Q607375.xml', 'Q374626.xml', 'Q1270518.xml', 'Q1306670.xml', 'Q1308542.xml', 'Q1475415.xml', 'Q1277278.xml', 'Q44352.xml', 'Q608951.xml', 'Q1264319.xml', 'Q604622.xml', 'Q533905.xml', 'Q364802.xml', 'Q809807.xml', 'Q169070.xml', 'Q874461.xml', 'Q910733.xml', 'Q238102.xml', 'Q134834.xml', 'Q961848.xml', 'Q214881.xml', 'Q1133371.xml', 'Q604721.xml', 'Q787803.xml', 'Q243865.xml', 'Q353152.xml', 'Q653259.xml', 'Q1161582.xml', 'Q1286235.xml', 'Q122033.xml', 'Q1173310.xml', 'Q685046.xml', 'Q28559.xml', 'Q104420.xml', 'Q712460.xml']
+not in a list
+FILE NAME : Q983762.xml
+search loop:   Fully Featured C Assert Dialog
+query_expanded:  fully to_the_full full have feature sport degree_centigrade degree_Celsius C assert asseverate maintain dialogue dialog duologue 
+list of docs ['Q780152.xml', 'Q1250991.xml', 'Q725046.xml', 'Q1063156.xml', 'Q1398763.xml', 'Q983762.xml', 'Q701390.xml', 'Q1454058.xml', 'Q484834.xml', 'Q1068092.xml', 'Q104009.xml', 'Q528409.xml', 'Q213256.xml', 'Q301626.xml', 'Q56145.xml', 'Q1180346.xml', 'Q39525.xml', 'Q92565.xml', 'Q1002998.xml', 'Q1465549.xml', 'Q402832.xml', 'Q657511.xml', 'Q172653.xml', 'Q1108709.xml', 'Q1027503.xml', 'Q301555.xml', 'Q1164868.xml', 'Q922204.xml', 'Q258438.xml', 'Q735170.xml', 'Q932315.xml', 'Q1436300.xml', 'Q1192405.xml', 'Q1171365.xml', 'Q584734.xml', 'Q1286363.xml', 'Q486087.xml', 'Q274066.xml', 'Q711603.xml', 'Q391125.xml', 'Q260040.xml', 'Q1132453.xml', 'Q482745.xml', 'Q535317.xml', 'Q1276890.xml', 'Q618204.xml', 'Q14491.xml', 'Q1409485.xml', 'Q1109922.xml', 'Q135634.xml']
+The index of file name is: 5
+FILE NAME : Q1430166.xml
+search loop:   Vector Ranges in C
+query_expanded:  vector transmitter scope range reach degree_centigrade degree_Celsius C 
+list of docs ['Q1189179.xml', 'Q1239938.xml', 'Q476304.xml', 'Q1166029.xml', 'Q1329181.xml', 'Q1355202.xml', 'Q1033130.xml', 'Q47901.xml', 'Q1211164.xml', 'Q369211.xml', 'Q1215033.xml', 'Q631145.xml', 'Q1202183.xml', 'Q1328223.xml', 'Q728960.xml', 'Q652283.xml', 'Q994729.xml', 'Q1110523.xml', 'Q39912.xml', 'Q1437816.xml', 'Q379383.xml', 'Q1128535.xml', 'Q618511.xml', 'Q356002.xml', 'Q732829.xml', 'Q556064.xml', 'Q1350528.xml', 'Q981186.xml', 'Q375598.xml', 'Q1474790.xml', 'Q799314.xml', 'Q469477.xml', 'Q1453333.xml', 'Q573649.xml', 'Q771453.xml', 'Q756848.xml', 'Q773414.xml', 'Q1239557.xml', 'Q650232.xml', 'Q139325.xml', 'Q589208.xml', 'Q158836.xml', 'Q313432.xml', 'Q262000.xml', 'Q922360.xml', 'Q248400.xml', 'Q483919.xml', 'Q181693.xml', 'Q201718.xml', 'Q592763.xml']
+not in a list
+FILE NAME : Q1398855.xml
+search loop:   Which one will be faster
+query_expanded:  one 1 I fast debauched degenerate 
+list of docs ['Q1388136.xml', 'Q597078.xml', 'Q1423560.xml', 'Q1072649.xml', 'Q816463.xml', 'Q371465.xml', 'Q1058410.xml', 'Q351360.xml', 'Q1412210.xml', 'Q898076.xml', 'Q245742.xml', 'Q404232.xml', 'Q621635.xml', 'Q496226.xml', 'Q860893.xml', 'Q328107.xml', 'Q1055208.xml', 'Q1047403.xml', 'Q1286662.xml', 'Q1354204.xml', 'Q989848.xml', 'Q1316887.xml', 'Q1109804.xml', 'Q873976.xml', 'Q177284.xml', 'Q775161.xml', 'Q1247129.xml', 'Q863935.xml', 'Q894163.xml', 'Q1045183.xml', 'Q407734.xml', 'Q546596.xml', 'Q865973.xml', 'Q311297.xml', 'Q1340729.xml', 'Q1066758.xml', 'Q331937.xml', 'Q1377429.xml', 'Q968435.xml', 'Q102394.xml', 'Q187273.xml', 'Q938518.xml', 'Q405352.xml', 'Q373459.xml', 'Q991350.xml', 'Q1151777.xml', 'Q136175.xml', 'Q262232.xml', 'Q912256.xml', 'Q324214.xml']
+not in a list
+FILE NAME : Q1096207.xml
+search loop:   C Replacing part of string using iterators is not working
+query_expanded:  degree_centigrade degree_Celsius C replacement replacing replace part portion component_part string twine bowed_stringed_instrument exploitation victimization victimisation working workings work 
+list of docs ['Q1163465.xml', 'Q1248812.xml', 'Q708762.xml', 'Q860468.xml', 'Q581209.xml', 'Q1260757.xml', 'Q379306.xml', 'Q1236971.xml', 'Q909886.xml', 'Q96414.xml', 'Q1409729.xml', 'Q1119443.xml', 'Q1117041.xml', 'Q355006.xml', 'Q1010670.xml', 'Q1318001.xml', 'Q153354.xml', 'Q1288489.xml', 'Q1116721.xml', 'Q1124129.xml', 'Q286677.xml', 'Q1236540.xml', 'Q425990.xml', 'Q708008.xml', 'Q372094.xml', 'Q1265821.xml', 'Q290488.xml', 'Q1369664.xml', 'Q778093.xml', 'Q1339922.xml', 'Q152436.xml', 'Q203189.xml', 'Q1370770.xml', 'Q1407021.xml', 'Q1026966.xml', 'Q747348.xml', 'Q802717.xml', 'Q1054849.xml', 'Q514767.xml', 'Q1448292.xml', 'Q1395593.xml', 'Q250394.xml', 'Q1229433.xml', 'Q49137.xml', 'Q1328434.xml', 'Q1471567.xml', 'Q772192.xml', 'Q936381.xml', 'Q960836.xml', 'Q824988.xml']
+not in a list
+FILE NAME : Q662084.xml
+search loop:   Whats the difference between the WIN32 and WIN32 defines in C
+query_expanded:  difference deviation divergence specify define delineate degree_centigrade degree_Celsius C 
+list of docs ['Q1229786.xml', 'Q1174984.xml', 'Q317963.xml', 'Q224397.xml', 'Q1186031.xml', 'Q795827.xml', 'Q1415913.xml', 'Q477237.xml', 'Q1444528.xml', 'Q1366775.xml', 'Q809362.xml', 'Q1144088.xml', 'Q1118482.xml', 'Q119114.xml', 'Q136946.xml', 'Q1419087.xml', 'Q1416094.xml', 'Q172587.xml', 'Q171862.xml', 'Q1083959.xml', 'Q1312132.xml', 'Q53786.xml', 'Q1014538.xml', 'Q286105.xml', 'Q92859.xml', 'Q189921.xml', 'Q879664.xml', 'Q1183210.xml', 'Q271076.xml', 'Q220423.xml', 'Q283977.xml', 'Q1440901.xml', 'Q1116735.xml', 'Q301586.xml', 'Q111630.xml', 'Q785230.xml', 'Q404169.xml', 'Q184537.xml', 'Q823141.xml', 'Q74451.xml', 'Q98944.xml', 'Q682434.xml', 'Q1137575.xml', 'Q624854.xml', 'Q1193138.xml', 'Q1280178.xml', 'Q1210072.xml', 'Q636829.xml', 'Q1166729.xml', 'Q1107149.xml']
+not in a list
+FILE NAME : Q204167.xml
+search loop:   How to get folder sharing on Windows Mobile emulator to work
+query_expanded:  get acquire become booklet brochure folder sharing communion share-out Windows window windowpane Mobile Mobile_River mobile copycat imitator emulator work piece_of_work employment 
+list of docs ['Q1440537.xml', 'Q60446.xml', 'Q204167.xml', 'Q173298.xml', 'Q180277.xml', 'Q173484.xml', 'Q816212.xml', 'Q1342299.xml', 'Q1310272.xml', 'Q562313.xml', 'Q829985.xml', 'Q621255.xml', 'Q803161.xml', 'Q761023.xml', 'Q913738.xml', 'Q974250.xml', 'Q165984.xml', 'Q338768.xml', 'Q74696.xml', 'Q891069.xml', 'Q1255227.xml', 'Q1047121.xml', 'Q45658.xml', 'Q405673.xml', 'Q1313164.xml', 'Q1132023.xml', 'Q290139.xml', 'Q1366973.xml', 'Q832306.xml', 'Q44821.xml', 'Q349835.xml', 'Q377956.xml', 'Q728602.xml', 'Q1420825.xml', 'Q278149.xml', 'Q997325.xml', 'Q1076933.xml', 'Q1119574.xml', 'Q415879.xml', 'Q256719.xml', 'Q247093.xml', 'Q164427.xml', 'Q864887.xml', 'Q708484.xml', 'Q1011520.xml', 'Q545504.xml', 'Q464675.xml', 'Q1373432.xml', 'Q1475662.xml', 'Q251506.xml']
+The index of file name is: 2
+FILE NAME : Q32404.xml
+search loop:   How do you run a Python script as a service in Windows
+query_expanded:  run tally test python Python script book playscript service religious_service divine_service Windows window windowpane 
+list of docs ['Q954834.xml', 'Q32404.xml', 'Q1295446.xml', 'Q783531.xml', 'Q877033.xml', 'Q34328.xml', 'Q1002064.xml', 'Q1418082.xml', 'Q1031705.xml', 'Q488366.xml', 'Q365058.xml', 'Q1301149.xml', 'Q764631.xml', 'Q1129678.xml', 'Q446218.xml', 'Q833062.xml', 'Q1332853.xml', 'Q204062.xml', 'Q165495.xml', 'Q860428.xml', 'Q1000900.xml', 'Q716524.xml', 'Q510821.xml', 'Q792816.xml', 'Q1186789.xml', 'Q153221.xml', 'Q1168517.xml', 'Q383738.xml', 'Q564829.xml', 'Q273060.xml', 'Q1198067.xml', 'Q445595.xml', 'Q418039.xml', 'Q2933.xml', 'Q785503.xml', 'Q213798.xml', 'Q779675.xml', 'Q1454058.xml', 'Q95950.xml', 'Q476668.xml', 'Q568028.xml', 'Q785667.xml', 'Q874757.xml', 'Q118260.xml', 'Q224225.xml', 'Q1301352.xml', 'Q279094.xml', 'Q488449.xml', 'Q906660.xml', 'Q1112784.xml']
+The index of file name is: 1
+FILE NAME : Q922323.xml
+search loop:   How do I deactivate an egg
+query_expanded:  deactivate inactivate egg eggs testis 
+list of docs ['Q1108384.xml', 'Q47953.xml', 'Q737383.xml', 'Q49164.xml', 'Q769766.xml', 'Q1384717.xml', 'Q860169.xml', 'Q922323.xml', 'Q1187110.xml', 'Q659575.xml', 'Q215267.xml', 'Q177910.xml', 'Q1007488.xml', 'Q451952.xml', 'Q194339.xml', 'Q1120758.xml', 'Q935111.xml', 'Q1301689.xml', 'Q752482.xml', 'Q873577.xml', 'Q1151256.xml', 'Q1304122.xml', 'Q1106759.xml', 'Q282907.xml', 'Q1299013.xml', 'Q368636.xml', 'Q624671.xml', 'Q345746.xml', 'Q990754.xml', 'Q857072.xml', 'Q193161.xml', 'Q1468476.xml', 'Q672881.xml', 'Q527510.xml', 'Q160834.xml', 'Q1117066.xml', 'Q934602.xml', 'Q1451390.xml', 'Q1416882.xml', 'Q458311.xml', 'Q598299.xml', 'Q922897.xml', 'Q256417.xml', 'Q1264447.xml', 'Q545730.xml', 'Q1329190.xml', 'Q343517.xml', 'Q1416005.xml', 'Q1299849.xml', 'Q268015.xml']
+The index of file name is: 7
+FILE NAME : Q461236.xml
+search loop:   How to cast a pointer in C
+query_expanded:  cast cast_of_characters dramatis_personae arrow pointer cursor degree_centigrade degree_Celsius C 
+list of docs ['Q739870.xml', 'Q326922.xml', 'Q461236.xml', 'Q851587.xml', 'Q1347280.xml', 'Q1276847.xml', 'Q1325518.xml', 'Q492377.xml', 'Q640389.xml', 'Q1472019.xml', 'Q1060305.xml', 'Q518708.xml', 'Q914567.xml', 'Q1033169.xml', 'Q1413851.xml', 'Q1371710.xml', 'Q210939.xml', 'Q832284.xml', 'Q1238613.xml', 'Q933941.xml', 'Q1039627.xml', 'Q1044073.xml', 'Q1304736.xml', 'Q472791.xml', 'Q1229751.xml', 'Q650646.xml', 'Q221346.xml', 'Q1282295.xml', 'Q1138071.xml', 'Q874433.xml', 'Q1169745.xml', 'Q893053.xml', 'Q494163.xml', 'Q1425648.xml', 'Q504635.xml', 'Q1066183.xml', 'Q1148169.xml', 'Q248104.xml', 'Q195842.xml', 'Q350586.xml', 'Q1001522.xml', 'Q1294649.xml', 'Q828139.xml', 'Q465605.xml', 'Q1315465.xml', 'Q47538.xml', 'Q209148.xml', 'Q1229318.xml', 'Q721089.xml', 'Q421618.xml']
+The index of file name is: 2
+FILE NAME : Q1173962.xml
+search loop:   Run Code Before Every Function Call for a Class in C
+query_expanded:  run tally test code codification computer_code every function mathematical_function single-valued_function call phone_call telephone_call class category family degree_centigrade degree_Celsius C 
+list of docs ['Q686300.xml', 'Q1463153.xml', 'Q1439172.xml', 'Q434700.xml', 'Q347574.xml', 'Q259634.xml', 'Q347109.xml', 'Q1168517.xml', 'Q1193909.xml', 'Q1006189.xml', 'Q1274047.xml', 'Q87794.xml', 'Q894881.xml', 'Q1166507.xml', 'Q647704.xml', 'Q1305632.xml', 'Q1069.xml', 'Q963158.xml', 'Q36901.xml', 'Q590217.xml', 'Q242926.xml', 'Q1116018.xml', 'Q221482.xml', 'Q1068246.xml', 'Q1256213.xml', 'Q1281329.xml', 'Q415407.xml', 'Q1087255.xml', 'Q115115.xml', 'Q394900.xml', 'Q549983.xml', 'Q244492.xml', 'Q1016197.xml', 'Q797771.xml', 'Q406081.xml', 'Q177389.xml', 'Q1301149.xml', 'Q708527.xml', 'Q145607.xml', 'Q1421502.xml', 'Q1338921.xml', 'Q61605.xml', 'Q955986.xml', 'Q449827.xml', 'Q423404.xml', 'Q871300.xml', 'Q971409.xml', 'Q1087088.xml', 'Q536370.xml', 'Q735299.xml']
+not in a list
+FILE NAME : Q1468780.xml
+search loop:   What networking librariesframeworks exist for Python
+query_expanded:  network exist be survive python Python 
+list of docs ['Q1135499.xml', 'Q249785.xml', 'Q837256.xml', 'Q1158084.xml', 'Q5313.xml', 'Q1170731.xml', 'Q1046873.xml', 'Q385572.xml', 'Q818752.xml', 'Q491380.xml', 'Q85577.xml', 'Q271825.xml', 'Q159137.xml', 'Q280324.xml', 'Q1271317.xml', 'Q148853.xml', 'Q1057449.xml', 'Q1209092.xml', 'Q632730.xml', 'Q409354.xml', 'Q379442.xml', 'Q1253905.xml', 'Q377556.xml', 'Q691045.xml', 'Q986594.xml', 'Q568271.xml', 'Q990102.xml', 'Q1173767.xml', 'Q859594.xml', 'Q543196.xml', 'Q207234.xml', 'Q1117958.xml', 'Q68774.xml', 'Q254635.xml', 'Q604078.xml', 'Q1309370.xml', 'Q324803.xml', 'Q1161339.xml', 'Q1241797.xml', 'Q493816.xml', 'Q1155404.xml', 'Q1308879.xml', 'Q940982.xml', 'Q664219.xml', 'Q487229.xml', 'Q788715.xml', 'Q166506.xml', 'Q1298036.xml', 'Q1151771.xml', 'Q881332.xml']
+not in a list
+FILE NAME : Q1185545.xml
+search loop:   Python loop counter in a for loop
+query_expanded:  python Python cringle eyelet loop counter tabulator buffet grommet grummet iteration 
+list of docs ['Q1173310.xml', 'Q418176.xml', 'Q1073396.xml', 'Q323419.xml', 'Q1474646.xml', 'Q160889.xml', 'Q1080734.xml', 'Q19151.xml', 'Q650877.xml', 'Q1208963.xml', 'Q1106433.xml', 'Q1290798.xml', 'Q625507.xml', 'Q1232176.xml', 'Q818828.xml', 'Q1207406.xml', 'Q279561.xml', 'Q1077216.xml', 'Q1185545.xml', 'Q475871.xml', 'Q304117.xml', 'Q225675.xml', 'Q1014396.xml', 'Q926574.xml', 'Q268272.xml', 'Q429414.xml', 'Q860893.xml', 'Q858109.xml', 'Q1224978.xml', 'Q613183.xml', 'Q483666.xml', 'Q266870.xml', 'Q472575.xml', 'Q784124.xml', 'Q521321.xml', 'Q1377429.xml', 'Q967219.xml', 'Q1105014.xml', 'Q543140.xml', 'Q498455.xml', 'Q1047614.xml', 'Q1292189.xml', 'Q1022264.xml', 'Q962361.xml', 'Q795405.xml', 'Q617097.xml', 'Q722697.xml', 'Q1085071.xml', 'Q969285.xml', 'Q869885.xml']
+The index of file name is: 18
+FILE NAME : Q497952.xml
+search loop:   How to make python gracefully fail
+query_expanded:  brand make shuffle python Python gracefully graciously fail neglect go_wrong 
+list of docs ['Q976882.xml', 'Q58119.xml', 'Q497952.xml', 'Q695505.xml', 'Q1022141.xml', 'Q473973.xml', 'Q719886.xml', 'Q655856.xml', 'Q388069.xml', 'Q85985.xml', 'Q1330498.xml', 'Q790860.xml', 'Q798854.xml', 'Q1415608.xml', 'Q503462.xml', 'Q196522.xml', 'Q584599.xml', 'Q922256.xml', 'Q515149.xml', 'Q1161810.xml', 'Q1320401.xml', 'Q1086014.xml', 'Q1340950.xml', 'Q1424593.xml', 'Q209888.xml', 'Q869229.xml', 'Q684171.xml', 'Q389180.xml', 'Q441864.xml', 'Q1355918.xml', 'Q421223.xml', 'Q1121002.xml', 'Q615100.xml', 'Q151929.xml', 'Q1086241.xml', 'Q49824.xml', 'Q890420.xml', 'Q796319.xml', 'Q335096.xml', 'Q1027990.xml', 'Q852334.xml', 'Q1035666.xml', 'Q540427.xml', 'Q130763.xml', 'Q1254028.xml', 'Q374768.xml', 'Q1079693.xml', 'Q1078166.xml', 'Q984244.xml', 'Q146522.xml']
+The index of file name is: 2
+
+Average position after query expansion: 35.08
+
