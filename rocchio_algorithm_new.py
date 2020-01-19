@@ -241,7 +241,7 @@ if __name__ == '__main__':
 
     # Create a searcher for the above defined Directory
     searcher = IndexSearcher(DirectoryReader.open(directory))
-    searcher.setSimilarity(ClassicSimilarity())
+    searcher.setSimilarity(BM25Similarity())
     # Create a new retrieving analyzer
     analyzer = StandardAnalyzer()
     search_loop(searcher, analyzer)
